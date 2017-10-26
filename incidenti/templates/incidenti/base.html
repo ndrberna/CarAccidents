@@ -1,0 +1,202 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Incidenti a Roma</title>
+
+	<!-- Global stylesheets -->
+
+	
+	<link href="{% static "css/css.css"%}" rel="stylesheet" type="text/css">
+	<link href="{% static "css/styles.css"%}" rel="stylesheet" type="text/css">
+	<link href="{% static "css/bootstrap.css"%}" rel="stylesheet" type="text/css">
+	<link href="{% static "css/core.css"%}" rel="stylesheet" type="text/css">
+	<link href="{% static "css/components.css"%}" rel="stylesheet" type="text/css">
+
+
+	<link href="{% static "css/colors.css"%}" rel="stylesheet" type="text/css">
+	<!-- /global stylesheets -->
+
+	<!-- Core JS files -->
+	<!-- <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>-->
+	<script type="text/javascript" src="{% static "js/plotly-latest.min.js"%}"></script>
+	<!-- <script type="text/javascript" src="{% static "js/jets.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/pace.js"%}"></script> -->
+	<script type="text/javascript" src="{% static "js/jquery.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/bootstrap.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/blockui.js"%}"></script>
+		<script type="text/javascript" src="{% static "js/echart.js"%}"></script>
+	<!--<script type="text/javascript" src="{% static "js/datatables.min.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/datatables_advanced.js"%}"></script>-->
+	<script type="text/javascript" src="{% static "js/select2.js"%}"></script>
+
+	<!-- /core JS files -->
+
+	<!-- Theme JS files -->
+	<!-- 
+	<script type="text/javascript" src="{% static "js/d3.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/d3_tooltip.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/switchery.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/uniform.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/bootstrap_multiselect.js"%}"></script> -->
+	<!-- <script type="text/javascript" src="js/moment.js"></script>
+	<script type="text/javascript" src="js/daterangepicker.js"></script> -->
+
+	<script type="text/javascript" src="{% static "js/app.js"%}"></script>
+	<!-- <script type="text/javascript" src="js/dashboard.js"></script>-->
+	<script type="text/javascript" src="{% static "js/layout_fixed_native.js"%}"></script>
+	<!-- /theme JS files -->
+
+<script>try {  for(var lastpass_iter=0; lastpass_iter < document.forms.length; lastpass_iter++){    var lastpass_f = document.forms[lastpass_iter];    if(typeof(lastpass_f.lpsubmitorig)=="undefined"){      if (typeof(lastpass_f.submit) == "function") {        lastpass_f.lpsubmitorig = lastpass_f.submit;        lastpass_f.submit = function(){          var form = this;          try {            if (document.documentElement && 'createEvent' in document)            {              var forms = document.getElementsByTagName('form');              for (var i=0 ; i<forms.length ; ++i)                if (forms[i]==form)                {                  var element = document.createElement('lpformsubmitdataelement');                  element.setAttribute('formnum',i);                  element.setAttribute('from','submithook');                  document.documentElement.appendChild(element);                  var evt = document.createEvent('Events');                  evt.initEvent('lpformsubmit',true,false);                  element.dispatchEvent(evt);                  break;                }            }          } catch (e) {}          try {            form.lpsubmitorig();          } catch (e) {}        }      }    }  }} catch (e) {}</script></head>
+
+<body class="navbar-top  pace-done"><div class="pace  pace-inactive"><div data-progress="99" data-progress-text="100%" style="transform: translate3d(100%, 0px, 0px);" class="pace-progress">
+  <div class="pace-progress-inner"></div>
+</div>
+<div class="pace-activity"></div></div>
+
+	<!-- Main navbar -->
+	<div class="navbar navbar-inverse navbar-fixed-top">
+		<div class="navbar-header">
+			<a class="navbar-brand" href="#"></a>
+
+			<ul class="nav navbar-nav visible-xs-block">
+				<li><a data-toggle="collapse" data-target="#navbar-mobile"><i class="icon-tree5"></i></a></li>
+				<li><a class="sidebar-mobile-main-toggle"><i class="icon-paragraph-justify3"></i></a></li>
+			</ul>
+		</div>
+
+		<div class="navbar-collapse collapse" id="navbar-mobile">
+			<ul class="nav navbar-nav">
+				<li><a class="sidebar-control sidebar-main-toggle hidden-xs"><i class="icon-paragraph-justify3"></i></a></li>
+
+				
+			</ul>
+
+			<p class="navbar-text"><span class="label bg-success-400">Online</span></p>
+
+			<ul class="nav navbar-nav navbar-right">
+			
+
+				<li class="dropdown dropdown-user">
+					<a class="dropdown-toggle" data-toggle="dropdown">
+						
+						<span>Admin</span>
+						<i class="caret"></i>
+					</a>
+
+					<ul class="dropdown-menu dropdown-menu-right">
+						<li><a href="#"><i class="icon-user-plus"></i> My profile</a></li>
+						
+						<li><a href="#"><span class="badge bg-teal-400 pull-right">58</span> <i class="icon-comment-discussion"></i> Messages</a></li>
+						<li class="divider"></li>
+						<li><a href="#"><i class="icon-cog5"></i> Account settings</a></li>
+						<li><a href="#"><i class="icon-switch2"></i> Logout</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<!-- /main navbar -->
+
+
+	<!-- Page container -->
+	<div style="min-height:1094px" class="page-container">
+
+		<!-- Page content -->
+		<div class="page-content">
+
+			<!-- Main sidebar -->
+			<div class="sidebar sidebar-main sidebar-fixed affix-top">
+				<div class="sidebar-content">
+
+					<!-- User menu -->
+					<div class="sidebar-user">
+						
+					</div>
+					<!-- /user menu -->
+
+
+					<!-- Main navigation -->
+					<div class="sidebar-category sidebar-category-visible">
+						<div class="category-content no-padding">
+							<ul class="navigation navigation-main navigation-accordion">
+
+								<!-- Main -->
+								<li class="navigation-header"><i data-original-title="Main pages" class="icon-menu" title=""></i></li>
+								
+							
+							
+								
+								<li><a href="statistiche"><i class="icon-width"></i> <span>Statistiche</span></a></li>
+								<!-- /main -->
+
+					
+
+						
+
+							</ul>
+						</div>
+					</div>
+					<!-- /main navigation -->
+
+				</div>
+			</div>
+			<!-- /main sidebar -->
+
+
+			<!-- Main content -->
+			<div class="content-wrapper">
+
+
+
+
+				<!-- Page header -->
+				<div class="page-header">
+					<div class="page-header-content">
+						<div class="page-title">
+							<h4><i class="icon-arrow-left52 position-left"></i> <a href="/" class="text-semibold">Home</a></h4>
+						</div>
+
+						<div class="heading-elements">
+							<div class="heading-btn-group">
+								<a href="#" class="btn btn-link btn-float has-text"><i class="icon-bars-alt text-primary"></i><span>Statistics</span></a>
+								
+								<a href="#" class="btn btn-link btn-float has-text"><i class="icon-calendar5 text-primary"></i> <span>Schedule</span></a>
+							</div>
+						</div>
+					<a class="heading-elements-toggle"><i class="icon-menu"></i></a></div>
+
+
+					{% block breadcrumbs %}
+
+  				    {% endblock %}
+				
+				</div>
+				<!-- /page header -->
+
+
+				<!-- Content area -->
+				{% block content %}
+
+  				{% endblock %}
+				<!-- /content area -->
+
+			</div>
+			<!-- /main content -->
+
+		</div>
+		<!-- /page content -->
+
+	</div>
+	<!-- /page container -->
+	{% block script %}
+
+  			{% endblock %}
+
+</body>
+		
+</html>

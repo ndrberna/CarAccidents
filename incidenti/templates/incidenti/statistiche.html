@@ -1,0 +1,249 @@
+{% extends "incidenti/base.html" %}
+{% load staticfiles %}
+
+
+{% block breadcrumbs %}
+					<div class="breadcrumb-line">
+						<ul class="breadcrumb">
+							<li><a href="/"><i class="icon-home2 position-left"></i>Home</a></li>
+							
+							<li class="active">Statistiche</li>
+						</ul>
+
+						<ul class="breadcrumb-elements">
+							<li><a href="#"><i class="icon-comment-discussion position-left"></i> Support</a></li>
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+									<i class="icon-gear position-left"></i>
+									Settings
+									<span class="caret"></span>
+								</a>
+
+								<ul class="dropdown-menu dropdown-menu-right">
+									<li><a href="#"><i class="icon-user-lock"></i> Account security</a></li>
+									<li><a href="#"><i class="icon-statistics"></i> Analytics</a></li>
+									<li><a href="#"><i class="icon-accessibility"></i> Accessibility</a></li>
+									<li class="divider"></li>
+									<li><a href="#"><i class="icon-gear"></i> All settings</a></li>
+								</ul>
+							</li>
+						</ul>
+					<a class="breadcrumb-elements-toggle"><i class="icon-menu-open"></i></a>
+					</div>
+
+
+{% endblock %}
+
+{% block content %}
+	
+				<!-- Content area -->
+				<div class="content">
+					<h1>Statistiche</h1>
+					<!-- Main charts -->
+				
+					<!-- /main charts -->
+
+
+					<!-- Dashboard content -->
+					
+
+				
+
+
+					<!-- Dashboard content -->
+					<div class="row">
+						<div class="col-lg-8">
+
+						
+
+
+							<!-- Quick stats boxes -->
+							<div class="row">
+								<div class="col-lg-3">
+
+									<!-- Members online -->
+									<div class="panel bg-teal-400">
+										<div class="panel-body">
+											<div class="heading-elements">
+												<span class="heading-text badge bg-teal-800">+53,6%</span>
+											</div>
+
+											<h3 class="no-margin">{{numero_totale}}</h3>
+											Pedoni coinvolti
+											<div class="text-muted text-size-small"></div>
+										</div>
+
+										<div class="container-fluid">
+											
+										</div>
+									</div>
+									<!-- /members online -->
+
+								</div>
+
+								<div class="col-lg-6">
+
+									<!-- Current server load -->
+									<div class="panel bg-pink-400">
+										<div class="panel-body">
+									
+											<h3 class="no-margin">{{feriti}}</h3>
+											Feriti ( ricoverati e prognosi riservata)
+											<div class="text-muted text-size-small"></div>
+										<a class="heading-elements-toggle"><i class="icon-menu"></i></a></div>
+
+										
+									</div>
+									<!-- /current server load -->
+
+								</div>
+
+								<div class="col-lg-3">
+
+									<!-- Today's revenue -->
+									<div class="panel bg-blue-400">
+										<div class="panel-body">
+											<div class="heading-elements">
+												<ul class="icons-list">
+							                		<li><a data-action="reload"></a></li>
+							                	</ul>
+						                	</div>
+
+											<h3 class="no-margin">{{deceduti}}</h3>
+											Morti
+											<div class="text-muted text-size-small"></div>
+										<a class="heading-elements-toggle"><i class="icon-menu"></i></a></div>
+
+										
+									</div>
+									<!-- /today's revenue -->
+
+								</div>
+							</div>
+							<!-- /quick stats boxes -->
+
+
+
+				
+							</div>		
+							</div>
+							<!-- /support tickets -->
+
+
+					
+
+						</div>
+
+						<div class="col-lg-12">
+
+							<!-- Progress counters -->
+							<div class="row">
+							<div id="myDiv" style="width: 480px; height: 400px;"><!-- Plotly chart will be drawn inside this DIV --></div>
+
+							<div id="PieSesso" style="width: 480px; height: 400px;"><!-- Plotly chart will be drawn inside this DIV --></div>
+
+							<div id="Lesione" style="width: 480px; height: 400px;"><!-- Plotly chart will be drawn inside this DIV --></div>
+							</div>
+							<!-- /progress counters -->
+				
+					{{lesione }}
+					{{deceduto }}
+
+					{{sesso }}
+	<!-- 
+					{%  for eta, stat in anni.items %}	
+					<div>{{eta }} - 
+					{{stat }}</div>
+					{% endfor %} -->
+						<!-- 
+						<table>
+
+
+					{% for row in data %}
+
+					<tr>
+					{% for elem in row %}
+					<td style="padding-right:10px;">
+					
+					{{ elem}}
+					</td>
+					
+					{% endfor %}
+					</tr>
+					{% endfor %}
+					</table>
+					 -->
+
+
+						</div>
+					</div>
+					<!-- /dashboard content -->
+
+
+				
+
+					<!-- Footer -->
+					<div class="footer text-muted">
+						© 2015. <a href="#">Paladin 2</a> by <a href="http://www.fub.it" target="_blank">Fondazione Ugo Bordoni</a>
+					</div>
+					<!-- /footer -->
+
+				</div>
+				<!-- /content area -->
+{% endblock %}
+
+
+{% block script %}
+
+
+<script>
+var data = [{
+  values: [223, 214],
+  labels: ['M','F'],
+  type: 'pie'
+}];
+
+var layout = {
+  height: 400,
+  width: 500
+};
+
+Plotly.newPlot('PieSesso', data, layout);
+</script>
+
+<script>
+var trace1 = {
+  x: {{anni_lista }},
+  y: {{anni_valori }},
+  name: 'SF Zoo',
+  type: 'bar'
+};
+
+
+var data = [trace1];
+
+var layout = {barmode: 'stack'};
+
+Plotly.newPlot('myDiv', data, layout);
+</script>
+
+
+
+<script>
+
+var trace1 = {
+  x: {{lesione_lista}},
+  y: {{lesione_valori}},
+  name: 'SF Zoo',
+  type: 'bar'
+};
+
+
+var data = [trace1];
+
+var layout = {barmode: 'stack'};
+
+Plotly.newPlot('Lesione', data, layout);
+</script>
+
+{% endblock %}

@@ -1,0 +1,1693 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+
+<!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en"><!--<![endif]--><!-- BEGIN HEAD --><head>
+<meta charset="utf-8">
+<title>Comune di Roma - Open Data</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+<meta content="" name="description">
+<meta content="" name="author">
+<!-- BEGIN GLOBAL MANDATORY STYLES -->
+
+<link href="{% static "css/css.css"%}" rel="stylesheet" type="text/css">
+<link href="{% static "css/font-awesome.css"%}" rel="stylesheet" type="text/css">
+<link href="{% static "css/simple-line-icons.css"%}" rel="stylesheet" type="text/css">
+<link href="{% static "css/bootstrap.css"%}"  rel="stylesheet" type="text/css">
+<link href="{% static "css/uniform.css"%}"   rel="stylesheet" type="text/css">
+<link href="{% static "css/bootstrap-switch.css"%}"  rel="stylesheet" type="text/css">
+<!-- END GLOBAL MANDATORY STYLES -->
+<!-- BEGIN THEME STYLES -->
+<link href="{% static "css/components_2.css"%}"  id="style_components" rel="stylesheet" type="text/css">
+<link href="{% static "css/plugins.css"%}"   rel="stylesheet" type="text/css">
+<link href="{% static "css/layout.css"%}"   rel="stylesheet" type="text/css">
+<link id="style_color" href="{% static "css/darkblue.css"%}"  rel="stylesheet" type="text/css">
+<link  href="{% static "css/custom.css"%}"  rel="stylesheet" type="text/css">
+<!-- Core JS files -->
+	<!-- <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>-->
+	<script type="text/javascript" src="{% static "js/plotly-latest.min.js"%}"></script>
+	<!-- <script type="text/javascript" src="{% static "js/jets.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/pace.js"%}"></script> -->
+	<script type="text/javascript" src="{% static "js/jquery.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/bootstrap.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/blockui.js"%}"></script>
+		<script type="text/javascript" src="{% static "js/echart.js"%}"></script>
+	<!--<script type="text/javascript" src="{% static "js/datatables.min.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/datatables_advanced.js"%}"></script>-->
+	<script type="text/javascript" src="{% static "js/select2.js"%}"></script>
+<!-- END THEME STYLES -->
+<link rel="shortcut icon" href="file:///Users/bordoni/Desktop/Incidenti%20stradali/theme/templates/admin/favicon.ico">
+<script>try {  for(var lastpass_iter=0; lastpass_iter < document.forms.length; lastpass_iter++){    var lastpass_f = document.forms[lastpass_iter];    if(typeof(lastpass_f.lpsubmitorig)=="undefined"){      if (typeof(lastpass_f.submit) == "function") {        lastpass_f.lpsubmitorig = lastpass_f.submit;        lastpass_f.submit = function(){          var form = this;          try {            if (document.documentElement && 'createEvent' in document)            {              var forms = document.getElementsByTagName('form');              for (var i=0 ; i<forms.length ; ++i)                if (forms[i]==form)                {                  var element = document.createElement('lpformsubmitdataelement');                  element.setAttribute('formnum',i);                  element.setAttribute('from','submithook');                  document.documentElement.appendChild(element);                  var evt = document.createEvent('Events');                  evt.initEvent('lpformsubmit',true,false);                  element.dispatchEvent(evt);                  break;                }            }          } catch (e) {}          try {            form.lpsubmitorig();          } catch (e) {}        }      }    }  }} catch (e) {}</script></head>
+<!-- END HEAD -->
+<!-- BEGIN BODY -->
+<!-- DOC: Apply "page-header-fixed-mobile" and "page-footer-fixed-mobile" class to body element to force fixed header or footer in mobile devices -->
+<!-- DOC: Apply "page-sidebar-closed" class to the body and "page-sidebar-menu-closed" class to the sidebar menu element to hide the sidebar by default -->
+<!-- DOC: Apply "page-sidebar-hide" class to the body to make the sidebar completely hidden on toggle -->
+<!-- DOC: Apply "page-sidebar-closed-hide-logo" class to the body element to make the logo hidden on sidebar toggle -->
+<!-- DOC: Apply "page-sidebar-hide" class to body element to completely hide the sidebar on sidebar toggle -->
+<!-- DOC: Apply "page-sidebar-fixed" class to have fixed sidebar -->
+<!-- DOC: Apply "page-footer-fixed" class to the body element to have fixed footer -->
+<!-- DOC: Apply "page-sidebar-reversed" class to put the sidebar on the right side -->
+<!-- DOC: Apply "page-full-width" class to the body element to have full width page without the sidebar menu -->
+<body class="page-header-fixed page-quick-sidebar-over-content page-full-width">
+<!-- BEGIN HEADER -->
+<div class="page-header -i navbar navbar-fixed-top">
+	<!-- BEGIN HEADER INNER -->
+	<div class="page-header-inner">
+		<!-- BEGIN LOGO -->
+		<div class="page-logo">
+			
+		</div>
+		<!-- END LOGO -->
+		<!-- BEGIN HORIZANTAL MENU -->
+		<!-- DOC: Apply "hor-menu-light" class after the "hor-menu" class below to have a horizontal menu with white background -->
+		<!-- DOC: This is desktop version of the horizontal menu. The mobile version is defined(duplicated) sidebar menu below. So the horizontal menu has 2 seperate versions -->
+		<div class="hor-menu hor-menu-light hidden-sm hidden-xs">
+			<ul class="nav navbar-nav">
+				<!-- DOC: Remove data-hover="dropdown" and data-close-others="true" attributes below to disable the horizontal opening on mouse hover -->
+				<li class="classic-menu-dropdown active ">
+					<a href="/">
+					Statistiche generali<span class="selected">
+					</a>
+				</li>
+			
+			
+				<li class="classic-menu-dropdown">
+					<a  href="/mappa">
+					Distribuzione geografica </a></li>
+
+				<li class="classic-menu-dropdown ">
+					<a  href="/gravi">
+					Incidenti gravi e mortali </a></li>
+					
+		</div>
+		<!-- END HORIZANTAL MENU -->
+		<!-- BEGIN HEADER SEARCH BOX -->
+		<!-- DOC: Apply "search-form-expanded" right after the "search-form" class to have half expanded search box -->
+	
+		<!-- END HEADER SEARCH BOX -->
+		<!-- BEGIN RESPONSIVE MENU TOGGLER -->
+		<a href="javascript:;" class="menu-toggler responsive-toggler" data-toggle="collapse" data-target=".navbar-collapse">
+		</a>
+		<!-- END RESPONSIVE MENU TOGGLER -->
+		<!-- BEGIN TOP NAVIGATION MENU -->
+		<div class="top-menu">
+			<ul class="nav navbar-nav pull-right">
+				
+				<li class="dropdown dropdown-user">
+					<a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+					<img alt="" class="img-circle" >
+					<span class="username username-hide-on-mobile">
+					Admin</span>
+					<i class="fa fa-angle-down"></i>
+					</a>
+					<ul class="dropdown-menu dropdown-menu-default">
+						<li>
+							<a href="file:///Users/bordoni/Desktop/Incidenti%20stradali/theme/templates/admin/extra_profile.html">
+							<i class="icon-user"></i> My Profile </a>
+						</li>
+						
+						<li class="divider">
+						</li>
+						
+						<li>
+							<a href="file:///Users/bordoni/Desktop/Incidenti%20stradali/theme/templates/admin/login.html">
+							<i class="icon-key"></i> Log Out </a>
+						</li>
+					</ul>
+				</li>
+				<!-- END USER LOGIN DROPDOWN -->
+				<!-- BEGIN QUICK SIDEBAR TOGGLER -->
+				<!-- DOC: Apply "dropdown-dark" class after below "dropdown-extended" to change the dropdown styte -->
+				<li class="dropdown dropdown-quick-sidebar-toggler">
+					<a href="javascript:;" class="dropdown-toggle">
+					<i class="icon-logout"></i>
+					</a>
+				</li>
+				<!-- END QUICK SIDEBAR TOGGLER -->
+			</ul>
+		</div>
+		<!-- END TOP NAVIGATION MENU -->
+	</div>
+	<!-- END HEADER INNER -->
+</div>
+<!-- END HEADER -->
+<div class="clearfix">
+</div>
+<!-- BEGIN CONTAINER -->
+<div class="page-container">
+	<!-- BEGIN SIDEBAR -->
+	<div class="page-sidebar-wrapper">
+		<!-- BEGIN HORIZONTAL RESPONSIVE MENU -->
+		<!-- DOC: Set data-auto-scroll="false" to disable the sidebar from auto scrolling/focusing -->
+		<!-- DOC: Change data-auto-speed="200" to adjust the sub menu slide up/down speed -->
+		<div style="" class="page-sidebar navbar-collapse collapse">
+			<ul class="page-sidebar-menu" data-slide-speed="200" data-auto-scroll="true">
+				<!-- DOC: To remove the search box from the sidebar you just need to completely remove the below "sidebar-search-wrapper" LI element -->
+				<!-- DOC: This is mobile version of the horizontal menu. The desktop version is defined(duplicated) in the header above -->
+				<li class="sidebar-search-wrapper">
+					<!-- BEGIN RESPONSIVE QUICK SEARCH FORM -->
+					<!-- DOC: Apply "sidebar-search-bordered" class the below search form to have bordered search box -->
+					<!-- DOC: Apply "sidebar-search-bordered sidebar-search-solid" class the below search form to have bordered & solid search box -->
+					<!--<form class="sidebar-search sidebar-search-bordered" action="extra_search.html" method="POST">
+						<a href="javascript:;" class="remove">
+						<i class="icon-close"></i>
+						</a>
+						<div class="input-group">
+							<input class="form-control" placeholder="Search..." type="text">
+							<span class="input-group-btn">
+							<button class="btn submit"><i class="icon-magnifier"></i></button>
+							</span>
+						</div>
+					</form>-->
+					<!-- END RESPONSIVE QUICK SEARCH FORM -->
+				</li>
+				<li class="active">
+					<a href="file:///Users/bordoni/Desktop/Incidenti%20stradali/theme/templates/admin/index.html">
+					Dashboard <span class="selected">
+					</span>
+					</a>
+				</li>
+		 
+			</ul>
+		</div>
+		<!-- END HORIZONTAL RESPONSIVE MENU -->
+	</div>
+	<!-- END SIDEBAR -->
+	<!-- BEGIN CONTENT -->
+	<div class="page-content-wrapper">
+		<div style="min-height:559px" class="page-content">
+			
+			<h3 class="page-title">
+			Incidenti stradali a Roma <small>nov-dic 2015</small>
+			</h3>
+
+
+			
+
+			<div class="row">
+				<div class=" col-md-3">
+									<h4></h4>
+									<p>
+									La visualizzazione contiene i dati degli incidenti stradali a Roma nel periodo novembre dicembre 2015 in cui sia intervenuta una pattuglia di qualunque corpo di pubblica sicurezza. 
+									
+									Sono pertanto esclusi solo gli incidenti in cui i soggetti coinvolti abbiano raggiunto una conciliazione.
+									</p>
+									<p>
+									Le informazioni sono estratte dagli <a target=_blank href="http://dati.comune.roma.it/cms/it/dettaglio_incidente_stradale.page?contentId=DTS3401">Open Data del Comune di Roma</a>
+				
+									</p>
+									<p>
+									Gli interrogativi da porsi sono: 
+									<strong>
+									<ul >
+										<li>quando accadono e con quale frequenza ?</li>
+										<li>con quale esito ? </li>
+										<li>in quali condizioni ? </li>
+										<li>chi è coinvolto ? </li>
+										<li>in quali zone della città ?</li>
+										
+										
+									</ul>		
+									</strong>
+									nota: richiesta risoluzione di almeno 1280 px
+									</p>
+									
+			
+
+			
+				</div>
+				
+				<div class="col-md-6">
+	 
+				<div class="col-md-4 ">
+					<div class="dashboard-stat ">
+						<div class="visual">
+							
+						</div>
+						<div class="details">
+							<div class="number">
+								 {{count_incidenti}} 
+							</div>
+							<div class="desc">
+								Incidenti 
+							</div>
+						</div>
+					
+						<i class="m-icon-swapright m-icon-white"></i>
+						
+					</div>
+				</div>
+
+
+				<div class="col-md-4 ">
+					<div class="dashboard-stat ">
+						<div class="visual">
+							
+						</div>
+						<div class="details">
+							<div class="number">
+								 {{count_morti}}
+							</div>
+							<div class="desc">
+								 Morti
+							</div>
+						</div>
+						
+						<i class="m-icon-swapright m-icon-white"></i>
+						
+					</div>
+				</div>
+				
+					<div class="col-md-4 ">
+					<div class="dashboard-stat ">
+						<div class="visual">
+						
+						</div>
+						<div class="details">
+							<div class="number">
+								 {{numero_totale_pedoni}}
+							</div>
+							<div class="desc">
+								 Pedoni coinvolti
+							</div>
+						</div>
+						
+						<i class="m-icon-swapright m-icon-white"></i>
+						
+					</div>
+				</div>
+	
+				<div class="col-md-4 ">
+					<div class="dashboard-stat ">
+						<div class="visual">
+						
+						</div>
+						<div class="details">
+							<div class="number">
+								 {{count_feriti}}
+							</div>
+							<div class="desc">
+								 Feriti (ricoverati e prognosi riservata)
+							</div>
+						</div>
+						
+						<i class="m-icon-swapright m-icon-white"></i>
+						
+					</div>
+				</div>
+
+
+
+	
+			
+
+
+				<div class="col-md-4 ">
+					<div class="dashboard-stat ">
+						<div class="visual">
+							
+						</div>
+						<div class="details">
+							<div class="number">
+								 {{count_illesi}}
+							</div>
+							<div class="desc">
+								 Illesi
+							</div>
+						</div>
+					
+						 <i class="m-icon-swapright m-icon-white"></i>
+						
+					</div>
+				</div>
+			
+					<div class="col-md-4 ">
+					<div class="dashboard-stat ">
+						<div class="visual">
+						
+						</div>
+						<div class="details">
+							<div class="number">
+								 {{deceduti_pedoni}}
+							</div>
+							<div class="desc">
+								 Pedoni morti
+							</div>
+						</div>
+						
+						<i class="m-icon-swapright m-icon-white"></i>
+						
+					</div>
+				</div>
+
+			
+				</div>
+
+
+
+			</div>
+
+			
+			<!-- END PAGE HEADER-->
+			<!-- BEGIN PAGE CONTENT-->
+			<div class="row margin-bottom-20">
+				<div class="col-md-12">
+					<p>
+						
+			<div class="row margin-bottom-20">
+				<!-- <div class="col-md-12">
+					<p>
+						 <div class="row">
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+					<div class="dashboard-stat blue-madison">
+						<div class="visual">
+							<i class="fa fa-comments"></i>
+						</div>
+						<div class="details">
+							<div class="number">
+								 {{numero_totale_pedoni}}
+							</div>
+							<div class="desc">
+								Pedoni coinvolti
+							</div>
+						</div>
+						<div class="more" >
+						223 uomini - 214 donne
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+					<div class="dashboard-stat red-intense">
+						<div class="visual">
+							<i class="fa fa-bar-chart-o"></i>
+						</div>
+						<div class="details">
+							<div class="number">
+								 {{deceduti_pedoni}}
+							</div>
+							<div class="desc">
+								 Deceduti
+							</div>
+						</div>
+						<a class="more" href="javascript:;">
+						View more <i class="m-icon-swapright m-icon-white"></i>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+					<div class="dashboard-stat green-haze">
+						<div class="visual">
+							<i class="fa fa-shopping-cart"></i>
+						</div>
+						<div class="details">
+							<div class="number">
+								 {{feriti}}
+							</div>
+							<div class="desc">
+								 Feriti ( ricoverati e prognosi riservata)
+							</div>
+						</div>
+						<a class="more" href="javascript:;">
+						View more <i class="m-icon-swapright m-icon-white"></i>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+					<div class="dashboard-stat purple-plum">
+						<div class="visual">
+							<i class="fa fa-globe"></i>
+						</div>
+						<div class="details">
+							<div class="number">
+								 {{percentuale}}%
+							</div>
+							<div class="desc">
+								 pedoni riportano danni
+							</div>
+						</div>
+						<a class="more" href="javascript:;">
+						View more <i class="m-icon-swapright m-icon-white"></i>
+						</a>
+					</div>
+				</div>-->
+			</div>
+
+
+	
+
+
+				<div class="row">
+				<div class="col-md-3 col-sm-3">
+					<!-- BEGIN PORTLET-->
+					<div class="portlet light ">
+						<div class="portlet-title">
+							<div class="caption">
+								<i class="icon-bar-chart font-green-sharp hide"></i>
+								<span class="caption-subject font-green-sharp bold uppercase">Frequenza Incidenti</span>
+								<div class="caption-helper">distribuzione per giorno e per ora</div>
+							</div>
+							<!--<div class="actions">
+								<div class="btn-group btn-group-devided" data-toggle="buttons">
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm active">
+									<input name="options" class="toggle" id="option1" type="radio"></label>
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm">
+									<input name="options" class="toggle" id="option2" type="radio"></label>
+								</div>
+							</div>-->
+						</div>
+						<div class="portlet-body">
+							<div style="display: none;" id="site_statistics_loading">
+								<img src="../../assets/admin/layout/img/loading.gif" alt="loading">
+							</div>
+							<div style="display: block;" id="heatmap_generale" class="display-none">
+									
+
+
+
+						</div>
+					</div>
+					<!-- END PORTLET-->
+				</div></div>
+				<div class="col-md-3 col-sm-3">
+					<!-- BEGIN PORTLET-->
+					<div class="portlet light ">
+						<div class="portlet-title">
+							<div class="caption">
+								<i class="icon-bar-chart font-green-sharp hide"></i>
+								<span class="caption-subject font-green-sharp bold uppercase">Frequenza decessi</span>
+								<div class="caption-helper">distribuzione per giorno e per ora</div>
+							</div>
+							<!--<div class="actions">
+								<div class="btn-group btn-group-devided" data-toggle="buttons">
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm active">
+									<input name="options" class="toggle" id="option1" type="radio"></label>
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm">
+									<input name="options" class="toggle" id="option2" type="radio"></label>
+								</div>
+							</div>-->
+						</div>
+						<div class="portlet-body">
+							<div style="display: none;" id="site_statistics_loading">
+								<img src="../../assets/admin/layout/img/loading.gif" alt="loading">
+							</div>
+							<div style="display: block;" id="heatmap_morti" class="display-none">
+								
+
+
+
+						</div>
+					</div>
+					<!-- END PORTLET-->
+				</div></div>
+
+
+
+
+
+	<div class="col-md-6 col-sm-6">
+					<!-- BEGIN PORTLET-->
+					<div class="portlet light ">
+						<div class="portlet-title">
+							<div class="caption">
+								<i class="icon-bar-chart font-green-sharp hide"></i>
+								<span class="caption-subject font-green-sharp bold uppercase">Frequenza incidenti per zona geografica</span>
+								<div class="caption-helper">Colore rosso = maggiore frequenza, colore blu = minore frequenza</div>
+							</div>
+							<!--<div class="actions">
+								<div class="btn-group btn-group-devided" data-toggle="buttons">
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm active">
+									<input name="options" class="toggle" id="option1" type="radio"></label>
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm">
+									<input name="options" class="toggle" id="option2" type="radio"></label>
+								</div>
+							</div>-->
+						</div>
+						<div class="portlet-body">
+							<div style="display: none;" id="site_statistics_loading">
+								<img src="../../assets/admin/layout/img/loading.gif" alt="loading">
+							</div>
+							<iframe width="100%" height="300px" frameBorder="0" src="http://umap.openstreetmap.fr/it/map/incidenti-stradali-a-roma-heatmap_77116?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false#11/41.8863/12.4865"></iframe><p></p>
+					</div>
+					<!-- END PORTLET-->
+				</div></div>
+
+
+
+
+<!-- 
+						<div class="col-md-3 col-sm-3">
+					
+					<div class="portlet light ">
+						<div class="portlet-title">
+							<div class="caption">
+								<i class="icon-bar-chart font-green-sharp hide"></i>
+								<span class="caption-subject font-green-sharp bold uppercase">Distribuzione feriti</span>
+								<span class="caption-helper"></span>
+							</div>
+						<div class="actions">
+								<div class="btn-group btn-group-devided" data-toggle="buttons">
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm active">
+									<input name="options" class="toggle" id="option1" type="radio"></label>
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm">
+									<input name="options" class="toggle" id="option2" type="radio"></label>
+								</div>
+							</div>
+						</div>
+						<div class="portlet-body">
+							<div style="display: none;" id="site_statistics_loading">
+								<img src="../../assets/admin/layout/img/loading.gif" alt="loading">
+							</div>
+							<div style="display: block;" id="heatmap_feriti" class="display-none">
+								
+
+
+
+						</div>
+					</div>
+					
+				</div></div>
+
+
+				<div class="col-md-3 col-sm-3">
+					
+					<div class="portlet light ">
+						<div class="portlet-title">
+							<div class="caption">
+								<i class="icon-bar-chart font-green-sharp hide"></i>
+								<span class="caption-subject font-green-sharp bold uppercase">Distribuzione Illesi</span>
+								<span class="caption-helper"></span>
+							</div>
+							<div class="actions">
+								<div class="btn-group btn-group-devided" data-toggle="buttons">
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm active">
+									<input name="options" class="toggle" id="option1" type="radio"></label>
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm">
+									<input name="options" class="toggle" id="option2" type="radio"></label>
+								</div>
+							</div>
+						</div>
+						<div class="portlet-body">
+							<div style="display: none;" id="site_statistics_loading">
+								<img src="../../assets/admin/layout/img/loading.gif" alt="loading">
+							</div>
+							<div style="display: block;" id="heatmap_illesi" class="display-none">
+								
+
+
+
+						</div>
+					</div>
+					
+				</div></div>-->
+
+
+
+
+
+
+
+		</div>
+
+
+
+
+				<div class="row margin-bottom-20">
+				<div class="col-md-6 col-sm-6">
+					<!-- BEGIN PORTLET-->
+					<div class="portlet light ">
+						<div class="portlet-title">
+							<div class="caption">
+								<i class="icon-bar-chart font-green-sharp hide"></i>
+								<span class="caption-subject font-green-sharp bold uppercase">Distribuzione per anno di nascita (conducenti e passeggeri coinvolti)</span>
+								<div class="caption-helper">Conducenti = colonna blu, Passeggeri = colonna arancione</div>
+							</div>
+							<!--<div class="actions">
+								<div class="btn-group btn-group-devided" data-toggle="buttons">
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm active">
+									<input name="options" class="toggle" id="option1" type="radio"></label>
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm">
+									<input name="options" class="toggle" id="option2" type="radio"></label>
+								</div>
+							</div>-->
+						</div>
+						<div class="portlet-body">
+							<div style="display: none;" id="site_statistics_loading">
+								<img src="../../assets/admin/layout/img/loading.gif" alt="loading">
+							</div>
+							<div style="display: block;" id="ConducentePasseggero" class="display-none">
+								
+
+
+
+						</div>
+					</div>
+					<!-- END PORTLET-->
+				</div>
+			</div>
+				<div class="col-md-6 col-sm-6">
+					<!-- BEGIN PORTLET-->
+					<div class="portlet light ">
+						<div class="portlet-title">
+								<div class="caption">
+								<i class="icon-bar-chart font-green-sharp hide"></i>
+								<span class="caption-subject font-green-sharp bold uppercase">Distribuzione per anno di nascita (pedoni coinvolti)</span>
+								<div class="caption-helper">Pedoni = colonna blu</div>
+							</div>
+							<!--<div class="actions">
+								<div class="btn-group btn-group-devided" data-toggle="buttons">
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm active">
+									<input name="options" class="toggle" id="option1" type="radio"></label>
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm">
+									<input name="options" class="toggle" id="option2" type="radio"></label>
+								</div>
+							</div>-->
+						</div>
+						<div class="portlet-body">
+							<div style="display: none;" id="">
+								<img src="../../assets/admin/layout/img/loading.gif" alt="loading">
+							</div>
+							<div style="display: block;width:80%;" id="Pedoni" class="display-none">
+								
+
+
+
+						</div>
+							</div>
+							
+						</div>
+					</div>
+					<!-- END PORTLET-->
+				</div>
+					
+
+
+					
+					</div> <!-- END row-->
+					
+<div class="row">
+
+
+	<div class="col-md-3 col-sm-3">
+					<!-- BEGIN PORTLET-->
+					<div class="portlet light ">
+						<div class="portlet-title">
+							<div class="caption">
+								<i class="icon-bar-chart font-green-sharp hide"></i>
+								<span class="caption-subject font-green-sharp bold uppercase">Condizioni Atmosferiche</span>
+								<div class="caption-helper">Condizioni meteo al momento dell'incidente</div>
+							</div>
+							<!--<div class="actions">
+								<div class="btn-group btn-group-devided" data-toggle="buttons">
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm active">
+									<input name="options" class="toggle" id="option1" type="radio"></label>
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm">
+									<input name="options" class="toggle" id="option2" type="radio"></label>
+								</div>
+							</div>-->
+						</div>
+						<div class="portlet-body">
+							<div style="display: none;" id="site_statistics_loading">
+								<img src="../../assets/admin/layout/img/loading.gif" alt="loading">
+							</div>
+							<div style="display: block;" id="pieCondizioniAtmosferiche" class="display-none">
+								
+
+
+
+						</div>
+					</div>
+					<!-- END PORTLET-->
+				</div></div>
+
+
+			
+				<div class="col-md-3 col-sm-3">
+					<!-- BEGIN PORTLET-->
+					<div class="portlet light ">
+						<div class="portlet-title">
+							<div class="caption">
+								<i class="icon-bar-chart font-green-sharp hide"></i>
+								<span class="caption-subject font-green-sharp bold uppercase">Visibilità stradale</span>
+								<div class="caption-helper">Visibilità stradale al momento dell'incidente</div>
+							</div>
+							<!--<div class="actions">
+								<div class="btn-group btn-group-devided" data-toggle="buttons">
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm active">
+									<input name="options" class="toggle" id="option1" type="radio"></label>
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm">
+									<input name="options" class="toggle" id="option2" type="radio"></label>
+								</div>
+							</div>-->
+						</div>
+						<div class="portlet-body">
+							<div style="display: none;" id="site_statistics_loading">
+								<img src="../../assets/admin/layout/img/loading.gif" alt="loading">
+							</div>
+							<div style="display: block;" id="pieVisibilita" class="display-none">
+								
+
+
+
+						</div>
+					</div>
+					<!-- END PORTLET-->
+				</div></div>
+
+						<div class="col-md-3 col-sm-3">
+					<!-- BEGIN PORTLET-->
+					<div class="portlet light ">
+						<div class="portlet-title">
+							<div class="caption">
+								<i class="icon-bar-chart font-green-sharp hide"></i>
+								<span class="caption-subject font-green-sharp bold uppercase">Illuminazione stradale</span>
+								<div class="caption-helper">Illuminazione stradale al momento dell'incidente</div>
+							</div>
+							<!--<div class="actions">
+								<div class="btn-group btn-group-devided" data-toggle="buttons">
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm active">
+									<input name="options" class="toggle" id="option1" type="radio"></label>
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm">
+									<input name="options" class="toggle" id="option2" type="radio"></label>
+								</div>
+							</div>-->
+						</div>
+						<div class="portlet-body">
+							<div style="display: none;" id="site_statistics_loading">
+								<img src="../../assets/admin/layout/img/loading.gif" alt="loading">
+							</div>
+							<div style="display: block;" id="pieIlluminazione" class="display-none">
+								
+
+
+
+						</div>
+					</div>
+					<!-- END PORTLET-->
+				</div></div>
+
+
+				<div class="col-md-3 col-sm-3">
+					<!-- BEGIN PORTLET-->
+					<div class="portlet light ">
+						<div class="portlet-title">
+							<div class="caption">
+								<i class="icon-bar-chart font-green-sharp hide"></i>
+								<span class="caption-subject font-green-sharp bold uppercase">Fondo Stradale</span>
+								<div class="caption-helper">Stato del fondo stradale al momento dell'incidente</div>
+							</div>
+							<!--<div class="actions">
+								<div class="btn-group btn-group-devided" data-toggle="buttons">
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm active">
+									<input name="options" class="toggle" id="option1" type="radio"></label>
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm">
+									<input name="options" class="toggle" id="option2" type="radio"></label>
+								</div>
+							</div>-->
+						</div>
+						<div class="portlet-body">
+							<div style="display: none;" id="site_statistics_loading">
+								<img src="../../assets/admin/layout/img/loading.gif" alt="loading">
+							</div>
+							<div style="display: block;" id="pieFondoStradale" class="display-none">
+								
+
+
+
+						</div>
+					</div>
+					<!-- END PORTLET-->
+				</div></div>
+
+		</div>
+		
+		
+
+	
+
+			<div class="row">
+
+
+
+	<div class="col-md-6 col-sm-6">
+					<!-- BEGIN PORTLET-->
+					<div class="portlet light ">
+						<div class="portlet-title">
+							<div class="caption">
+								<i class="icon-bar-chart font-green-sharp hide"></i>
+								<span class="caption-subject font-green-sharp bold uppercase">Condizioni stradali</span>
+								<div class="caption-helper">dove avvengono gli incidenti ?</div>
+							</div>
+							<!--<div class="actions">
+								<div class="btn-group btn-group-devided" data-toggle="buttons">
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm active">
+									<input name="options" class="toggle" id="option1" type="radio"></label>
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm">
+									<input name="options" class="toggle" id="option2" type="radio"></label>
+								</div>
+							</div>-->
+						</div>
+						<div class="portlet-body">
+							<div style="display: none;" id="site_statistics_loading">
+								<img src="../../assets/admin/layout/img/loading.gif" alt="loading">
+							</div>
+							<div style="display: block;" id="pieParticolaritaStrada" class="display-none">
+									
+
+
+
+						</div>
+					</div>
+					<!-- END PORTLET-->
+				</div></div>
+
+
+				<div class="col-md-3 col-sm-3">
+					<!-- BEGIN PORTLET-->
+					<div class="portlet light ">
+						<div class="portlet-title">
+							<div class="caption">
+								<i class="icon-bar-chart font-green-sharp hide"></i>
+								<span class="caption-subject font-green-sharp bold uppercase">Referti di chi si trova in auto</span>
+								<div class="caption-helper">Conducenti e passeggeri</div>
+							</div>
+					<!--<div class="actions">
+								<div class="btn-group btn-group-devided" data-toggle="buttons">
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm active">
+									<input name="options" class="toggle" id="option1" type="radio"></label>
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm">
+									<input name="options" class="toggle" id="option2" type="radio"></label>
+								</div>
+							</div>-->
+						</div>
+						<div class="portlet-body">
+							<div style="display: none;" id="site_statistics_loading">
+								<img src="../../assets/admin/layout/img/loading.gif" alt="loading">
+							</div>
+							<div style="display: block;" id="LesioneConducentiPasseggeri" class="display-none">
+									
+
+
+
+						</div>
+					</div>
+					<!-- END PORTLET-->
+				</div></div>
+				
+
+						<div class="col-md-3 col-sm-3">
+					<!-- BEGIN PORTLET-->
+					<div class="portlet light ">
+						<div class="portlet-title">
+							<div class="caption">
+								<i class="icon-bar-chart font-green-sharp hide"></i>
+								<span class="caption-subject font-green-sharp bold uppercase">Referti dei pedoni </span>
+								<span class="caption-helper"></span>
+							</div>
+							<!--<div class="actions">
+								<div class="btn-group btn-group-devided" data-toggle="buttons">
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm active">
+									<input name="options" class="toggle" id="option1" type="radio"></label>
+									<label class="btn btn-transparent grey-salsa btn-circle btn-sm">
+									<input name="options" class="toggle" id="option2" type="radio"></label>
+								</div>
+							</div>-->
+						</div>
+						<div class="portlet-body">
+							<div style="display: none;" id="site_statistics_loading">
+								<img src="../../assets/admin/layout/img/loading.gif" alt="loading">
+							</div>
+							<div style="display: block;" id="LesionePedoni" class="display-none">
+								
+
+
+
+						</div>
+					</div>
+					<!-- END PORTLET-->
+				</div></div>
+
+
+			
+
+		</div>
+<div class="row">
+
+
+
+
+		
+							
+						</div>
+
+		</div>
+
+
+					<p>
+						
+					</p>
+				</div>
+			</div>
+
+
+
+
+
+
+
+	</div>
+	<!-- END CONTENT -->
+	<!-- BEGIN QUICK SIDEBAR -->
+	<a href="javascript:;" class="page-quick-sidebar-toggler"><i class="icon-close"></i></a>
+
+	</div>
+	<!-- END QUICK SIDEBAR -->
+</div>
+<!-- END CONTAINER -->
+<!-- BEGIN FOOTER -->
+<div class="page-footer">
+	<div class="page-footer-inner">
+		 2016 © Incidenti stradali a Roma
+	</div>
+	<div class="scroll-to-top">
+		<i class="icon-arrow-up"></i>
+	</div>
+</div>
+
+
+{% block script %}
+<!-- END FOOTER -->
+<!-- BEGIN JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->
+<!-- BEGIN CORE PLUGINS -->
+<!--[if lt IE 9]>
+<script src="../../assets/global/plugins/respond.min.js"></script>
+<script src="../../assets/global/plugins/excanvas.min.js"></script> 
+<![endif]-->
+<script type="text/javascript" src="{% static "js/jquery_003.js"%}"></script>
+<script type="text/javascript" src="{% static "js/jquery-migrate.js"%}"></script>
+<script type="text/javascript" src="{% static "js/jquery-ui.js"%}"></script>
+<script type="text/javascript" src="{% static "js/bootstrap.js"%}"></script>
+<script type="text/javascript" src="{% static "js/jquery-migrate.js"%}"></script>
+<script type="text/javascript" src="{% static "js/bootstrap-hover-dropdown.js"%}"></script>
+<script type="text/javascript" src="{% static "js/jquery_002.js"%}"></script>
+<script type="text/javascript" src="{% static "js/jquery_004.js"%}"></script>
+<script type="text/javascript" src="{% static "js/jquery_005.js"%}"></script>
+<script type="text/javascript" src="{% static "js/jquery.js"%}"></script>
+<script type="text/javascript" src="{% static "js/bootstrap-switch.js"%}"></script>
+<script type="text/javascript" src="{% static "js/metronic.js"%}"></script>
+<script type="text/javascript" src="{% static "js/layout.js"%}"></script>
+<script type="text/javascript" src="{% static "js/quick-sidebar.js"%}"></script>
+<script type="text/javascript" src="{% static "js/demo.js"%}"></script>
+
+<script>
+    jQuery(document).ready(function() {    
+       Metronic.init(); // init metronic core components
+Layout.init(); // init current layout
+QuickSidebar.init(); // init quick sidebar
+Demo.init(); // init demo features
+    });
+  </script>
+
+<script>
+var data = [{
+  values: [223, 214],
+  labels: ['M','F'],
+  type: 'pie'
+}];
+
+var layout = {
+ 
+};
+
+//Plotly.newPlot('PieSesso', data, layout);
+</script>
+
+<script>
+var trace1 = {
+  x: {{anni_lista }},
+  y: {{anni_valori }},
+  name: 'Pedone',
+  type: 'bar'
+};
+
+
+var data = [trace1];
+var layout = {
+
+
+		margin: {
+     l: 50,
+     r: 50,
+     b: 100,
+     t: 5,
+     
+   },
+	barmode: 'bar',
+	
+	xaxis: {
+    title: 'Data di nascita',
+    titlefont: {
+      family: 'Courier New, monospace',
+      size: 16,
+      color: '#7f7f7f'
+    }
+  },
+  yaxis: {
+    title: 'Numero',
+    titlefont: {
+      family: 'Courier New, monospace',
+      size: 16,
+      color: '#7f7f7f'
+    }
+  }
+
+
+
+};
+
+Plotly.newPlot('Pedoni', data, layout,{showLink: false,displaylogo: false,displayModeBar: false});
+</script>
+
+
+
+<script>
+var passeggero = {
+  x: {{nascita_passeggero_lista}},
+  y: {{nascita_passeggero_valore }},
+  name: 'Passeggero',
+  type: 'bar'
+};
+var conducente = {
+  x: {{nascita_conducente_lista }},
+  y: {{nascita_conducente_valore}},
+  name: 'Conducente',
+  type: 'bar'
+};
+
+var data = [conducente, passeggero];
+
+var layout = {
+	barmode: 'bar',
+
+	margin: {
+     l: 50,
+     r: 50,
+     b: 100,
+     t: 5,
+     
+   },
+
+	xaxis: {
+    title: 'Data di nascita',
+    titlefont: {
+      family: 'Courier New, monospace',
+      size: 16,
+      color: '#7f7f7f'
+    }
+  },
+  yaxis: {
+    title: 'Numero',
+    titlefont: {
+      family: 'Courier New, monospace',
+      size: 16,
+      color: '#7f7f7f'
+    }
+  }
+
+};
+
+Plotly.newPlot('ConducentePasseggero', data, layout,{showLink: false,displaylogo: false,displayModeBar: false});
+</script>
+
+<script>
+
+
+var trace1 = {
+  x: ['Rifiuta cure immediate', 'Illeso', 'Ricoverato', 'Prognosi riservata',  'Rimandato' ], //["Deceduto durante prime cure","Prognosi riservata","Deceduto sul posto","Ricoverato","Illeso","Rimandato","Rifiuta cure immediate"],
+  y: [25, 72, 46, 10,  285],
+  name: 'Referto Pedoni',
+  type: 'bar'
+};
+
+
+var data = [trace1];
+
+var layout = {
+
+   height: 300,
+   margin: {
+     l: 50,
+     r: 50,
+     b: 100,
+     t: 10,
+     
+   },
+	barmode: 'stack',
+	
+	xaxis: {
+    title: 'Referto',
+    titlefont: {
+      family: 'Courier New, monospace',
+      size: 16,
+      color: '#7f7f7f'
+    }
+  },
+  yaxis: {
+    title: 'Numero',
+    titlefont: {
+      family: 'Courier New, monospace',
+      size: 16,
+      color: 'Numero'
+    }
+  }
+	
+};
+
+
+
+
+Plotly.newPlot('LesionePedoni', data, layout,{showLink: false,displaylogo: false,displayModeBar: false});
+</script>
+
+
+<script>
+
+
+var conducente = {
+  x: ['Rimandato','Prognosi riservata','Ricoverato','Rifiuta cure immediate'], //["Deceduto durante prime cure","Prognosi riservata","Deceduto sul posto","Ricoverato","Illeso","Rimandato","Rifiuta cure immediate"],
+  y: [1171,19,97,319],
+  name: 'Conducenti',
+  type: 'bar'
+};
+
+
+
+var passeggero = {
+  x: ['Rimandato','Prognosi riservata','Ricoverato','Rifiuta cure immediate'], //["Deceduto durante prime cure","Prognosi riservata","Deceduto sul posto","Ricoverato","Illeso","Rimandato","Rifiuta cure immediate"],
+  y: [341,7,26,65],
+  name: 'Passeggeri',
+  type: 'bar'
+};
+
+var data = [conducente,passeggero];
+
+
+var layout = {
+
+   height: 300,
+   margin: {
+     l: 50,
+     r: 0,
+     b: 100,
+     t: 10,
+     
+   },
+	barmode: 'stack',
+	
+	xaxis: {
+    title: 'Referto',
+    titlefont: {
+      family: 'Courier New, monospace',
+      size: 16,
+      color: '#7f7f7f'
+    }
+  },
+  yaxis: {
+    title: 'Numero',
+    titlefont: {
+      family: 'Courier New, monospace',
+      size: 16,
+      color: 'Numero'
+    }
+  }
+	
+};
+
+Plotly.newPlot('LesioneConducentiPasseggeri', data, layout,{showLink: false,displaylogo: false,displayModeBar: false});
+</script>
+
+
+
+<script>
+
+var data = [
+  {
+
+    z: {{matrix_settimanale}},
+  x:["lunedi","martedi","mercoledi","giovedi","venerdi","sabato","domenica"],
+    y: ['1', '2', '3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24'],
+    colorscale: "YIOrRd",
+    reversescale: true,
+    autocolorscale: false,
+    type: 'heatmap',
+    hoverinfo: 'text',
+    showgrid:true
+   
+  },
+  
+];
+layout = {   
+   
+   width: 400,
+   height: 300,
+   margin: {
+     l: 40,
+     r: 50,
+     b: 80,
+     t: 35,
+     
+   },
+
+
+
+    showlegend: true,
+    title: '',  // more about "layout.title": #layout-title
+  
+   zaxis: {                  // all "layout.xaxis" attributes: #layout-xaxis
+        title: 'Hits',         // more about "layout.xaxis.title": #layout-xaxis-title
+       
+    },
+    xaxis: {                  // all "layout.xaxis" attributes: #layout-xaxis
+        title: 'giorno',         // more about "layout.xaxis.title": #layout-xaxis-title
+        showline: true,
+        mirror: "ticks",
+          },
+    yaxis: {
+    	  title: 'ora', 
+          showline: true,
+          mirror: "ticks",
+          }
+    
+};
+
+Plotly.newPlot('heatmap_generale', data,layout,{showLink: false,displaylogo: false,displayModeBar: false});
+
+</script>
+
+
+<script>
+
+var data = [
+  {
+
+    z: {{matrix_illesi}},
+  x:["lunedi","martedi","mercoledi","giovedi","venerdi","sabato","domenica"],
+    y: ['1', '2', '3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24'],
+    colorscale: "YIOrRd",
+    reversescale: true,
+    autocolorscale: false,
+    type: 'heatmap',
+    hoverinfo: 'text',
+    showgrid:true
+   
+  },
+  
+];
+
+layout = {   
+   
+   width: 400,
+   height: 300,
+   margin: {
+     l: 40,
+     r: 50,
+     b: 80,
+     t: 35,
+     
+   },
+
+
+
+    showlegend: true,
+    title: '',  // more about "layout.title": #layout-title
+  
+   zaxis: {                  // all "layout.xaxis" attributes: #layout-xaxis
+        title: 'Hits',         // more about "layout.xaxis.title": #layout-xaxis-title
+       
+    },
+    xaxis: {                  // all "layout.xaxis" attributes: #layout-xaxis
+        title: 'giorno',         // more about "layout.xaxis.title": #layout-xaxis-title
+        showline: true,
+        mirror: "ticks",
+          },
+    yaxis: {
+    	  title: 'ora', 
+          showline: true,
+          mirror: "ticks",
+          }
+    
+};
+
+Plotly.newPlot('heatmap_illesi', data,layout,{showLink: false,displaylogo: false,displayModeBar: false});
+
+</script>
+<script>
+
+var data = [
+  {
+
+    z: {{matrix_feriti}},
+  x:["lunedi","martedi","mercoledi","giovedi","venerdi","sabato","domenica"],
+    y: ['1', '2', '3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24'],
+    colorscale: "YIOrRd",
+    reversescale: true,
+    autocolorscale: false,
+    type: 'heatmap',
+    hoverinfo: 'text',
+    showgrid:true
+   
+  },
+  
+];
+
+layout = {   
+   
+   width: 400,
+   height: 300,
+   margin: {
+     l: 40,
+     r: 50,
+     b: 80,
+     t: 35,
+     
+   },
+
+
+
+    showlegend: true,
+    title: '',  // more about "layout.title": #layout-title
+  
+   zaxis: {                  // all "layout.xaxis" attributes: #layout-xaxis
+        title: 'Hits',         // more about "layout.xaxis.title": #layout-xaxis-title
+       
+    },
+    xaxis: {                  // all "layout.xaxis" attributes: #layout-xaxis
+        title: 'giorno',         // more about "layout.xaxis.title": #layout-xaxis-title
+        showline: true,
+        mirror: "ticks",
+          },
+    yaxis: {
+    	  title: 'ora', 
+          showline: true,
+          mirror: "ticks",
+          }
+    
+};
+
+Plotly.newPlot('heatmap_feriti', data,layout,{showLink: false,displaylogo: false,displayModeBar: false});
+
+</script>
+
+<script>
+
+var data = [
+  {
+
+    z: {{matrix_morti}},
+  x:["lunedi","martedi","mercoledi","giovedi","venerdi","sabato","domenica"],
+    y: ['1', '2', '3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24'],
+    colorscale: "YIOrRd",
+    reversescale: true,
+    autocolorscale: false,
+    type: 'heatmap',
+    hoverinfo: 'text',
+    showgrid:true
+   
+  },
+  
+];
+
+layout = {   
+   
+   width: 400,
+   height: 300,
+   margin: {
+     l: 40,
+     r: 50,
+     b: 80,
+     t: 35,
+     
+   },
+
+
+
+    showlegend: true,
+    title: '',  // more about "layout.title": #layout-title
+  
+   zaxis: {                  // all "layout.xaxis" attributes: #layout-xaxis
+        title: 'Hits',         // more about "layout.xaxis.title": #layout-xaxis-title
+       
+    },
+    xaxis: {                  // all "layout.xaxis" attributes: #layout-xaxis
+        title: 'giorno',         // more about "layout.xaxis.title": #layout-xaxis-title
+        showline: true,
+        mirror: "ticks",
+          },
+    yaxis: {
+    	  title: 'ora', 
+          showline: true,
+          mirror: "ticks",
+          }
+    
+};
+
+Plotly.newPlot('heatmap_morti', data,layout,{showLink: false,displaylogo: false,displayModeBar: false});
+
+</script>
+
+
+
+<script>
+
+illuminazione_valori=[]
+illuminazione_lista=[]
+/*console.log({{illuminazione}}); */
+   {% for elem in illuminazione_valori %}
+   		
+   
+    illuminazione_valori.push("{{elem}}");
+    					
+   {% endfor %}
+  {% for elem in illuminazione_lista %}
+   		
+   
+   
+    illuminazione_lista.push("{{elem}}");
+    					
+   {% endfor %}
+
+var data = [{
+  values: illuminazione_valori,
+  labels: illuminazione_lista,
+  type: 'pie'
+}];
+
+
+var layout = { height: 350, width: 350, margin: {
+     l: 50,
+     r: 50,
+     b: 0,
+     t: 0,
+       } }; 
+
+Plotly.newPlot('pieIlluminazione',  data, layout, {showLink: false,displaylogo: false,displayModeBar: false});
+</script>
+
+
+
+
+
+
+<script>
+
+fondo_stradale_valori=[]
+fondo_stradale_lista=[]
+/*console.log({{illuminazione}}); */
+   {% for elem in fondo_stradale_valori %}
+   		
+   
+    fondo_stradale_valori.push("{{elem}}");
+    					
+   {% endfor %}
+  {% for elem in fondo_stradale_lista %}
+   		
+   
+   
+    fondo_stradale_lista.push("{{elem}}");
+    					
+   {% endfor %}
+
+var data = [{
+  values: fondo_stradale_valori,
+  labels: fondo_stradale_lista,
+  type: 'pie'
+}];
+
+var layout = { height: 400, width: 400, margin: {
+     l: 50,
+     r: 250,
+     b: 0,
+     t: 0,
+       } }; 
+
+Plotly.newPlot('pieFondoStradale', data, layout, {showLink: false,displaylogo: false,displayModeBar: false});
+</script>
+
+
+
+
+<script>
+
+particolarita_strada_valori=[]
+particolarita_strada_lista=[]
+/*console.log({{illuminazione}}); */
+   {% for elem in particolarita_strada_valori %}
+   		
+   
+    particolarita_strada_valori.push("{{elem}}");
+    					
+   {% endfor %}
+  {% for elem in particolarita_strada_lista %}
+   		
+   
+   
+    particolarita_strada_lista.push("{{elem}}");
+    					
+   {% endfor %}
+
+var data = [{
+  y: particolarita_strada_valori,
+  x: particolarita_strada_lista,
+  type: 'bar',
+  
+}];
+
+
+var layout = { height: 450, margin: {
+     l: 50,
+     r: 50,
+     b: 250,
+     t: 10,
+       } }; 
+
+
+Plotly.newPlot('pieParticolaritaStrada', data, layout, {showLink: false,displaylogo: false,displayModeBar: false});
+</script>
+
+
+<script>
+
+condizioni_atmosferiche_valori=[]
+condizioni_atmosferiche_lista=[]
+
+   {% for elem in condizioni_atmosferiche_valori %}
+   		
+   
+   	
+    condizioni_atmosferiche_valori.push("{{elem}}");
+    					
+   {% endfor %}
+  {% for elem in condizioni_atmosferiche_lista %}
+   		
+   
+   	
+    condizioni_atmosferiche_lista.push("{{elem}}");
+    					
+   {% endfor %}
+
+var data = [{
+  values: condizioni_atmosferiche_valori,
+  labels: condizioni_atmosferiche_lista,
+  type: 'pie'
+}];
+
+var layout = { height: 350, width: 350, margin: {
+     l: 70,
+     r: 50,
+     b: 0,
+     t: 0,
+       } }; 
+
+
+Plotly.newPlot('pieCondizioniAtmosferiche', data, layout, {showLink: false,displaylogo: false,displayModeBar: false});
+</script>
+
+
+<script>
+
+visibilita_valori=[]
+visibilita_lista=[]
+/*console.log({{illuminazione}}); */
+   {% for elem in visibilita_valori %}
+   		
+   
+   	
+    visibilita_valori.push("{{elem}}");
+    					
+   {% endfor %}
+  {% for elem in visibilita_lista %}
+   		
+   
+   
+    visibilita_lista.push("{{elem}}");
+    					
+   {% endfor %}
+
+var data = [{
+  values: visibilita_valori,
+  labels: visibilita_lista,
+  type: 'pie'
+}];
+
+
+var layout = { height: 350, width: 350, margin: {
+     l: 50,
+     r: 50,
+     b: 0,
+     t: 0,
+       } }; 
+
+Plotly.newPlot('pieVisibilita', data, layout, {showLink: false,displaylogo: false,displayModeBar: false});
+</script>
+
+<!-- 
+<script>
+var lista_x=[
+{% for i,j in dataOraIncidente.items %}
+'{{j}}',
+{% endfor %}0]
+
+var lista_y=[
+{% for i,j in dataOraIncidente.items %}
+1,
+{% endfor %}0]
+
+var trace1 = {
+  x: lista_x,
+  y: lista_y,
+  name: 'giorni',
+  type: 'bar'
+};
+
+
+var data = [trace1];
+var layout = {barmode: 'bar'};
+
+Plotly.newPlot('giorni', data, layout);
+</script>
+
+-->
+
+
+{% endblock %}
+
+
+<!-- END JAVASCRIPTS -->
+
+
+</body><!-- END BODY --></html>

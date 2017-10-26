@@ -1,0 +1,108 @@
+{% extends "paladin/base.html" %}
+{% load staticfiles %}
+
+
+{% block breadcrumbs %}
+					<div class="breadcrumb-line">
+						<ul class="breadcrumb">
+							<li><a href=""><i class="icon-home2 position-left"></i> Home</a></li>
+							
+							<li class="active">Search</li>
+						</ul>
+
+						<ul class="breadcrumb-elements">
+							<li><a href="#"><i class="icon-comment-discussion position-left"></i> Support</a></li>
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+									<i class="icon-gear position-left"></i>
+									Settings
+									<span class="caret"></span>
+								</a>
+
+								<ul class="dropdown-menu dropdown-menu-right">
+									<li><a href="#"><i class="icon-user-lock"></i> Account security</a></li>
+									<li><a href="#"><i class="icon-statistics"></i> Analytics</a></li>
+									<li><a href="#"><i class="icon-accessibility"></i> Accessibility</a></li>
+									<li class="divider"></li>
+									<li><a href="#"><i class="icon-gear"></i> All settings</a></li>
+								</ul>
+							</li>
+						</ul>
+					<a class="breadcrumb-elements-toggle"><i class="icon-menu-open"></i></a>
+					</div>
+
+
+{% endblock %}
+
+{% block content %}
+
+				<!-- Content area -->
+				<div class="content">
+
+					<!-- Main charts -->
+				
+					<!-- /main charts -->
+
+
+					<!-- Dashboard content -->
+					 <form action="/" method="post">
+					 {% csrf_token %}
+				    <label for="query">Ricerca: </label>
+				    <input id="query" type="text" name="query" value="">
+				    <input type="submit" value="OK">
+					</form>
+
+					{% if query_value  %}
+					<h3>Results for {{ query_value}}</h3>
+					{% endif  %}
+					<!-- /dashboard content -->
+					<p id="demo"></p>
+
+					<!-- Footer -->
+					<div class="footer text-muted">
+						© 2015. <a href="#">Paladin 2</a> by <a href="http://www.fub.it" target="_blank">FUB</a>
+					</div>
+					<!-- /footer -->
+
+				</div>
+				<!-- /content area -->
+{% endblock %}
+
+
+{% block script %}
+
+
+				<script src="https://cdn.blockspring.com/blockspring.js"></script>
+
+
+				<script>
+				  blockspring.runParsed("youtube-video-search", { "query": "{{ query_value}}",  "author": "rai", }, { "api_key": "br_24571_0ec006b950d2de2d74f7bb53a97f71404fb34595" }, function(res){
+				    
+				console.log(res.params.search_results.length)
+				console.log(res.params.search_results);
+				text="";
+				title="";
+				image="";
+				text += "<div class='container'><div class='col-md-12'>";
+				for (i = 0; i < res.params.search_results.length; i++) { 
+					
+					title=res.params.search_results[i].title;
+					img=res.params.search_results[i].thumbnails.high.url;
+					channel=res.params.search_results[i].channelTitle;
+					videoId=res.params.search_results[i].videoId;
+					if (channel != "rai")
+						{
+				    text += "<div class='col-md-6' ><br><strong>Title: </strong>"+ title+ "<br><strong>Description: </strong>"+res.params.search_results[i].description +"<br><strong>Canale: </strong>"+channel+"<br><strong>VideoId:</strong> <a target='_blank' href='https://www.youtube.com/watch?v="+videoId+"'>"+videoId+"</a><br><img src='"+img+"' /><div class='caption'><button class='btn btn-danger'>Segnala</button></div></div>";}
+				}
+
+
+
+
+
+				text += "</div></div>";
+				document.getElementById("demo").innerHTML = text ;
+
+
+				  })
+				</script>
+{% endblock %}

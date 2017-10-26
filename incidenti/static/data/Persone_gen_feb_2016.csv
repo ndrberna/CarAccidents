@@ -1,0 +1,1955 @@
+IDProtocollo,_IDVeicolo,_Progressivo,_TipoPersona,_AnnoNascita,_Sesso,_TipoLesione,_Deceduto,_CinturaCascoUtilizzato,_Airbag,_DecedutoDopo
+2639429,1022333,1,Conducente,1942,M,Rimandato,False,,,NON DECEDUTO
+2639735,1022373,1,Passeggero,2007,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2639735,1022373,1,Passeggero,1998,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2639735,1022373,1,Conducente,1979,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2639735,1022373,1,Passeggero,1981,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2639910,1022444,1,Conducente,1977,M,Rimandato,False,,,NON DECEDUTO
+2640149,1022469,1,Conducente,1991,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2640181,1022563,2,Conducente,1996,M,Rimandato,False,,,NON DECEDUTO
+2640254,1022490,2,Conducente,1992,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2640288,1022510,2,Conducente,1968,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2640318,1022524,1,Conducente,1963,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2640320,1022531,2,Conducente,1987,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2640366,1022550,3,Passeggero,1937,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2640405,1022571,2,Passeggero,1998,M,Rimandato,False,,,NON DECEDUTO
+2640405,1022571,2,Conducente,1999,M,Rimandato,False,,,NON DECEDUTO
+2640407,1022566,2,Conducente,1974,F,Ricoverato,False,Non accertato,Esploso,NON DECEDUTO
+2640483,1022591,2,Conducente,1970,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2640726,1022658,1,Conducente,1964,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2640734,1022665,1,Conducente,1958,F,Rimandato,False,,,NON DECEDUTO
+2640743,1022675,1,Passeggero,1985,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2640746,1022680,1,Passeggero,1992,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2640777,1022695,1,Conducente,1990,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2640777,1022699,2,Conducente,1994,M,Rimandato,False,,,NON DECEDUTO
+2640796,1022703,2,Conducente,1984,M,Rifiuta cure immediate,False,Esente,,NON DECEDUTO
+2640900,1022719,1,Conducente,1979,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2640920,1022725,1,Conducente,1974,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2641023,1022741,1,Passeggero,2005,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2641023,1022741,1,Conducente,1979,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2641023,1022741,1,Passeggero,2009,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2641135,1022757,1,Conducente,1972,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2641419,1022828,1,Conducente,1947,M,Rimandato,False,,,NON DECEDUTO
+2641419,1022830,2,Conducente,1981,M,Ricoverato,False,,,NON DECEDUTO
+2641425,1022872,1,Passeggero,1952,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2641446,1023086,1,Passeggero,2002,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2641446,1023086,1,Passeggero,1999,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2641446,1023086,1,Conducente,1976,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2641448,1023092,1,Conducente,1976,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2641449,1022908,1,Conducente,1984,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2641451,1022835,1,Conducente,1991,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2641452,1022855,2,Conducente,1990,M,Prognosi riservata,False,Utilizzato,,NON DECEDUTO
+2641453,1023099,2,Conducente,1980,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2641457,1023103,2,Conducente,1988,M,Rimandato,False,,,NON DECEDUTO
+2641473,1022844,1,Conducente,1979,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2641484,1022850,1,Conducente,1961,F,Rimandato,False,,,NON DECEDUTO
+2641487,1022853,1,Conducente,1989,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2641498,1022863,2,Conducente,1980,M,Ricoverato,False,,,NON DECEDUTO
+2641517,1022935,1,Passeggero,1938,F,Ricoverato,False,Non accertato,Esploso,NON DECEDUTO
+2641517,1022935,1,Conducente,1933,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2641538,1022881,1,Conducente,1962,M,Rimandato,False,,,NON DECEDUTO
+2641545,1022885,1,Conducente,1985,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2641545,1031641,3,Conducente,1945,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2641545,1031641,3,Passeggero,1942,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2641549,1022891,1,Passeggero,1988,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2641552,1022907,1,Passeggero,1961,F,Rimandato,False,,,NON DECEDUTO
+2641576,1022904,1,Conducente,1935,M,Rimandato,False,,,NON DECEDUTO
+2641596,1022905,1,Conducente,1994,M,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2641599,1022932,2,Passeggero,1979,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2641606,1022909,1,Conducente,1994,M,Rimandato,False,,,NON DECEDUTO
+2641620,1022916,1,Conducente,1981,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2641634,1022923,1,Conducente,1947,M,Rimandato,False,,,NON DECEDUTO
+2641643,1022933,1,Passeggero,1985,F,Rimandato,False,,,NON DECEDUTO
+2641643,1022933,1,Conducente,1987,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2641645,1022939,1,Passeggero,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2641659,1022950,1,Conducente,1992,F,Rimandato,False,,,NON DECEDUTO
+2641703,1022982,2,Passeggero,1970,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2641703,1022982,2,Conducente,1991,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2641744,1022994,1,Conducente,1993,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2641765,1023266,1,Conducente,1991,F,Rimandato,False,,,NON DECEDUTO
+2641765,1023272,2,Passeggero,1982,F,Ricoverato,False,,,NON DECEDUTO
+2641786,1023011,1,Conducente,1988,F,Rimandato,False,Utilizzato,Esploso,NON DECEDUTO
+2641870,1023036,1,Conducente,1977,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2641906,1023046,1,Conducente,1979,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2641934,1023048,1,Conducente,1977,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2642163,1023097,1,Passeggero,1935,F,Rimandato,False,,,NON DECEDUTO
+2642168,1023100,2,Conducente,1964,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2642472,1030984,2,Conducente,1961,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2642479,1023157,1,Conducente,1994,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2642480,1028210,1,Passeggero,1993,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2642480,1028210,1,Conducente,1987,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2642488,1023162,1,Conducente,1982,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2642493,1023163,1,Conducente,1941,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2642493,1023163,1,Passeggero,1934,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2642506,1023168,1,Conducente,0,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2642508,1023170,1,Conducente,1972,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2642508,1023170,1,Passeggero,1977,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2642508,1023170,1,Passeggero,2009,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2642508,1023170,1,Passeggero,2006,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2642508,1023170,1,Passeggero,2015,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2642508,1023170,1,Passeggero,2003,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2642508,1023171,2,Passeggero,1969,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2642508,1023171,2,Passeggero,1977,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2642508,1023171,2,Conducente,1955,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2642508,1023171,2,Passeggero,1981,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2642517,1023173,1,Conducente,1967,M,Rimandato,False,,,NON DECEDUTO
+2642526,1023175,1,Conducente,1937,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2642526,1023188,2,Conducente,1934,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2642542,1023178,2,Passeggero,2007,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2642542,1023178,2,Conducente,1972,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2642542,1023178,2,Passeggero,2003,F,Rimandato,False,Non utilizzato,Esploso,NON DECEDUTO
+2642542,1023178,2,Passeggero,2003,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2642544,1023183,1,Conducente,1963,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2642544,1023205,2,Conducente,1996,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2642544,1023205,2,Passeggero,1990,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2642566,1023248,1,Conducente,1988,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2642568,1023194,1,Conducente,1972,F,Rimandato,False,,,NON DECEDUTO
+2642571,1023199,1,Conducente,1998,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2642597,1023214,1,Passeggero,1986,M,Rimandato,False,,,NON DECEDUTO
+2642597,1023214,1,Conducente,1982,M,Rimandato,False,,,NON DECEDUTO
+2642597,1023214,1,Passeggero,1988,M,Rimandato,False,,,NON DECEDUTO
+2642614,1023226,2,Conducente,1993,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2642643,1030658,1,Passeggero,1984,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2642643,1030658,1,Conducente,1989,M,Rifiuta cure immediate,False,Non accertato,Esploso,NON DECEDUTO
+2642695,1023271,1,Conducente,1993,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2642707,1023286,2,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2642707,1023286,2,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2642707,1023286,2,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2642707,1023286,2,Conducente,1967,M,Rimandato,False,,,NON DECEDUTO
+2642707,1023286,2,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2642714,1023278,1,Conducente,1987,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2642714,1023278,1,Passeggero,1993,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2642714,1023278,1,Passeggero,1994,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2642714,1023278,1,Passeggero,1991,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2642714,1023282,2,Passeggero,1992,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2642714,1023282,2,Conducente,1992,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2642717,1023281,1,Conducente,1969,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2642731,1023294,2,Passeggero,1961,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2642740,1023293,2,Conducente,1994,F,Rimandato,False,,,NON DECEDUTO
+2642759,1023299,1,Passeggero,1947,F,Rimandato,False,,,NON DECEDUTO
+2642759,1023299,1,Conducente,1945,M,Rimandato,False,,,NON DECEDUTO
+2642813,1023840,2,Conducente,1990,M,Rimandato,False,,,NON DECEDUTO
+2642829,1023970,1,Conducente,1971,F,Rimandato,False,,,NON DECEDUTO
+2642829,1023970,1,Passeggero,2002,M,Rimandato,False,,,NON DECEDUTO
+2642862,1023980,1,Conducente,1993,F,Rimandato,False,,,NON DECEDUTO
+2643114,1023376,1,Conducente,1957,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2643180,1023392,1,Passeggero,1956,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2643180,1023392,1,Passeggero,1982,M,Rimandato,False,,,NON DECEDUTO
+2643180,1023392,1,Conducente,1971,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2643180,1023392,1,Passeggero,1972,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2643180,1023392,1,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2643180,1023392,1,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2643180,1023392,1,Passeggero,0,F,Rimandato,False,,,NON DECEDUTO
+2643180,1023392,1,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2643180,1023392,1,Passeggero,1961,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2643349,1023433,1,Conducente,1970,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2643415,1023450,1,Conducente,1964,M,Rimandato,False,Utilizzato,Esploso,NON DECEDUTO
+2643415,1023450,1,Passeggero,2009,F,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2643454,1023612,2,Conducente,1966,F,Ricoverato,False,Non accertato,Inesploso,NON DECEDUTO
+2643693,1023531,1,Conducente,1968,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2643693,1023533,2,Conducente,1992,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2643697,1023532,1,Passeggero,1949,F,Rimandato,False,Utilizzato,Esploso,NON DECEDUTO
+2643800,1023556,1,Conducente,1992,M,Ricoverato,False,Non accertato,Esploso,NON DECEDUTO
+2643800,1023557,2,Conducente,1995,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2643800,1023557,2,Passeggero,1996,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2643800,1023557,2,Passeggero,1996,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2643868,1023574,1,Conducente,1951,F,Rimandato,False,,,NON DECEDUTO
+2643884,1023578,1,Passeggero,1983,M,Rimandato,False,,,NON DECEDUTO
+2644113,1023595,2,Conducente,1967,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2644133,1023606,1,Passeggero,1927,F,Ricoverato,False,Non accertato,Esploso,DECEDUTO DA 13 A 24 ORE DOPO
+2644133,1023606,1,Conducente,1957,F,Ricoverato,False,,,NON DECEDUTO
+2644264,1023644,1,Conducente,1996,M,Ricoverato,False,,,NON DECEDUTO
+2644264,1023644,1,Passeggero,1995,M,Rimandato,False,,,NON DECEDUTO
+2644582,1023714,1,Conducente,1973,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2644657,1023732,1,Conducente,1931,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2644657,1023732,1,Passeggero,1932,F,Prognosi riservata,False,Non accertato,,NON DECEDUTO
+2644667,1023734,1,Passeggero,1983,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2644667,1023734,1,Conducente,1983,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2644667,1023734,1,Passeggero,1990,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2644667,1023735,2,Passeggero,1956,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2644667,1023735,2,Conducente,1957,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2644670,1023762,2,Conducente,1989,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2644691,1023745,1,Conducente,1986,M,Rimandato,False,,,NON DECEDUTO
+2644695,1023743,2,Conducente,1948,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2644720,1023774,1,Passeggero,1978,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2644728,1023767,1,Conducente,1935,M,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2644769,1023894,1,Conducente,1973,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2644769,1023900,2,Passeggero,1986,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2644777,1023950,1,Conducente,1959,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2644778,1023794,1,Passeggero,1990,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2644778,1023795,2,Conducente,1968,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2644787,1023798,1,Conducente,1985,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2644795,1023903,1,Conducente,1991,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2644806,1023811,1,Conducente,1995,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2644806,1023811,1,Passeggero,1995,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2644827,1023957,1,Conducente,1976,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2644834,1023819,2,Conducente,1974,M,Rimandato,False,,,NON DECEDUTO
+2644844,1023822,1,Conducente,1993,M,Prognosi riservata,False,,,NON DECEDUTO
+2644857,1024091,1,Conducente,1954,M,Ricoverato,False,Utilizzato,Esploso,NON DECEDUTO
+2644932,1023869,1,Passeggero,1967,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2645031,1024070,2,Conducente,1996,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2645031,1024070,2,Passeggero,1938,F,Rimandato,False,,,NON DECEDUTO
+2645031,1024070,2,Passeggero,1991,M,Rimandato,False,,,NON DECEDUTO
+2645053,1023920,2,Conducente,1978,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2645073,1023930,2,Conducente,1976,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2645087,1023935,1,Conducente,1980,F,Rimandato,False,,,NON DECEDUTO
+2645087,1023935,1,Passeggero,0,F,Rimandato,False,,,NON DECEDUTO
+2645112,1023938,1,Conducente,1951,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2645356,1024011,2,Passeggero,1935,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2645491,1024051,1,Conducente,1993,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2645532,1024065,2,Conducente,1967,M,Rimandato,False,,,NON DECEDUTO
+2645571,1024348,1,Conducente,1989,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2645627,1024094,1,Conducente,1958,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2645627,1024097,2,Conducente,1963,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2645642,1024103,1,Conducente,1983,M,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2645764,1024140,1,Conducente,1997,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2645863,1024157,1,Conducente,1984,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2645934,1024340,2,Passeggero,1992,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2645934,1024340,2,Conducente,1986,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2645943,1024351,1,Conducente,1988,M,Rifiuta cure immediate,False,Non accertato,Esploso,NON DECEDUTO
+2645943,1024351,1,Passeggero,1990,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2645943,1024355,2,Conducente,1975,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2645947,1024166,2,Conducente,1975,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2645954,1024170,1,Conducente,1996,M,Rimandato,False,,,NON DECEDUTO
+2645956,1024168,1,Conducente,1968,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2645964,1024174,2,Conducente,1995,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2646015,1024194,2,Conducente,1967,M,Rimandato,False,,,NON DECEDUTO
+2646029,1024193,1,Conducente,1974,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2646036,1024197,1,Passeggero,2010,F,Rimandato,False,,,NON DECEDUTO
+2646048,1024198,1,Conducente,1952,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2646048,1024198,1,Passeggero,1954,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2646069,1024233,2,Conducente,1965,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2646069,1024233,2,Passeggero,1967,F,Ricoverato,False,Non accertato,,NON DECEDUTO
+2646077,1024214,2,Conducente,1983,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2646078,1024207,1,Conducente,1953,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2646149,1024239,1,Conducente,1934,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2646186,1024254,2,Conducente,1955,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2646268,1024301,2,Conducente,1969,M,Rifiuta cure immediate,False,Utilizzato,,NON DECEDUTO
+2646278,1024285,2,Conducente,1965,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2646278,1024287,3,Passeggero,1955,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2646405,1024329,1,Conducente,1937,M,Rimandato,False,,,NON DECEDUTO
+2646405,1024329,1,Passeggero,1939,F,Rimandato,False,,,NON DECEDUTO
+2646633,1024373,1,Conducente,1957,M,Rimandato,False,,,NON DECEDUTO
+2646804,1024418,1,Passeggero,2005,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2647061,1024474,1,Conducente,1977,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2647062,1024510,1,Conducente,1942,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2647066,1024494,1,Conducente,1979,M,Rimandato,False,,,NON DECEDUTO
+2647089,1024478,1,Conducente,1941,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2647106,1024519,1,Conducente,1992,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2647113,1024490,2,Conducente,1980,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2647250,1024530,1,Conducente,1994,M,Rimandato,False,Esente,,NON DECEDUTO
+2647261,1025026,1,Conducente,1970,F,Prognosi riservata,False,,,NON DECEDUTO
+2647261,1025026,1,Passeggero,1976,F,Rimandato,False,,,NON DECEDUTO
+2647263,1024561,2,Conducente,1960,M,Rimandato,False,,,NON DECEDUTO
+2647325,1024556,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2647329,1024563,2,Conducente,1979,F,Rimandato,False,,,NON DECEDUTO
+2647342,1024562,1,Conducente,1968,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2647481,1024593,2,Conducente,1996,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2647481,1024593,2,Passeggero,1996,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2647481,1024593,2,Passeggero,1997,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2647609,1024612,2,Conducente,1942,M,Rimandato,False,,,NON DECEDUTO
+2647773,1024638,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2648157,1024746,2,Conducente,1963,M,Rimandato,False,,,NON DECEDUTO
+2648198,1024750,1,Conducente,1952,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2648198,1024751,2,Conducente,1972,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2648206,1024760,1,Conducente,1974,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2648206,1024764,2,Conducente,1975,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2648211,1024761,1,Conducente,1996,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2648220,1024767,1,Conducente,1979,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2648223,1024772,1,Conducente,1959,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2648223,1024777,2,Conducente,1993,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2648223,1024777,2,Passeggero,1995,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2648223,1024778,3,Conducente,1989,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2648233,1024775,1,Conducente,1988,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2648233,1024775,1,Passeggero,1989,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2648246,1024783,2,Conducente,1996,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2648496,1024808,1,Conducente,1973,M,Rimandato,False,,,NON DECEDUTO
+2648503,1024810,1,Conducente,1970,F,Rimandato,False,,,NON DECEDUTO
+2648503,1024810,1,Passeggero,2004,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2648503,1024810,1,Passeggero,2011,F,Rimandato,False,,,NON DECEDUTO
+2648505,1024816,1,Conducente,1939,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2648505,1024819,2,Conducente,1996,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2648532,1024818,1,Passeggero,1965,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2648532,1024818,1,Conducente,1969,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2648634,1024851,2,Conducente,1971,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2648637,1024846,2,Conducente,1963,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2648906,1024893,1,Conducente,1964,M,Rimandato,False,Esente,,NON DECEDUTO
+2648908,1024894,1,Passeggero,1976,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2648940,1024897,2,Conducente,1971,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2648948,1024938,2,Passeggero,1959,M,Rifiuta cure immediate,False,Esente,Inesistente,NON DECEDUTO
+2648970,1024906,1,Passeggero,1979,F,Ricoverato,False,Non accertato,Inesploso,NON DECEDUTO
+2648984,1024904,1,Conducente,1984,F,Rimandato,False,,,NON DECEDUTO
+2648984,1024912,2,Conducente,1954,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2648984,1024912,2,Passeggero,1956,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2649006,1024954,2,Passeggero,1970,F,Rimandato,False,,,NON DECEDUTO
+2649006,1024954,2,Passeggero,2008,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2649006,1024954,2,Passeggero,2004,M,Rimandato,False,,,NON DECEDUTO
+2649006,1024993,3,Passeggero,1972,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2649006,1024993,3,Conducente,1996,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2649018,1024999,1,Conducente,1992,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2649024,1024914,1,Conducente,1963,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2649024,1024914,1,Passeggero,1996,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2649041,1024932,2,Passeggero,1961,M,Rimandato,False,,,NON DECEDUTO
+2649041,1024932,2,Conducente,1972,M,Rimandato,False,,,NON DECEDUTO
+2649050,1025041,1,Conducente,1977,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2649051,1024920,2,Conducente,1975,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2649053,1025162,2,Passeggero,1997,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2649053,1025162,2,Conducente,1996,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2649062,1024933,1,Conducente,1984,F,Rimandato,False,,,NON DECEDUTO
+2649073,1024929,1,Conducente,1972,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2649073,1024934,2,Conducente,1994,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2649102,1024963,2,Conducente,1987,M,Rimandato,False,,,NON DECEDUTO
+2649109,1024956,1,Conducente,1989,M,Rimandato,False,Esente,,NON DECEDUTO
+2649132,1025067,2,Conducente,1992,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2649197,1024997,1,Passeggero,1987,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2649197,1025000,2,Passeggero,1985,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2649247,1025020,1,Conducente,1987,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2649247,1025020,1,Passeggero,1981,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2649247,1025030,2,Passeggero,1985,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2649247,1025030,2,Conducente,1984,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2649247,1025034,3,Passeggero,2007,M,Prognosi riservata,False,Non accertato,Inesploso,NON DECEDUTO
+2649247,1025034,3,Passeggero,2011,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2649247,1025034,3,Passeggero,1976,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2649247,1025034,3,Conducente,1943,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2649252,1025024,1,Conducente,1982,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2649252,1025025,2,Conducente,1972,F,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2649262,1025045,2,Conducente,1971,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2649264,1025031,1,Conducente,1981,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2649276,1025042,2,Passeggero,1994,M,Rimandato,False,,,NON DECEDUTO
+2649276,1025042,2,Passeggero,1993,M,Rimandato,False,,,NON DECEDUTO
+2649276,1025042,2,Conducente,1993,M,Rimandato,False,,,NON DECEDUTO
+2649276,1025042,2,Passeggero,1993,M,Rimandato,False,,,NON DECEDUTO
+2649276,1025042,2,Passeggero,1992,M,Rimandato,False,,,NON DECEDUTO
+2649276,1025042,2,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2649279,1025039,1,Conducente,1987,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2649295,1025047,1,Conducente,1989,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2649343,1025058,1,Conducente,1991,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2649399,1025080,1,Passeggero,1983,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2649405,1025087,2,Passeggero,1991,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2649423,1025106,2,Conducente,1955,M,Rimandato,False,Esente,,NON DECEDUTO
+2649444,1025105,1,Conducente,1972,M,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2649453,1025107,1,Conducente,1969,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2649485,1025116,1,Passeggero,1993,F,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2649485,1025116,1,Conducente,1993,M,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2649517,1025155,2,Conducente,1979,F,Ricoverato,False,Non accertato,Esploso,NON DECEDUTO
+2649572,1025153,1,Conducente,1989,M,Rimandato,False,Utilizzato,Esploso,NON DECEDUTO
+2649592,1025165,1,Conducente,1971,M,Ricoverato,False,Utilizzato,,NON DECEDUTO
+2649621,1025175,1,Conducente,1973,F,Rimandato,False,,,NON DECEDUTO
+2649657,1025178,1,Conducente,1968,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2649657,1025178,1,Passeggero,1994,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2649736,1025193,2,Conducente,1966,M,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2649736,1025202,3,Passeggero,1946,M,Rimandato,False,Utilizzato,Esploso,NON DECEDUTO
+2649856,1025222,2,Conducente,0,F,Rimandato,False,,,NON DECEDUTO
+2649863,1025228,1,Conducente,1997,M,Rimandato,False,,,NON DECEDUTO
+2649939,1025250,1,Conducente,1980,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2649947,1025251,1,Passeggero,1985,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2650008,1025266,2,Conducente,1980,M,Rimandato,False,,,NON DECEDUTO
+2650022,1025273,1,Conducente,1964,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2650044,1025285,2,Conducente,1982,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2650070,1025292,2,Conducente,1984,F,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2650079,1025294,1,Conducente,1975,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2650300,1025341,2,Conducente,1994,F,Rimandato,False,,,NON DECEDUTO
+2650313,1025347,1,Conducente,1987,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2650334,1025355,2,Conducente,1971,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2650344,1025359,2,Conducente,1973,M,Ricoverato,False,,,NON DECEDUTO
+2650371,1025365,2,Conducente,1946,M,Ricoverato,False,,,NON DECEDUTO
+2650373,1025421,2,Conducente,1947,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2650377,1025368,3,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2650379,1025681,1,Conducente,1989,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2650381,1025526,2,Passeggero,1960,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2650381,1025526,2,Conducente,1954,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2650417,1025374,1,Conducente,1988,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2650417,1025379,2,Conducente,1995,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2650419,1025373,1,Conducente,1977,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2650419,1025378,2,Conducente,1972,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2650435,1025383,3,Conducente,1998,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2650455,1025400,2,Conducente,1954,M,Rimandato,False,,,NON DECEDUTO
+2650481,1025413,1,Passeggero,1983,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2650481,1025413,1,Conducente,1972,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2650524,1025424,1,Conducente,1953,M,Ricoverato,False,Esente,,NON DECEDUTO
+2650564,1025439,2,Conducente,0,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2650573,1025442,2,Conducente,1971,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2650623,1025533,1,Conducente,1999,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2650623,1025533,1,Passeggero,1999,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2650661,1025470,1,Conducente,1964,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2650678,1025479,1,Conducente,1994,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2650753,1025510,2,Conducente,1975,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2650811,1025528,1,Conducente,1982,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2650811,1025528,1,Passeggero,1987,F,Rimandato,False,,,NON DECEDUTO
+2650811,1025534,2,Passeggero,2008,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2650811,1025534,2,Conducente,1966,M,Rimandato,False,,,NON DECEDUTO
+2650811,1025534,2,Passeggero,0,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2650890,1025563,1,Conducente,1996,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2651123,1025602,2,Conducente,1955,M,Rimandato,False,,,NON DECEDUTO
+2651202,1025619,1,Conducente,1964,M,Rimandato,False,,,NON DECEDUTO
+2651215,1025620,1,Conducente,1943,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2651215,1025641,4,Conducente,1979,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2651433,1025706,3,Conducente,1953,F,Rimandato,False,,,NON DECEDUTO
+2651454,1025704,1,Conducente,1988,F,Ricoverato,False,Non accertato,,NON DECEDUTO
+2651467,1025715,1,Conducente,1990,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2651481,1025711,1,Passeggero,1967,F,Rimandato,False,,,NON DECEDUTO
+2651512,1025734,1,Conducente,1968,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2651525,1025724,1,Conducente,1979,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2651806,1025791,3,Conducente,1958,M,Rifiuta cure immediate,False,Utilizzato,Inesploso,NON DECEDUTO
+2651864,1031672,1,Conducente,1972,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2651865,1031087,2,Conducente,1973,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2651871,1025897,1,Conducente,1981,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2651925,1025811,1,Conducente,1995,M,Rimandato,False,,,NON DECEDUTO
+2651925,1025818,2,Conducente,1935,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2651925,1025818,2,Passeggero,1933,M,Rimandato,False,,,NON DECEDUTO
+2651975,1025826,1,Conducente,1992,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2651975,1025831,2,Conducente,1960,F,Rifiuta cure immediate,False,Non accertato,Esploso,NON DECEDUTO
+2651983,1025834,2,Conducente,1971,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2652031,1025886,2,Passeggero,1950,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2652031,1025886,2,Conducente,1948,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2652050,1025851,1,Conducente,1974,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2652078,1025855,1,Conducente,1982,M,Rimandato,False,,,NON DECEDUTO
+2652085,1025857,2,Conducente,1967,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2652110,1025863,1,Passeggero,0,F,Rimandato,False,,,NON DECEDUTO
+2652137,1025870,1,Conducente,1962,F,Rifiuta cure immediate,False,,Esploso,NON DECEDUTO
+2652195,1025967,3,Passeggero,1987,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2652260,1025888,1,Conducente,1982,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2652260,1025888,1,Passeggero,1986,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2652279,1025915,2,Conducente,1952,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2652339,1025917,1,Conducente,1988,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2652344,1025919,2,Conducente,1974,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2652371,1025930,1,Conducente,1977,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2652377,1025936,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2652404,1025954,1,Conducente,1943,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2652408,1025951,2,Passeggero,1945,F,Rimandato,False,Utilizzato,,NON DECEDUTO
+2652518,1026438,2,Conducente,1956,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2652653,1026019,2,Conducente,1960,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2652865,1027980,2,Conducente,1942,F,Ricoverato,False,Non accertato,Esploso,NON DECEDUTO
+2652865,1027981,3,Conducente,1989,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2652872,1026068,1,Conducente,1953,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2652872,1026072,2,Conducente,1977,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2652952,1026086,2,Conducente,1960,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2652976,1026107,2,Conducente,1969,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2652977,1026089,1,Passeggero,0,F,Rimandato,False,,,NON DECEDUTO
+2652983,1026120,2,Conducente,1983,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2652994,1026093,1,Conducente,1939,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2652994,1026094,2,Passeggero,1993,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2652994,1026094,2,Conducente,1994,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2653006,1026095,1,Conducente,1966,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2653017,1026610,1,Conducente,1940,M,Rifiuta cure immediate,False,Utilizzato,Inesistente,NON DECEDUTO
+2653017,1027385,2,Conducente,1947,M,Rifiuta cure immediate,False,Utilizzato,Esploso,NON DECEDUTO
+2653429,1048041,1,Conducente,1965,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2653429,1048053,2,Conducente,1996,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2653432,1026419,1,Conducente,1969,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2653432,1026429,2,Conducente,1988,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2653432,1026429,2,Passeggero,1988,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2653433,1026443,2,Conducente,1971,F,Rifiuta cure immediate,False,Non utilizzato,Inesploso,NON DECEDUTO
+2653438,1026339,2,Conducente,1961,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2653439,1038379,1,Conducente,1961,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2653439,1038379,1,Passeggero,1954,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2653443,1026194,1,Conducente,1971,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2653457,1026203,2,Conducente,1972,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2653461,1026207,1,Conducente,1996,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2653479,1026212,1,Conducente,1933,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2653494,1026224,2,Conducente,1971,M,Rimandato,False,Esente,,NON DECEDUTO
+2653542,1026234,1,Conducente,1967,M,Rimandato,False,,,NON DECEDUTO
+2653564,1026236,1,Conducente,1988,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2653590,1026256,2,Conducente,1970,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2653608,1026245,2,Conducente,1989,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2653612,1026244,1,Conducente,1981,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2653613,1026252,2,Conducente,1993,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2653617,1026248,1,Conducente,1937,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2653617,1026261,2,Conducente,1944,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2653618,1026247,1,Conducente,1969,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2653634,1026274,2,Conducente,1971,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2653660,1026279,2,Conducente,1962,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2653663,1026272,1,Conducente,1974,M,Rimandato,False,,,NON DECEDUTO
+2653682,1026278,1,Conducente,1970,F,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2653682,1026278,1,Passeggero,2007,M,Rimandato,False,Non utilizzato,Inesploso,NON DECEDUTO
+2653682,1026284,2,Conducente,1981,M,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2653682,1026284,2,Passeggero,1978,F,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2653682,1026287,3,Conducente,1981,M,Rimandato,False,Utilizzato,Inesistente,NON DECEDUTO
+2653695,1026286,1,Conducente,1965,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2653701,1026289,1,Conducente,1933,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2653728,1026317,2,Conducente,1965,M,Rimandato,False,,,NON DECEDUTO
+2653746,1026307,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2653814,1026335,1,Passeggero,2006,F,Rimandato,False,,,NON DECEDUTO
+2653814,1026335,1,Passeggero,1974,F,Rimandato,False,,,NON DECEDUTO
+2653827,1026378,2,Conducente,1964,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2653828,1026340,2,Conducente,1963,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2653954,1026380,2,Conducente,1992,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2654082,1026467,2,Passeggero,1981,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2654082,1026467,2,Passeggero,2005,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2654091,1026821,1,Passeggero,1946,F,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2654094,1026887,2,Conducente,1954,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2654155,1026407,1,Conducente,1986,M,Ricoverato,False,,,NON DECEDUTO
+2654277,1026631,1,Conducente,1953,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2654328,1026442,2,Conducente,1967,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2654561,1026625,1,Passeggero,2015,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2654561,1026625,1,Conducente,1982,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2654595,1026504,2,Conducente,1971,M,Rimandato,False,,,NON DECEDUTO
+2654841,1026569,2,Conducente,1991,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2654841,1026569,2,Passeggero,1996,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2654858,1045929,2,Passeggero,2011,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2654858,1045929,2,Conducente,1972,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2654901,1026577,1,Conducente,1971,F,Rimandato,False,,,NON DECEDUTO
+2654903,1035963,1,Conducente,1981,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2654909,1026581,2,Conducente,1975,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2654913,1026762,2,Conducente,1985,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2654948,1026587,1,Conducente,1981,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2654953,1026591,2,Conducente,1970,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2654979,1028517,2,Conducente,1935,M,Rimandato,False,,,NON DECEDUTO
+2654981,1026592,2,Conducente,1968,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2654986,1026657,1,Conducente,1972,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2654986,1026666,3,Conducente,1948,F,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2655104,1026611,1,Conducente,1943,F,Ricoverato,False,Utilizzato,Esploso,NON DECEDUTO
+2655153,1026616,1,Conducente,1966,F,Rimandato,False,,Inesploso,NON DECEDUTO
+2655164,1026642,1,Conducente,1979,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2655222,1026663,1,Conducente,1968,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2655222,1026665,2,Conducente,1990,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2655223,1026638,1,Conducente,1963,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2655264,1026661,2,Conducente,1982,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2655282,1026764,2,Passeggero,2004,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2655309,1026816,1,Passeggero,1984,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2655309,1026816,1,Passeggero,1990,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2655333,1026684,1,Passeggero,2005,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2655333,1026684,1,Conducente,1965,F,Rimandato,False,,,NON DECEDUTO
+2655368,1026694,1,Conducente,1990,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2655416,1026729,1,Conducente,1995,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2655454,1026751,2,Conducente,1963,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2655456,1026746,1,Conducente,1963,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2655456,1026746,1,Passeggero,1967,M,Rimandato,False,,,NON DECEDUTO
+2655489,1026753,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2655585,1026776,1,Conducente,1978,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2655607,1026778,2,Conducente,1966,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2655620,1026786,2,Conducente,1965,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2655679,1026791,1,Conducente,1995,M,Rimandato,False,Utilizzato,Esploso,NON DECEDUTO
+2655679,1026792,2,Conducente,1973,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2655694,1026796,2,Conducente,1982,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2655694,1026796,2,Passeggero,1988,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2655694,1026796,2,Passeggero,1987,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2655694,1026803,3,Conducente,1971,M,Rimandato,False,,,NON DECEDUTO
+2655876,1026840,2,Conducente,1985,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2655880,1026835,1,Conducente,1962,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2655885,1026841,2,Conducente,1954,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2655907,1026849,2,Conducente,1972,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2655931,1026853,2,Conducente,1988,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2655947,1026858,1,Conducente,1991,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2655947,1026858,1,Passeggero,2003,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2655969,1026866,1,Conducente,1957,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2656005,1026879,1,Conducente,1981,F,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2656305,1026943,2,Conducente,1990,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2656312,1026947,2,Conducente,1980,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2656371,1026955,2,Conducente,1974,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2656382,1027007,1,Conducente,1962,M,Rifiuta cure immediate,False,Non accertato,Esploso,NON DECEDUTO
+2656382,1027010,2,Conducente,1957,F,Ricoverato,False,Non accertato,,NON DECEDUTO
+2656387,1027001,1,Conducente,1987,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2656398,1026971,2,Conducente,1985,F,Rimandato,False,,,NON DECEDUTO
+2656460,1026979,2,Conducente,1992,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2656479,1026989,1,Passeggero,1959,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2656479,1026989,1,Conducente,1958,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2656479,1026989,1,Passeggero,1965,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2656594,1027015,1,Passeggero,1991,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2656594,1027015,1,Conducente,1997,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2656839,1027038,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2656881,1027045,1,Conducente,1999,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2657584,1027156,1,Conducente,1972,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2657656,1027172,2,Conducente,1984,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2657903,1027223,2,Conducente,1970,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2657974,1027237,1,Conducente,1984,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2658096,1048087,1,Passeggero,1965,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2658133,1027259,1,Conducente,1978,M,Rimandato,False,,Esploso,NON DECEDUTO
+2658192,1027286,2,Conducente,1968,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2658203,1027479,1,Conducente,1970,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2658227,1027282,1,Conducente,1992,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2658249,1027288,2,Conducente,1984,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2658260,1027315,1,Conducente,1984,M,Rimandato,False,Non utilizzato,Inesploso,NON DECEDUTO
+2658260,1027315,1,Passeggero,1977,M,Ricoverato,False,Non accertato,Inesploso,NON DECEDUTO
+2658279,1027298,1,Passeggero,1937,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2658291,1027304,1,Conducente,1980,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2658305,1027307,1,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2658305,1027310,2,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2658305,1027310,2,Passeggero,0,F,Rimandato,False,,,NON DECEDUTO
+2658305,1027310,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2658332,1027325,2,Conducente,1958,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2658360,1027337,1,Conducente,1966,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2658360,1027452,2,Conducente,1989,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2658370,1027341,1,Conducente,1986,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2658387,1027346,1,Conducente,1977,M,Ricoverato,False,,,NON DECEDUTO
+2658454,1027378,1,Conducente,1990,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2658456,1027383,2,Conducente,1976,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2658471,1027386,2,Conducente,1991,M,Rimandato,False,,,NON DECEDUTO
+2658489,1027392,1,Conducente,1973,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2658494,1027409,2,Conducente,1964,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2658554,1027446,2,Passeggero,1985,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2658554,1027446,2,Conducente,1985,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2658564,1027427,2,Conducente,1974,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2658610,1027450,1,Conducente,1992,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2658693,1027488,2,Conducente,1997,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2658693,1027488,2,Passeggero,1999,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2658933,1027557,2,Conducente,1989,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2658939,1027559,1,Conducente,1979,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2658939,1027562,2,Conducente,1994,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2658954,1027567,1,Conducente,1958,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2658960,1027579,1,Passeggero,1992,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2658960,1027579,1,Conducente,1991,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2658960,1027595,2,Conducente,1995,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2658960,1027595,2,Passeggero,1996,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2659014,1027583,1,Conducente,1959,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2659057,1027599,1,Conducente,1994,M,Rimandato,False,Utilizzato,Esploso,NON DECEDUTO
+2659057,1027604,2,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2659057,1027604,2,Conducente,1991,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2659063,1027602,2,Conducente,1936,M,Rimandato,False,,,NON DECEDUTO
+2659110,1027616,1,Conducente,1973,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2659123,1027624,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2659135,1027625,2,Conducente,1992,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2659167,1027628,2,Conducente,1996,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2659264,1027653,1,Conducente,1948,M,Ricoverato,False,Non accertato,Esploso,NON DECEDUTO
+2659270,1027661,2,Passeggero,0,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2659282,1027663,1,Passeggero,1995,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2659286,1027667,1,Conducente,1970,M,Rimandato,False,,,NON DECEDUTO
+2659294,1027669,1,Conducente,1963,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2659298,1027671,1,Conducente,1983,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2659311,1027683,2,Conducente,1967,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2659570,1027742,2,Passeggero,1961,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2659570,1027742,2,Conducente,1962,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2659597,1027744,1,Conducente,1965,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2659613,1027741,1,Conducente,1974,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2659617,1027750,2,Conducente,1963,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2659617,1027750,2,Passeggero,1965,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2659622,1027746,1,Conducente,1967,M,Rimandato,False,,,NON DECEDUTO
+2659627,1027814,2,Conducente,1996,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2659652,1027756,2,Conducente,1968,M,Rimandato,False,,,NON DECEDUTO
+2659655,1027765,3,Conducente,1993,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2659657,1027763,2,Conducente,1980,M,Rimandato,False,,,NON DECEDUTO
+2659700,1027771,1,Conducente,1968,M,Rimandato,False,,,NON DECEDUTO
+2659757,1027884,2,Conducente,1995,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2659764,1027792,1,Conducente,1992,M,Rimandato,False,,,NON DECEDUTO
+2659772,1027795,1,Conducente,1958,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2659830,1027832,2,Conducente,1999,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2659853,1027820,2,Conducente,1979,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2659869,1027828,2,Conducente,1982,F,Rimandato,False,,,NON DECEDUTO
+2659872,1027829,1,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2659887,1027840,2,Conducente,1985,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2659905,1027848,1,Passeggero,1969,F,Rifiuta cure immediate,False,Utilizzato,Inesploso,NON DECEDUTO
+2659917,1027859,1,Conducente,1971,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2659949,1027868,2,Conducente,1955,F,Rimandato,False,,,NON DECEDUTO
+2660185,1027946,1,Passeggero,1968,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2660194,1027955,2,Conducente,1982,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2660310,1027967,1,Conducente,1984,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2660496,1028008,2,Conducente,1937,M,Rimandato,False,Esente,,NON DECEDUTO
+2660568,1028026,1,Conducente,1963,M,Ricoverato,False,Non accertato,Inesploso,NON DECEDUTO
+2660568,1028027,2,Passeggero,1954,M,Ricoverato,False,Non accertato,Inesploso,NON DECEDUTO
+2660568,1028027,2,Conducente,1973,M,Ricoverato,False,Non accertato,Inesploso,NON DECEDUTO
+2660636,1028037,1,Conducente,1982,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2660651,1028044,2,Conducente,1966,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2660668,1028047,1,Conducente,1957,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2660679,1028070,2,Conducente,1992,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2660697,1028067,2,Conducente,1972,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2660721,1028071,1,Conducente,1976,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2660848,1028113,1,Conducente,1976,F,Rimandato,False,,,NON DECEDUTO
+2660848,1028114,2,Conducente,1974,F,Rimandato,False,,,NON DECEDUTO
+2661010,1028115,1,Conducente,1990,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2661010,1028117,2,Conducente,1976,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2661154,1028131,2,Conducente,1970,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2661194,1028163,1,Conducente,1993,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2661194,1028164,2,Conducente,1993,M,Rimandato,False,,,NON DECEDUTO
+2661194,1028164,2,Passeggero,1993,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2661214,1028137,2,Conducente,1983,M,Rimandato,False,,,NON DECEDUTO
+2661220,1028151,2,Conducente,1988,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2661335,1036023,2,Conducente,1974,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2661343,1028170,1,Conducente,1976,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2661365,1028180,2,Conducente,1988,M,Rimandato,False,,,NON DECEDUTO
+2661392,1028189,2,Conducente,1975,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2661465,1028199,1,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2661498,1028211,1,Passeggero,1974,F,Rimandato,False,,,NON DECEDUTO
+2661498,1028211,1,Conducente,1936,M,Rimandato,False,,,NON DECEDUTO
+2661498,1028216,2,Conducente,1985,M,Rimandato,False,,,NON DECEDUTO
+2661510,1028218,2,Conducente,1995,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2661559,1028633,1,Conducente,1996,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2661580,1028685,1,Conducente,1974,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2661582,1028239,1,Conducente,1967,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2661791,1028287,2,Conducente,1963,M,Ricoverato,False,,,NON DECEDUTO
+2661913,1028304,2,Conducente,1973,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2662044,1028326,1,Conducente,1977,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2662044,1028332,2,Conducente,1968,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2662044,1028339,3,Conducente,1959,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2662589,1028847,1,Conducente,1961,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2662614,1028489,2,Conducente,1985,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2662649,1028502,2,Conducente,1944,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2662682,1028505,1,Passeggero,1995,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2662682,1028505,1,Passeggero,1997,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2662682,1028505,1,Conducente,1997,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2662685,1028506,2,Passeggero,1998,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2662685,1028506,2,Passeggero,2000,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2662685,1028509,3,Conducente,1978,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2662728,1028516,1,Conducente,1988,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2662746,1028523,2,Conducente,1957,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2662797,1029117,1,Conducente,1987,M,Rimandato,False,,,NON DECEDUTO
+2662806,1028562,1,Conducente,1981,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2662814,1030111,2,Conducente,1972,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2662836,1028547,1,Passeggero,1979,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2662836,1028548,2,Conducente,1952,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2662836,1028548,2,Passeggero,1945,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2662836,1028548,2,Passeggero,1975,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2662850,1028564,1,Conducente,1955,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2662869,1028574,2,Conducente,1959,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2662877,1028658,2,Conducente,1970,M,Rimandato,False,,,NON DECEDUTO
+2662880,1028576,2,Conducente,1996,M,Ricoverato,False,,,NON DECEDUTO
+2662916,1028591,1,Passeggero,1963,F,Rimandato,False,,,NON DECEDUTO
+2662916,1028591,1,Conducente,1983,M,Rimandato,False,,,NON DECEDUTO
+2662921,1028589,1,Passeggero,1981,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2662928,1028722,2,Conducente,1969,M,Rimandato,False,,,NON DECEDUTO
+2662930,1028668,1,Conducente,1989,M,Rimandato,False,,,NON DECEDUTO
+2662930,1028674,2,Passeggero,1977,F,Rimandato,False,,,NON DECEDUTO
+2662940,1028601,1,Conducente,1970,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2662968,1028612,1,Conducente,1982,M,Rimandato,False,Utilizzato,Esploso,NON DECEDUTO
+2662986,1028618,1,Conducente,1982,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2662988,1028620,1,Conducente,1981,M,Rimandato,False,,,NON DECEDUTO
+2663006,1028634,2,Conducente,1962,M,Rimandato,False,,,NON DECEDUTO
+2663016,1028641,2,Passeggero,1965,F,Rimandato,False,Utilizzato,Esploso,NON DECEDUTO
+2663016,1028641,2,Conducente,1988,F,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2663044,1028665,2,Conducente,1968,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2663102,1028681,2,Conducente,1964,M,Rimandato,False,,,NON DECEDUTO
+2663123,1028695,1,Conducente,1985,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2663185,1028720,2,Conducente,1985,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2663222,1028733,1,Conducente,1971,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2663227,1028740,1,Conducente,1960,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2663258,1028753,3,Conducente,1991,M,Rimandato,False,,,NON DECEDUTO
+2663288,1028771,1,Conducente,1983,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2663355,1028787,2,Conducente,1978,M,Rimandato,False,,,NON DECEDUTO
+2663588,1028863,2,Conducente,1975,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2663589,1028843,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2663609,1028848,2,Conducente,1973,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2663682,1028865,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2663709,1028892,1,Conducente,1991,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2663719,1028889,2,Conducente,1976,F,Rimandato,False,Utilizzato,,NON DECEDUTO
+2663773,1028898,2,Conducente,1971,M,Rimandato,False,,,NON DECEDUTO
+2663807,1029921,1,Conducente,1973,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2663884,1028927,1,Conducente,1972,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2663923,1030038,2,Conducente,1962,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2664032,1028991,2,Conducente,1966,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2664042,1028993,2,Conducente,1967,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2664051,1029201,2,Passeggero,1980,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2664062,1028996,2,Conducente,1960,M,Ricoverato,False,,,NON DECEDUTO
+2664073,1029178,2,Passeggero,2005,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2664074,1029000,2,Conducente,1977,F,Rimandato,False,,,NON DECEDUTO
+2664078,1028999,1,Conducente,1972,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2664080,1029214,2,Passeggero,1988,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2664080,1029214,2,Conducente,1986,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2664115,1029008,2,Conducente,1953,M,Rimandato,False,Esente,,NON DECEDUTO
+2664133,1029010,1,Conducente,1988,F,Rimandato,False,,,NON DECEDUTO
+2664138,1029019,2,Conducente,1975,M,Rimandato,False,,,NON DECEDUTO
+2664142,1029017,2,Conducente,1963,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2664142,1029021,3,Conducente,1975,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2664171,1029034,2,Passeggero,1943,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2664185,1029026,1,Conducente,1981,M,Rimandato,False,,,NON DECEDUTO
+2664191,1029031,1,Conducente,1944,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2664200,1029032,1,Conducente,1954,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2664239,1029044,2,Conducente,1974,M,Rimandato,False,,,NON DECEDUTO
+2664243,1029103,1,Conducente,1976,M,Ricoverato,False,,,NON DECEDUTO
+2664244,1029045,1,Conducente,1941,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2664246,1029147,2,Conducente,1978,F,Rimandato,False,,,NON DECEDUTO
+2664250,1029046,1,Conducente,1934,M,Rimandato,False,,,NON DECEDUTO
+2664254,1029049,1,Conducente,1955,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2664254,1029049,1,Passeggero,1989,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2664254,1029051,2,Conducente,1955,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2664254,1029055,4,Conducente,1993,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2664256,1029050,2,Conducente,1973,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2664287,1029058,1,Conducente,1963,F,Rimandato,False,,,NON DECEDUTO
+2664289,1029060,1,Conducente,1965,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2664298,1029070,1,Conducente,1993,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2664327,1029086,2,Conducente,0,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2664345,1029092,1,Conducente,1954,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2664345,1029092,1,Passeggero,1956,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2664346,1029177,2,Conducente,1983,F,Rimandato,False,,,NON DECEDUTO
+2664347,1029094,1,Conducente,1953,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2664506,1029149,2,Conducente,1966,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2664674,1029209,1,Conducente,1959,F,Prognosi riservata,False,,,NON DECEDUTO
+2664725,1029232,2,Conducente,1973,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2664725,1029233,3,Conducente,1988,F,Rifiuta cure immediate,False,Non accertato,Esploso,NON DECEDUTO
+2664746,1030270,2,Conducente,1964,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2664962,1029287,1,Conducente,1982,F,Rimandato,False,,,NON DECEDUTO
+2664991,1029292,2,Conducente,1963,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2665167,1029331,1,Conducente,1960,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2665167,1029340,2,Conducente,1990,F,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2665167,1029348,3,Passeggero,1986,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2665167,1029348,3,Conducente,1981,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2665179,1029334,1,Conducente,1968,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2665451,1029426,2,Conducente,1992,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2665453,1029422,1,Conducente,1994,M,Rimandato,False,,,NON DECEDUTO
+2665474,1029485,2,Conducente,1992,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2665526,1029458,2,Conducente,1966,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2665544,1029448,1,Conducente,1964,M,Rimandato,False,,,NON DECEDUTO
+2665549,1029454,2,Conducente,1943,M,Rimandato,False,,,NON DECEDUTO
+2665556,1029469,2,Conducente,1990,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2665578,1029484,2,Conducente,1981,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2665578,1029493,3,Conducente,1989,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2665578,1029493,3,Passeggero,1987,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2665878,1029560,2,Passeggero,1960,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2665878,1029560,2,Conducente,1950,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2666013,1029561,1,Conducente,1969,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2666013,1029571,2,Conducente,1957,M,Rimandato,False,,,NON DECEDUTO
+2666128,1029588,1,Passeggero,1980,M,Rimandato,False,,,NON DECEDUTO
+2666128,1029588,1,Conducente,1982,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2666141,1029591,2,Conducente,1988,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2666185,1029595,2,Conducente,1999,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2666474,1029689,1,Conducente,1984,M,Prognosi riservata,False,Non accertato,Esploso,NON DECEDUTO
+2666476,1029696,1,Conducente,1993,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2666480,1029698,1,Passeggero,1943,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2666481,1029702,2,Conducente,1971,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2666481,1030211,3,Conducente,1984,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2666482,1029683,1,Passeggero,1966,F,Rifiuta cure immediate,False,Utilizzato,Inesploso,NON DECEDUTO
+2666486,1029703,1,Conducente,1978,F,Rimandato,False,,,NON DECEDUTO
+2666488,1029707,2,Conducente,1984,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2666914,1029732,2,Conducente,1975,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2666929,1029739,1,Conducente,1965,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2667012,1029767,2,Passeggero,1958,M,Rifiuta cure immediate,False,Utilizzato,Inesploso,NON DECEDUTO
+2667012,1029767,2,Conducente,1986,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2667035,1029776,1,Conducente,1997,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2667104,1029802,1,Conducente,1992,F,Ricoverato,False,Non accertato,Inesploso,NON DECEDUTO
+2667287,1029851,1,Conducente,1988,M,Rimandato,False,,,NON DECEDUTO
+2667311,1029859,1,Passeggero,2000,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2667330,1029867,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2667339,1030171,1,Conducente,1974,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2667340,1029872,2,Conducente,1974,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2667345,1029877,2,Conducente,0,M,Prognosi riservata,False,,,NON DECEDUTO
+2667345,1029877,2,Passeggero,0,M,Ricoverato,False,,,NON DECEDUTO
+2667354,1029883,1,Passeggero,1977,F,Rimandato,False,,,NON DECEDUTO
+2667354,1029883,1,Conducente,1962,M,Rimandato,False,,,NON DECEDUTO
+2667354,1029889,2,Conducente,1983,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2667366,1029891,1,Conducente,1984,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2667389,1029902,2,Conducente,1969,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2667401,1029983,1,Conducente,1996,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2667406,1029910,2,Conducente,1962,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2667423,1029917,2,Conducente,1983,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2667453,1029928,2,Passeggero,1982,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2667464,1029931,1,Conducente,1985,F,Rimandato,False,,,NON DECEDUTO
+2667490,1029943,1,Conducente,1971,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2667510,1033309,1,Conducente,1970,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2667510,1033309,1,Passeggero,1957,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2667512,1030887,1,Conducente,1976,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2667518,1029952,1,Conducente,1999,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2667533,1029969,2,Conducente,1997,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2667535,1029972,1,Passeggero,0,F,Rimandato,False,,,NON DECEDUTO
+2667543,1029970,2,Conducente,1945,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2667556,1030158,2,Conducente,1970,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2667556,1030158,2,Passeggero,1968,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2667572,1029984,2,Conducente,1991,M,Rimandato,False,Esente,,NON DECEDUTO
+2667591,1030003,2,Conducente,1981,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2667593,1029992,1,Conducente,1976,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2667622,1030078,2,Conducente,1998,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2667641,1030021,1,Conducente,1989,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2667647,1030026,2,Conducente,1944,M,Rimandato,False,,,NON DECEDUTO
+2667652,1030024,1,Conducente,1986,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2667657,1030123,1,Conducente,1994,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2667677,1030045,1,Passeggero,1991,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2667695,1030074,2,Conducente,1975,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2667752,1030105,2,Conducente,1995,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2667787,1030188,2,Conducente,1962,M,Ricoverato,False,,,NON DECEDUTO
+2667790,1030584,3,Conducente,1954,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2667799,1030119,1,Conducente,1986,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2667866,1030140,1,Conducente,1946,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2667880,1030170,2,Conducente,1975,M,Prognosi riservata,False,Non accertato,,NON DECEDUTO
+2667986,1030163,1,Conducente,1994,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2668051,1030178,1,Conducente,1961,M,Rimandato,False,,,NON DECEDUTO
+2668070,1030187,2,Conducente,1970,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2668088,1030189,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2668225,1030231,1,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2668228,1030262,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2668241,1030243,2,Passeggero,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2668319,1030268,1,Conducente,1970,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2668390,1030294,2,Conducente,1955,M,Ricoverato,False,Utilizzato,,NON DECEDUTO
+2668567,1030327,2,Conducente,1994,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2668581,1030328,1,Conducente,1951,M,Rimandato,False,,,NON DECEDUTO
+2668581,1030329,2,Conducente,1976,F,Rimandato,False,,,NON DECEDUTO
+2668593,1030334,1,Conducente,1987,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2668629,1030354,1,Conducente,1992,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2668630,1030350,2,Conducente,1994,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2668649,1030374,2,Conducente,1991,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2668649,1030374,2,Passeggero,1997,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2668684,1030359,2,Conducente,1960,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2668688,1030599,1,Conducente,1954,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2668689,1030361,2,Conducente,1987,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2668735,1030396,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2668735,1030434,2,Conducente,1973,M,Rimandato,False,,,NON DECEDUTO
+2668748,1030376,2,Conducente,1990,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2668751,1030373,1,Conducente,1992,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2668774,1030380,1,Passeggero,1968,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2668777,1030382,2,Conducente,1965,F,Rifiuta cure immediate,False,Esente,,NON DECEDUTO
+2668856,1030398,2,Conducente,1967,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2668856,1030398,2,Passeggero,1993,F,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2668856,1030398,2,Passeggero,1988,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2668893,1030414,2,Passeggero,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2668903,1030441,2,Conducente,0,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2668913,1030423,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2668956,1030454,2,Conducente,1988,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2669085,1030494,1,Conducente,1967,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2669160,1030539,1,Conducente,1993,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2669336,1030576,2,Passeggero,1988,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2669414,1030598,2,Conducente,0,F,Rimandato,False,,,NON DECEDUTO
+2669464,1030609,2,Conducente,1995,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2669509,1030621,1,Conducente,1960,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2669631,1030650,2,Conducente,1970,M,Rimandato,False,Esente,,NON DECEDUTO
+2669638,1030652,1,Conducente,1975,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2669664,1030664,2,Conducente,1993,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2669668,1030662,1,Conducente,1967,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2669676,1030667,2,Conducente,1967,F,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2669701,1030674,2,Conducente,1971,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2670005,1030758,2,Conducente,1962,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2670096,1030767,2,Conducente,1955,M,Ricoverato,False,Utilizzato,,NON DECEDUTO
+2670107,1030770,2,Conducente,1958,M,Rimandato,False,,,NON DECEDUTO
+2670130,1031015,1,Conducente,1997,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2670130,1031015,1,Passeggero,1999,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2670137,1030773,1,Conducente,1997,M,Rimandato,False,Non utilizzato,,NON DECEDUTO
+2670137,1030773,1,Passeggero Istruttore,1943,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2670137,1030776,2,Conducente,1985,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2670144,1030775,1,Conducente,1969,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2670155,1030782,1,Conducente,1974,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2670155,1030782,1,Passeggero,2008,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2670155,1030792,2,Conducente,1990,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2670158,1030947,3,Conducente,1960,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2670158,1030947,3,Passeggero,1959,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2670159,1030781,2,Conducente,1973,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2670169,1030784,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2670171,1030881,1,Conducente,1972,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2670177,1031005,1,Conducente,1967,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2670178,1030786,1,Conducente,1995,M,Rimandato,False,,,NON DECEDUTO
+2670202,1030794,2,Conducente,1994,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2670216,1030802,2,Conducente,1998,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2670271,1030809,1,Conducente,1985,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2670315,1030824,1,Conducente,1977,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2670319,1030826,1,Conducente,1978,M,Rimandato,False,,,NON DECEDUTO
+2670335,1030830,1,Passeggero,1965,F,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2670335,1030830,1,Conducente,1986,F,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2670335,1030839,2,Conducente,1949,M,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2670335,1030839,2,Passeggero,1945,F,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2670335,1030839,2,Passeggero,1954,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2670335,1030839,2,Passeggero,1943,M,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2670347,1030853,2,Conducente,1990,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2670350,1030847,3,Conducente,1985,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2670377,1030849,2,Conducente,1976,F,Rimandato,False,,,NON DECEDUTO
+2670388,1030844,1,Conducente,1948,M,Ricoverato,False,Non accertato,Inesploso,NON DECEDUTO
+2670438,1030867,1,Conducente,1965,M,Rimandato,False,,,NON DECEDUTO
+2670601,1030940,2,Conducente,1963,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2670807,1030987,1,Conducente,1947,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2670807,1030989,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2670807,1030989,2,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2670807,1030993,3,Conducente,1959,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2670821,1030992,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2670828,1030996,2,Conducente,1955,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2670828,1030996,2,Passeggero,1983,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2671077,1031067,2,Conducente,1983,M,Rimandato,False,,,NON DECEDUTO
+2671078,1031057,1,Conducente,1977,F,Rimandato,False,,,NON DECEDUTO
+2671078,1031058,2,Conducente,1971,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2671089,1031066,3,Conducente,0,F,Rimandato,False,,,NON DECEDUTO
+2671089,1031066,3,Passeggero,0,F,Rimandato,False,,,NON DECEDUTO
+2671199,1031118,2,Conducente,1986,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2671226,1031120,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2671245,1031132,2,Conducente,1977,F,Rimandato,False,,,NON DECEDUTO
+2671247,1031130,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2671258,1031139,1,Conducente,0,F,Rimandato,False,,,NON DECEDUTO
+2671266,1031147,1,Passeggero,1975,F,Rifiuta cure immediate,False,Non accertato,Esploso,NON DECEDUTO
+2671470,1031193,1,Conducente,1966,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2671471,1031280,1,Conducente,1993,F,Ricoverato,False,Non accertato,Inesploso,NON DECEDUTO
+2671474,1031246,2,Conducente,1978,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2671489,1031258,1,Passeggero,1970,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2671498,1031200,2,Conducente,1977,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2671500,1031198,1,Conducente,1960,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2671506,1031238,2,Conducente,1975,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2671538,1031206,1,Conducente,1991,M,Rimandato,False,,,NON DECEDUTO
+2671563,1031214,1,Conducente,1962,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2671563,1031218,2,Conducente,1969,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2671569,1031223,2,Conducente,1975,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2671571,1031219,2,Conducente,1987,F,Rimandato,False,,,NON DECEDUTO
+2671582,1033172,1,Conducente,1967,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2671625,1031232,1,Passeggero,1988,M,Rimandato,False,,,NON DECEDUTO
+2671625,1031232,1,Conducente,1977,M,Rimandato,False,,,NON DECEDUTO
+2671625,1031232,1,Passeggero,1990,M,Rimandato,False,,,NON DECEDUTO
+2671625,1031256,2,Conducente,1960,M,Rimandato,False,,,NON DECEDUTO
+2671645,1031239,2,Conducente,1991,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2671660,1031248,1,Passeggero,1980,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2671693,1031263,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2671732,1031327,1,Conducente,1967,F,Rimandato,False,,,NON DECEDUTO
+2671734,1031294,1,Conducente,1975,M,Rimandato,False,,,NON DECEDUTO
+2671734,1031299,2,Conducente,1989,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2671739,1031295,1,Conducente,1959,M,Rimandato,False,,,NON DECEDUTO
+2671788,1031291,1,Conducente,1949,M,Rifiuta cure immediate,False,Non accertato,Inesistente,NON DECEDUTO
+2671788,1031291,1,Passeggero,1948,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2671788,1031291,1,Passeggero,1954,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2671894,1031334,2,Conducente,1964,M,Rimandato,False,,,NON DECEDUTO
+2672258,1031420,1,Passeggero,1927,F,Rimandato,False,Non utilizzato,Inesistente,NON DECEDUTO
+2672258,1031420,1,Passeggero,1940,F,Rimandato,False,Non utilizzato,Inesistente,NON DECEDUTO
+2672258,1031420,1,Passeggero,1974,F,Rimandato,False,Non utilizzato,Inesistente,NON DECEDUTO
+2672258,1031420,1,Passeggero,1962,F,Rimandato,False,Non utilizzato,Inesistente,NON DECEDUTO
+2672333,1031441,1,Conducente,1970,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2672333,1031446,2,Conducente,1976,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2672396,1031471,2,Conducente,1964,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2672458,1031681,2,Conducente,1966,M,Prognosi riservata,False,,,NON DECEDUTO
+2672473,1031493,2,Conducente,1966,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2672512,1031511,2,Conducente,1954,F,Rifiuta cure immediate,False,Non accertato,Inesistente,NON DECEDUTO
+2672529,1031513,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2672540,1031527,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2672781,1031566,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2672781,1031568,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2672794,1031574,2,Conducente,1983,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2672818,1031575,2,Conducente,1977,M,Rimandato,False,,,NON DECEDUTO
+2672840,1031600,1,Conducente,1987,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2672841,1031665,1,Passeggero,1980,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2672841,1031665,1,Passeggero,1980,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2672841,1031667,2,Passeggero,1990,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2672841,1031667,2,Conducente,1978,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2672841,1031667,2,Passeggero,1973,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2672844,1031582,2,Conducente,1976,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2672878,1031581,1,Conducente,1990,M,Prognosi riservata,False,Non accertato,,NON DECEDUTO
+2672912,1031589,1,Conducente,1985,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2672921,1031590,1,Conducente,1973,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2672921,1031590,1,Passeggero,1979,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2672925,1031596,2,Passeggero,2000,F,Rimandato,False,,,NON DECEDUTO
+2672925,1031596,2,Conducente,1998,M,Rimandato,False,,,NON DECEDUTO
+2672973,1031624,3,Conducente,1968,M,Ricoverato,False,,,NON DECEDUTO
+2673093,1031671,2,Passeggero,1939,F,Rifiuta cure immediate,False,,Inesploso,NON DECEDUTO
+2673093,1031671,2,Conducente,1935,M,Rifiuta cure immediate,False,,Inesploso,NON DECEDUTO
+2673220,1032033,2,Passeggero,1975,F,Rimandato,False,,,NON DECEDUTO
+2673220,1032033,2,Conducente,1974,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2673330,1031714,2,Conducente,1966,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2673398,1031732,2,Conducente,1986,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2673398,1031735,3,Conducente,1960,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2673652,1031788,1,Conducente,1976,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2673683,1032225,2,Conducente,1974,M,Ricoverato,False,Utilizzato,,NON DECEDUTO
+2673693,1031802,2,Conducente,1973,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2673706,1031801,2,Conducente,1997,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2673728,1031810,1,Conducente,1975,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2673745,1031815,1,Conducente,1952,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2673745,1031818,2,Conducente,1962,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2673745,1031818,2,Passeggero,1990,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2674056,1031915,2,Conducente,1973,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2674081,1031926,1,Conducente,1975,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2674230,1031982,2,Passeggero,1995,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2674230,1031982,2,Conducente,1989,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2674278,1031987,2,Conducente,1984,M,Rimandato,False,,,NON DECEDUTO
+2674612,1032050,1,Conducente,1967,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2674612,1032055,3,Conducente,1991,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2674612,1032055,3,Passeggero,1991,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2674829,1032110,1,Conducente,1994,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2675230,1032208,2,Conducente,1995,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2675235,1032209,1,Passeggero,1992,F,Rimandato,False,,,NON DECEDUTO
+2675235,1032209,1,Passeggero,0,F,Rimandato,False,,,NON DECEDUTO
+2675235,1032209,1,Passeggero,0,F,Rimandato,False,,,NON DECEDUTO
+2675235,1032209,1,Conducente,1992,F,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2675262,1032219,2,Conducente,1994,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2675319,1032814,1,Conducente,1979,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2675326,1032375,1,Conducente,1993,M,Ricoverato,False,Utilizzato,Inesistente,NON DECEDUTO
+2675399,1032247,2,Conducente,1964,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2675438,1032254,2,Conducente,1955,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2675508,1032263,2,Conducente,1998,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2675555,1032273,1,Passeggero,1989,F,Rimandato,False,,,NON DECEDUTO
+2675802,1032331,1,Conducente,1966,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2675802,1032331,1,Passeggero,1975,F,Prognosi riservata,False,Non accertato,Inesploso,NON DECEDUTO
+2675802,1032331,1,Passeggero,2015,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2675852,1040551,1,Conducente,1954,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2675867,1032555,1,Conducente,1990,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2675868,1032341,1,Conducente,1986,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2675868,1032341,1,Passeggero,1985,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2675868,1032341,1,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2675893,1032345,2,Conducente,1975,M,Rimandato,False,,,NON DECEDUTO
+2675907,1032653,1,Conducente,1960,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2675907,1032653,1,Passeggero,1957,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2675907,1032657,2,Passeggero,1957,F,Rifiuta cure immediate,False,Non utilizzato,Inesploso,NON DECEDUTO
+2675907,1032657,2,Passeggero,1961,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2675907,1032657,2,Conducente,1952,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2675907,1032668,3,Conducente,1968,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2675913,1032348,1,Conducente,1991,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2675921,1047998,1,Conducente,1986,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2675947,1032467,2,Conducente,1963,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2675948,1032354,1,Passeggero,0,M,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2675955,1032360,1,Conducente,1987,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2675958,1032361,1,Conducente,1966,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2675975,1032367,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2675978,1032374,2,Conducente,1957,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2675981,1032368,1,Conducente,1993,M,Rimandato,False,,,NON DECEDUTO
+2675981,1032373,2,Conducente,1953,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2675988,1032369,1,Conducente,1956,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2675992,1032422,1,Passeggero,1994,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2675992,1032422,1,Conducente,1994,M,Ricoverato,False,Non accertato,Inesploso,NON DECEDUTO
+2675992,1032426,2,Conducente,1987,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2676007,1032385,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2676012,1032392,2,Conducente,1992,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2676012,1032392,2,Passeggero,1993,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2676015,1032390,2,Conducente,1994,M,Rimandato,False,,Esploso,NON DECEDUTO
+2676024,1032391,1,Conducente,1988,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2676025,1032406,2,Conducente,1986,F,Rimandato,False,,,NON DECEDUTO
+2676048,1032408,1,Conducente,1962,M,Rimandato,False,,,NON DECEDUTO
+2676078,1032419,1,Passeggero,1987,F,Rimandato,False,,,NON DECEDUTO
+2676087,1032435,1,Passeggero,1993,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2676115,1032447,1,Conducente,1989,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2676115,1032447,1,Passeggero,1997,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2676115,1032451,2,Conducente,1983,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2676129,1032453,1,Conducente,1977,M,Rimandato,False,,,NON DECEDUTO
+2676129,1032459,2,Passeggero,1945,F,Rimandato,False,,,NON DECEDUTO
+2676163,1032474,2,Conducente,1962,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2676190,1032493,3,Conducente,1959,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2676214,1032496,1,Conducente,1970,M,Rimandato,False,,,NON DECEDUTO
+2676217,1032517,1,Conducente,1993,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2676268,1032525,2,Conducente,1994,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2676295,1032532,1,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2676353,1032551,1,Conducente,1975,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2676389,1032563,1,Conducente,1975,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2676431,1032566,1,Conducente,1995,M,Rimandato,False,Utilizzato,Inesistente,NON DECEDUTO
+2676470,1032576,1,Conducente,1990,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2676470,1032576,1,Passeggero,1982,F,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2676470,1032571,2,Conducente,1965,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2676550,1032582,2,Conducente,1972,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2676653,1032609,1,Passeggero,2001,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2676677,1032621,1,Conducente,1969,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2676764,1032642,1,Conducente,1976,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2676772,1032643,2,Conducente,1980,M,Rimandato,False,Utilizzato,Esploso,NON DECEDUTO
+2676831,1032658,2,Conducente,1963,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2676941,1032682,2,Conducente,1973,F,Rimandato,False,,,NON DECEDUTO
+2676944,1032699,1,Passeggero,1998,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2676944,1032699,1,Conducente,1961,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2676944,1032707,2,Conducente,1938,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2676969,1032691,1,Conducente,1968,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2676969,1032692,2,Passeggero,1988,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2676969,1032692,2,Conducente,1989,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2676995,1032697,2,Conducente,1986,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2677241,1032761,1,Passeggero,0,F,Rimandato,False,,,NON DECEDUTO
+2677270,1032766,1,Conducente,1968,F,Rimandato,False,,,NON DECEDUTO
+2677274,1032769,2,Conducente,1978,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2677276,1032804,1,Conducente,1989,M,Rimandato,False,,,NON DECEDUTO
+2677276,1032816,2,Conducente,1956,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2677279,1032797,1,Conducente,1979,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2677291,1032772,1,Passeggero,1996,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2677291,1032772,1,Conducente,1995,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2677291,1032775,2,Conducente,1971,M,Rimandato,False,,,NON DECEDUTO
+2677292,1032872,2,Passeggero,1992,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2677331,1032781,2,Conducente,1967,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2677376,1032788,2,Conducente,1974,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2677392,1032792,1,Conducente,1974,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2677392,1032794,2,Passeggero,1998,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2677427,1032801,1,Conducente,1954,M,Rimandato,False,,,NON DECEDUTO
+2677428,1032863,1,Conducente,1977,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2677546,1032840,2,Conducente,1964,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2677546,1032840,2,Passeggero,0,F,Rimandato,False,,,NON DECEDUTO
+2677628,1032856,2,Conducente,1988,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2677659,1032874,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2677662,1032870,2,Conducente,1981,M,Rimandato,False,,,NON DECEDUTO
+2677669,1033136,1,Conducente,1997,M,Rimandato,False,,,NON DECEDUTO
+2677670,1032978,2,Conducente,1933,M,Rimandato,False,,,NON DECEDUTO
+2677682,1033000,2,Conducente,1978,M,Rimandato,False,,,NON DECEDUTO
+2677705,1032889,2,Conducente,1965,M,Rimandato,False,,,NON DECEDUTO
+2677707,1033016,1,Conducente,1940,M,Rifiuta cure immediate,False,Esente,,NON DECEDUTO
+2677738,1032896,1,Conducente,0,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2677738,1032896,1,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2677776,1033030,2,Conducente,1968,M,Rimandato,False,,,NON DECEDUTO
+2677844,1032945,2,Conducente,1969,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2677922,1032966,1,Conducente,1985,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2677922,1032966,1,Passeggero,1960,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2677928,1032968,2,Conducente,1988,M,Ricoverato,False,,,NON DECEDUTO
+2678129,1033023,1,Conducente,1975,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2678129,1033032,2,Conducente,1986,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2678129,1033032,2,Passeggero,1986,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2678149,1033033,2,Conducente,1953,M,Prognosi riservata,False,Non accertato,,NON DECEDUTO
+2678232,1033286,2,Conducente,1955,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2678273,1033069,1,Passeggero,1989,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2678273,1033071,2,Conducente,1995,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2678273,1033071,2,Passeggero,2001,M,Rimandato,False,,,NON DECEDUTO
+2678431,1033122,1,Passeggero,0,F,Rimandato,False,,,NON DECEDUTO
+2678441,1033129,1,Conducente,1990,M,Rimandato,False,,,NON DECEDUTO
+2678452,1033133,1,Conducente,1989,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2678475,1033152,2,Conducente,1966,M,Rimandato,False,,,NON DECEDUTO
+2678543,1033175,2,Conducente,1987,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2678764,1036460,1,Conducente,1989,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2678764,1036460,1,Passeggero,1982,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2678767,1037648,2,Conducente,1965,F,Rimandato,False,,,NON DECEDUTO
+2678788,1033215,1,Conducente,1964,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2678789,1033217,2,Conducente,1970,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2678804,1033218,1,Conducente,1995,F,Rimandato,False,Utilizzato,Esploso,NON DECEDUTO
+2678804,1033220,2,Conducente,1940,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2678814,1033221,1,Conducente,1934,M,Rimandato,False,,,NON DECEDUTO
+2678893,1033242,1,Conducente,1967,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2678915,1033251,1,Conducente,1977,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2678931,1033264,2,Conducente,1969,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2678938,1033267,2,Conducente,1983,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2678939,1033259,1,Conducente,1965,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2678979,1033273,1,Conducente,1994,M,Rimandato,False,,,NON DECEDUTO
+2679054,1033303,1,Conducente,1964,F,Rimandato,False,,,NON DECEDUTO
+2679058,1033314,2,Conducente,1987,M,Rimandato,False,,,NON DECEDUTO
+2679063,1033327,2,Conducente,1982,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2679112,1033308,2,Conducente,1986,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2679216,1033339,2,Passeggero,1991,M,Rimandato,False,,,NON DECEDUTO
+2679216,1033339,2,Conducente,1990,M,Rimandato,False,,,NON DECEDUTO
+2679259,1033342,2,Conducente,1979,M,Rimandato,False,,,NON DECEDUTO
+2679261,1033343,2,Conducente,1986,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2679302,1034018,1,Conducente,1974,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2679351,1033362,2,Conducente,1987,M,Rimandato,False,,,NON DECEDUTO
+2679402,1033831,3,Conducente,1980,M,Rimandato,False,,,NON DECEDUTO
+2679404,1033374,2,Conducente,1996,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2679471,1033398,1,Conducente,1997,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2679533,1033426,2,Conducente,1942,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2679593,1033417,1,Passeggero,1992,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2679627,1033916,1,Conducente,1981,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2679703,1033466,2,Conducente,1985,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2679771,1033467,2,Conducente,1956,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2679996,1033518,1,Conducente,1979,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2680276,1033593,2,Conducente,1959,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2680421,1033607,1,Passeggero,1939,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2680427,1033709,1,Conducente,1970,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2680427,1033719,2,Conducente,1948,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2680431,1033764,2,Conducente,1979,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2680441,1033797,1,Passeggero,1994,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2680451,1033780,1,Passeggero,2014,F,Rimandato,False,,,NON DECEDUTO
+2680462,1033616,2,Conducente,1978,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2680465,1033693,1,Conducente,1992,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2680533,1033636,1,Conducente,1977,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2680533,1033644,2,Conducente,1989,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2680539,1033645,2,Conducente,1951,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2680591,1033669,2,Conducente,1973,F,Rimandato,False,,,NON DECEDUTO
+2680604,1033666,1,Passeggero,1985,F,Rifiuta cure immediate,False,Utilizzato,,NON DECEDUTO
+2680683,1033698,1,Passeggero,1995,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2680683,1033698,1,Conducente,1991,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2680767,1033742,2,Passeggero,1992,M,Rimandato,False,,,NON DECEDUTO
+2680767,1033742,2,Passeggero,1985,M,Rimandato,False,,,NON DECEDUTO
+2680767,1033742,2,Passeggero,1995,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2680785,1033740,1,Conducente,1971,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2680821,1033776,1,Conducente,1955,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2680836,1033773,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2680894,1033824,2,Conducente,1973,M,Rimandato,False,,,NON DECEDUTO
+2680924,1033800,2,Conducente,1982,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2681161,1033829,2,Conducente,1954,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2681207,1033844,2,Conducente,1973,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2681341,1033870,1,Conducente,1948,M,Rimandato,False,,,NON DECEDUTO
+2681356,1033915,2,Conducente,1984,M,Rimandato,False,,,NON DECEDUTO
+2681481,1033920,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2681489,1033942,2,Conducente,1974,M,Rimandato,False,,,NON DECEDUTO
+2681503,1033925,1,Conducente,1989,M,Rimandato,False,,,NON DECEDUTO
+2681522,1033939,2,Conducente,1976,M,Rimandato,False,,,NON DECEDUTO
+2681559,1034241,2,Conducente,1983,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2681827,1034011,1,Conducente,1977,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2681832,1034043,1,Conducente,1966,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2681838,1034115,2,Conducente,1975,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2681876,1034034,1,Conducente,1994,M,Rimandato,False,,,NON DECEDUTO
+2681918,1034023,1,Conducente,1973,M,Rimandato,False,,,NON DECEDUTO
+2681918,1034032,2,Conducente,1970,M,Rimandato,False,,,NON DECEDUTO
+2681919,1034192,1,Conducente,1968,M,Rimandato,False,,,NON DECEDUTO
+2681927,1034027,2,Conducente,1990,F,Rimandato,False,,,NON DECEDUTO
+2681931,1034026,1,Conducente,1977,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2681950,1034030,2,Passeggero,1987,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2681977,1034036,1,Conducente,1991,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2682017,1034046,2,Conducente,1991,M,Rimandato,False,,,NON DECEDUTO
+2682023,1034055,2,Conducente,1986,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2682055,1034075,1,Conducente,1981,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2682063,1034106,1,Conducente,1991,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2682063,1034106,1,Passeggero,1990,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2682182,1034092,2,Conducente,1987,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2682231,1034102,1,Conducente,1985,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2682298,1034120,1,Conducente,1983,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2682517,1034182,2,Conducente,1990,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2682517,1034182,2,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2682537,1034189,2,Conducente,1967,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2682599,1034199,1,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2682599,1034200,2,Conducente,0,M,Rifiuta cure immediate,False,Esente,,NON DECEDUTO
+2682619,1034213,2,Conducente,1963,M,Prognosi riservata,False,Non accertato,,NON DECEDUTO
+2683035,1034285,1,Conducente,1995,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2683138,1034310,1,Conducente,1980,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2683322,1034361,1,Conducente,1998,M,Rimandato,False,Non utilizzato,Inesistente,NON DECEDUTO
+2683348,1034371,2,Conducente,1942,M,Prognosi riservata,False,Non accertato,,NON DECEDUTO
+2683447,1034391,2,Conducente,1941,M,Rimandato,False,,,NON DECEDUTO
+2683449,1034390,1,Conducente,1973,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2683466,1034395,1,Conducente,1971,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2683473,1034442,2,Conducente,1966,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2683476,1034397,1,Conducente,1971,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2683479,1034443,1,Conducente,1952,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2683486,1034452,1,Passeggero,1984,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2683494,1034463,1,Conducente,1984,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2683497,1035170,3,Conducente,1974,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2683534,1034425,3,Passeggero,1968,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2683862,1034510,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2683961,1034511,2,Conducente,1965,M,Rimandato,False,,,NON DECEDUTO
+2683995,1034516,2,Conducente,1978,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2684075,1034545,1,Conducente,1985,M,Rimandato,False,,,NON DECEDUTO
+2684075,1034546,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2684093,1034551,2,Conducente,1997,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2684117,1034561,2,Conducente,0,F,Rimandato,False,Esente,,NON DECEDUTO
+2684151,1034566,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2684169,1034570,1,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2684214,1034581,1,Conducente,0,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2684229,1034592,2,Conducente,1981,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2684592,1034716,1,Conducente,1944,M,Rimandato,False,,,NON DECEDUTO
+2684597,1034722,1,Conducente,1983,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2684597,1034722,1,Passeggero,1991,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2684597,1034727,2,Conducente,1974,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2684597,1034727,2,Passeggero,2003,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2684600,1034738,1,Conducente,1985,F,Rimandato,False,,,NON DECEDUTO
+2684600,1034738,1,Passeggero,1949,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2684600,1034739,2,Conducente,1971,M,Rimandato,False,,,NON DECEDUTO
+2684601,1034699,1,Conducente,1965,F,Rimandato,False,,,NON DECEDUTO
+2684663,1034715,2,Conducente,1976,M,Rimandato,False,,,NON DECEDUTO
+2684681,1034720,2,Conducente,1982,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2684682,1034717,1,Conducente,0,F,Rimandato,False,,,NON DECEDUTO
+2684684,1034724,1,Conducente,1976,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2684687,1034723,2,Conducente,0,F,Rimandato,False,,,NON DECEDUTO
+2684700,1034736,3,Conducente,1994,M,Rimandato,False,,,NON DECEDUTO
+2685305,1034838,1,Conducente,1989,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2685380,1034866,1,Conducente,1978,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2685380,1034869,2,Passeggero,1997,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2685380,1034869,2,Conducente,1995,F,Rimandato,False,Utilizzato,Esploso,NON DECEDUTO
+2685380,1034869,2,Passeggero,1994,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2685380,1034869,2,Passeggero,1996,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2685380,1034869,2,Passeggero,1997,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2685383,1034897,2,Conducente,1973,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2685436,1034904,2,Conducente,1998,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2685461,1035101,2,Conducente,1991,M,Rimandato,False,,,NON DECEDUTO
+2685469,1034874,1,Conducente,1993,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2685469,1034875,2,Conducente,1979,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2685511,1034885,1,Conducente,1969,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2685542,1034890,2,Conducente,1988,M,Rimandato,False,,,NON DECEDUTO
+2685559,1034891,1,Conducente,1976,F,Rimandato,False,,,NON DECEDUTO
+2685561,1034894,2,Conducente,1993,M,Rimandato,False,,,NON DECEDUTO
+2685562,1034895,1,Conducente,1969,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2685568,1034896,1,Conducente,1988,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2685607,1034923,2,Conducente,1978,M,Rimandato,False,,,NON DECEDUTO
+2685615,1034919,3,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2685632,1034931,2,Conducente,1962,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2685652,1035121,2,Conducente,1947,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2685676,1035027,1,Passeggero,1995,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2685682,1035043,2,Passeggero,1969,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2685682,1035043,2,Conducente,1966,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2685698,1034950,2,Conducente,1972,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2685786,1034979,2,Conducente,1991,M,Rimandato,False,Esente,,NON DECEDUTO
+2685794,1034981,1,Conducente,1987,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2685804,1035106,2,Conducente,1978,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2685869,1035035,2,Conducente,1977,M,Rimandato,False,,,NON DECEDUTO
+2685919,1035061,2,Conducente,1974,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2685919,1035061,2,Passeggero,1975,F,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2685919,1035061,2,Passeggero,2014,F,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2685932,1035060,1,Conducente,1966,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2685943,1035074,1,Passeggero,1997,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2685943,1035074,1,Conducente,1997,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2685947,1035083,1,Conducente,1973,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2685978,1035093,2,Conducente,1973,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2685981,1035216,1,Conducente,1969,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2685981,1035218,2,Passeggero,1971,F,Rimandato,False,,,NON DECEDUTO
+2685981,1035218,2,Conducente,1966,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2686017,1035192,2,Conducente,0,F,Rimandato,False,,,NON DECEDUTO
+2686018,1045766,2,Conducente,1992,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2686019,1035114,2,Conducente,1948,M,Rimandato,False,,,NON DECEDUTO
+2686032,1035112,2,Conducente,1990,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2686068,1035118,1,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2686077,1035124,1,Conducente,1976,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2686090,1035129,2,Passeggero,0,F,Rimandato,False,,,NON DECEDUTO
+2686090,1035129,2,Passeggero,1990,M,Rimandato,False,Utilizzato,Esploso,NON DECEDUTO
+2686156,1035158,3,Conducente,1969,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2686169,1035156,1,Passeggero,1985,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2686169,1035156,1,Conducente,1983,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2686404,1035932,1,Passeggero,1995,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2686404,1035932,1,Conducente,1957,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2686690,1035305,1,Conducente,1958,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2686704,1035307,1,Conducente,1983,M,Rimandato,False,,,NON DECEDUTO
+2686729,1035313,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2686739,1035437,1,Conducente,1971,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2686739,1035437,1,Passeggero,1993,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2686740,1035314,1,Conducente,1988,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2686740,1035314,1,Passeggero,1979,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2686745,1035316,1,Conducente,1989,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2686745,1035318,2,Conducente,1986,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2686752,1035519,4,Conducente,1979,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2686762,1035324,2,Conducente,1996,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2686770,1035364,1,Conducente,1992,M,Rimandato,False,,,NON DECEDUTO
+2686771,1035684,1,Conducente,1969,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2686784,1035352,1,Passeggero,1984,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2686807,1035323,1,Conducente,1976,F,Rimandato,False,,,NON DECEDUTO
+2686845,1035339,2,Conducente,1984,F,Rimandato,False,,,NON DECEDUTO
+2686864,1035351,2,Conducente,1962,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2686864,1035351,2,Passeggero,1960,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2686954,1035367,1,Conducente,1960,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2686986,1035376,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2687011,1035410,2,Conducente,1981,M,Rimandato,False,,,NON DECEDUTO
+2687016,1035397,2,Conducente,1982,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2687043,1035450,2,Passeggero,1998,F,Rimandato,False,,,NON DECEDUTO
+2687043,1035450,2,Conducente,0,F,Rimandato,False,,,NON DECEDUTO
+2687050,1035562,1,Conducente,1992,M,Rimandato,False,,,NON DECEDUTO
+2687054,1035429,2,Conducente,1957,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2687088,1035434,1,Conducente,1986,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2687176,1035505,2,Conducente,1958,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2687191,1035480,2,Conducente,1983,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2687220,1040243,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2687274,1035569,2,Conducente,1966,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2687282,1035579,1,Conducente,1972,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2687364,1035552,2,Conducente,1982,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2687368,1035616,1,Conducente,1995,M,Rimandato,False,,,NON DECEDUTO
+2687368,1035620,2,Conducente,1980,M,Rimandato,False,,,NON DECEDUTO
+2687390,1035561,1,Conducente,1958,M,Rimandato,False,Esente,,NON DECEDUTO
+2687400,1035573,2,Conducente,1973,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2687407,1035570,1,Conducente,1972,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2687407,1035572,2,Conducente,1975,M,Rimandato,False,Esente,,NON DECEDUTO
+2687476,1035589,1,Conducente,1983,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2687476,1035589,1,Passeggero,1952,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2687641,1035612,2,Conducente,1950,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2687654,1035611,1,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2687654,1035611,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2687719,1035627,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2687743,1035630,1,Passeggero,1972,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2687743,1035633,2,Conducente,1959,M,Rimandato,False,Utilizzato,Inesistente,NON DECEDUTO
+2687755,1035636,1,Conducente,1966,M,Rimandato,False,,,NON DECEDUTO
+2688299,1035838,2,Conducente,1971,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2688316,1035823,1,Conducente,1981,F,Ricoverato,False,Non accertato,Inesploso,NON DECEDUTO
+2688323,1035951,1,Conducente,1954,M,Rifiuta cure immediate,False,Non accertato,Inesistente,NON DECEDUTO
+2688332,1035758,1,Conducente,1991,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2688335,1035764,2,Conducente,1955,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2688335,1035764,2,Passeggero,1958,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2688343,1035769,2,Conducente,1984,M,Rimandato,False,,,NON DECEDUTO
+2688356,1035767,1,Conducente,1944,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2688356,1035771,2,Conducente,0,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2688404,1035783,1,Conducente,1984,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2688419,1035787,1,Conducente,1996,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2688429,1035788,1,Conducente,1985,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2688429,1035793,2,Conducente,2001,M,Rifiuta cure immediate,False,Esente,,NON DECEDUTO
+2688500,1035889,2,Conducente,1974,F,Rimandato,False,,,NON DECEDUTO
+2688595,1035843,1,Conducente,1987,M,Rimandato,False,,,NON DECEDUTO
+2688595,1035847,2,Conducente,1972,M,Rimandato,False,,,NON DECEDUTO
+2688646,1036179,1,Conducente,1957,M,Rimandato,False,,,NON DECEDUTO
+2688646,1036190,2,Conducente,1979,M,Ricoverato,False,,,NON DECEDUTO
+2688666,1035871,2,Conducente,1967,M,Rifiuta cure immediate,False,Non accertato,Esploso,NON DECEDUTO
+2688680,1035929,2,Conducente,1954,M,Rimandato,False,,,NON DECEDUTO
+2688691,1035873,2,Conducente,1971,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2688737,1035881,1,Conducente,1960,M,Rimandato,False,,,NON DECEDUTO
+2688737,1035882,2,Conducente,1989,F,Ricoverato,False,Esente,,NON DECEDUTO
+2688803,1035922,2,Conducente,1988,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2689001,1035948,2,Conducente,1963,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2689025,1035953,2,Conducente,1978,M,Rimandato,False,,,NON DECEDUTO
+2689316,1036032,1,Conducente,1988,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2689316,1036033,2,Conducente,1966,F,Rifiuta cure immediate,False,Esente,,NON DECEDUTO
+2689342,1036038,1,Conducente,1983,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2689482,1036074,1,Conducente,1973,M,Ricoverato,False,,,NON DECEDUTO
+2689738,1036140,2,Conducente,1969,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2689755,1036141,2,Conducente,1994,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2689768,1036143,1,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2689769,1036338,2,Conducente,1975,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2689771,1036243,2,Passeggero,1990,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2689775,1036255,1,Conducente,1959,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2689781,1036240,2,Passeggero,1984,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2689793,1036145,1,Conducente,1973,F,Ricoverato,False,Non accertato,,NON DECEDUTO
+2689801,1036160,2,Passeggero,1954,F,Rimandato,False,,,NON DECEDUTO
+2689805,1036149,1,Conducente,1985,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2689822,1036159,2,Conducente,1959,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2689825,1036155,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2689849,1036162,1,Conducente,1950,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2689862,1036167,1,Conducente,1948,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2689895,1036173,2,Conducente,1969,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2689952,1036206,1,Conducente,1972,M,Rimandato,False,,,NON DECEDUTO
+2689955,1036213,1,Conducente,1991,M,Rimandato,False,,,NON DECEDUTO
+2689955,1036213,1,Passeggero,1990,M,Rimandato,False,,,NON DECEDUTO
+2689965,1036210,1,Passeggero,2004,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2689965,1036210,1,Passeggero,2005,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2689965,1036218,2,Conducente,1970,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2690046,1036238,2,Passeggero,1993,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2690046,1036238,2,Conducente,1994,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2690189,1036323,1,Conducente,1940,M,Rimandato,False,,,NON DECEDUTO
+2690204,1036298,2,Conducente,1959,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2690225,1036324,2,Conducente,1967,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2690413,1036350,2,Conducente,1995,F,Ricoverato,False,Non accertato,Esploso,NON DECEDUTO
+2690565,1036379,2,Conducente,1965,M,Rimandato,False,Utilizzato,Inesistente,NON DECEDUTO
+2690610,1036390,2,Passeggero,1972,F,Rifiuta cure immediate,False,Utilizzato,,NON DECEDUTO
+2690645,1036402,1,Conducente,1971,M,Rimandato,False,,,NON DECEDUTO
+2690832,1036427,1,Conducente,1963,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2690859,1036440,2,Passeggero,1997,F,Rimandato,False,,,NON DECEDUTO
+2691261,1036518,1,Conducente,1954,M,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2691270,1036523,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2691271,1036525,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2691325,1036533,2,Conducente,1956,M,Rimandato,False,,,NON DECEDUTO
+2691329,1036534,1,Conducente,1957,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2691369,1036548,1,Conducente,1958,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2691381,1036559,2,Conducente,1992,M,Rimandato,False,Esente,,NON DECEDUTO
+2691416,1036563,1,Conducente,1963,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2691437,1036567,2,Conducente,1994,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2691443,1036564,1,Conducente,1955,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2691445,1036643,3,Conducente,1993,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2691462,1036576,1,Conducente,1966,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2691477,1036582,2,Conducente,1975,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2691483,1036586,1,Conducente,1992,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2691585,1036707,1,Conducente,1982,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2691606,1036631,2,Conducente,1962,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2691622,1036681,1,Conducente,1991,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2691639,1036705,1,Conducente,1963,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2691646,1036721,2,Conducente,1984,F,Rifiuta cure immediate,False,Non accertato,Esploso,NON DECEDUTO
+2691729,1036696,1,Conducente,1967,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2692057,1036766,2,Conducente,1974,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2692159,1036782,2,Conducente,1976,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2692178,1036815,2,Conducente,1958,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2692186,1036788,1,Conducente,1933,M,Ricoverato,False,,,NON DECEDUTO
+2692196,1036795,1,Conducente,1991,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2692216,1036825,2,Conducente,1983,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2692261,1036819,1,Conducente,1959,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2692294,1036830,1,Conducente,0,F,Rimandato,False,,,NON DECEDUTO
+2692294,1036835,2,Passeggero,2005,M,Rimandato,False,,,NON DECEDUTO
+2692297,1036833,2,Conducente,1990,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2692303,1036832,1,Conducente,1964,M,Prognosi riservata,False,Non accertato,,NON DECEDUTO
+2692332,1036850,2,Conducente,1983,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2692750,1036949,1,Conducente,1993,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2692765,1036963,3,Conducente,1970,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2692792,1036973,2,Passeggero,1997,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2692792,1036973,2,Conducente,1985,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2692826,1037001,2,Conducente,1975,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2692829,1036985,1,Conducente,1991,M,Rimandato,False,,,NON DECEDUTO
+2692873,1037024,1,Conducente,1991,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2692873,1037025,2,Conducente,1973,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2692881,1037034,2,Conducente,1962,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2692889,1037031,1,Conducente,1987,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2692906,1037052,3,Conducente,1994,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2692906,1037056,4,Conducente,1980,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2693007,1037061,2,Conducente,1989,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2693209,1037120,2,Conducente,1965,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2693265,1037124,1,Conducente,1980,M,Rimandato,False,,,NON DECEDUTO
+2693416,1037153,1,Conducente,1995,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2693805,1037231,2,Conducente,1965,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2693861,1037236,1,Conducente,1993,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2693934,1037259,2,Passeggero,1996,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2693934,1037259,2,Passeggero,1995,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2693934,1037259,2,Conducente,1996,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2693936,1037254,2,Conducente,1985,M,Rimandato,False,,,NON DECEDUTO
+2694084,1037278,1,Conducente,1956,F,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2694503,1037335,1,Conducente,1962,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2694561,1037366,2,Conducente,1967,F,Rimandato,False,,,NON DECEDUTO
+2694569,1037376,2,Conducente,1992,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2694676,1037388,1,Conducente,1989,M,Rimandato,False,Esente,,NON DECEDUTO
+2694682,1037829,2,Conducente,1989,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2694686,1037391,2,Conducente,1970,M,Rimandato,False,,,NON DECEDUTO
+2694713,1037408,2,Conducente,1972,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2694745,1037404,2,Conducente,1970,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2694783,1037416,2,Conducente,1989,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2694801,1037425,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2694810,1037424,1,Conducente,1997,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2694830,1037427,1,Passeggero,1991,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2694863,1037442,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2694864,1037441,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2694873,1037443,2,Conducente,0,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2694892,1037453,2,Conducente,1977,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2694917,1037464,1,Passeggero,1994,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2694948,1037475,1,Conducente,1991,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2694985,1037488,2,Passeggero,1984,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2695039,1037511,1,Passeggero,1988,F,Rimandato,False,,,NON DECEDUTO
+2695039,1037527,2,Conducente,1974,M,Rimandato,False,,,NON DECEDUTO
+2695050,1037516,2,Conducente,1974,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2695061,1037523,2,Passeggero,1982,F,Rimandato,False,Utilizzato,,NON DECEDUTO
+2695086,1037536,2,Passeggero,1926,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2695142,1037597,2,Conducente,1969,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2695145,1037559,1,Conducente,1967,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2695145,1037571,2,Conducente,1973,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2695232,1037644,1,Conducente,1995,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2695251,1037608,1,Passeggero,1993,F,Rimandato,False,,,NON DECEDUTO
+2695280,1037624,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2695318,1037646,1,Conducente,1993,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2695334,1037653,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2695335,1037657,2,Conducente,1965,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2695359,1037670,2,Passeggero,1997,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2695359,1037670,2,Conducente,1993,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2695453,1037720,2,Conducente,1977,M,Rimandato,False,Esente,,NON DECEDUTO
+2695453,1037720,2,Passeggero,2012,M,Rimandato,False,Esente,,NON DECEDUTO
+2695455,1037726,1,Conducente,1994,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2695455,1037726,1,Passeggero,1993,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2695455,1037733,2,Passeggero,1991,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2695561,1037762,2,Passeggero,1995,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2695749,1037793,2,Conducente,1970,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2695944,1037833,2,Conducente,1998,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2695991,1037845,2,Conducente,1966,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2696264,1038023,1,Passeggero,1991,F,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2696264,1038023,1,Passeggero,1988,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2696264,1038023,1,Passeggero,1952,M,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2696264,1038023,1,Passeggero,1948,F,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2696264,1038023,1,Passeggero,1952,F,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2696268,1037967,1,Passeggero,1972,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2696275,1037953,1,Conducente,1979,F,Rimandato,False,,,NON DECEDUTO
+2696275,1037959,2,Conducente,1966,M,Rimandato,False,,,NON DECEDUTO
+2696291,1037906,1,Conducente,1982,M,Rimandato,False,,,NON DECEDUTO
+2696304,1038146,1,Conducente,1995,M,Rimandato,False,Utilizzato,Esploso,NON DECEDUTO
+2696304,1038146,1,Passeggero,1996,F,Rimandato,False,,,NON DECEDUTO
+2696304,1038146,1,Passeggero,1993,F,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2696304,1038150,2,Conducente,1953,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2696312,1037918,2,Conducente,1974,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2696370,1037921,1,Conducente,1975,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2696370,1037921,1,Passeggero,1970,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2696387,1037945,1,Conducente,1976,F,Rimandato,False,,,NON DECEDUTO
+2696392,1037962,2,Conducente,1992,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2696416,1037947,1,Conducente,1954,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2696464,1037969,2,Conducente,1954,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2696531,1037992,1,Conducente,1972,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2696531,1037994,2,Conducente,1971,M,Rimandato,False,,,NON DECEDUTO
+2696540,1038142,2,Conducente,1989,F,Rimandato,False,,,NON DECEDUTO
+2696554,1038087,1,Passeggero,1948,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2696554,1038087,1,Conducente,1990,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2696558,1038108,1,Conducente,1964,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2696559,1038007,3,Passeggero,1995,F,Rimandato,False,,,NON DECEDUTO
+2696565,1040555,2,Conducente,1992,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2696565,1040555,2,Passeggero,1998,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2696579,1038009,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2696717,1038053,1,Conducente,1990,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2696795,1038054,1,Conducente,1979,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2696795,1038058,2,Conducente,1967,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2696837,1038075,1,Conducente,1981,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2696851,1038082,2,Conducente,1975,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2696854,1038086,2,Conducente,1961,M,Rimandato,False,,,NON DECEDUTO
+2696926,1038116,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2696964,1038144,1,Conducente,1988,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2697143,1038159,2,Conducente,1991,M,Rimandato,False,Esente,,NON DECEDUTO
+2697173,1038164,1,Conducente,1942,F,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2697242,1038207,2,Passeggero,1958,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2697242,1038207,2,Conducente,1971,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2697526,1038250,2,Conducente,1962,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2697850,1038304,1,Conducente,1973,M,Rimandato,False,,,NON DECEDUTO
+2697859,1038332,1,Conducente,1972,M,Rimandato,False,,,NON DECEDUTO
+2697869,1038345,1,Conducente,1977,F,Rimandato,False,,,NON DECEDUTO
+2697883,1038315,2,Conducente,1980,F,Rimandato,False,,,NON DECEDUTO
+2697904,1038331,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2697921,1038323,1,Conducente,1984,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2697937,1038337,2,Conducente,1978,M,Rimandato,False,,,NON DECEDUTO
+2697944,1038330,1,Conducente,1976,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2698066,1038367,2,Conducente,1968,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2698175,1038403,2,Passeggero,1939,F,Rimandato,False,,,NON DECEDUTO
+2698274,1038442,1,Conducente,1986,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2698383,1038484,1,Conducente,1996,F,Rimandato,False,,,NON DECEDUTO
+2698383,1038486,2,Conducente,1988,M,Rimandato,False,,,NON DECEDUTO
+2698459,1038514,1,Passeggero,1983,M,Ricoverato,False,Non accertato,Esploso,NON DECEDUTO
+2698462,1038517,1,Conducente,1953,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2698472,1038530,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2698481,1038528,1,Conducente,1961,M,Rimandato,False,Utilizzato,Esploso,NON DECEDUTO
+2698481,1038538,2,Passeggero,2003,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2698481,1038538,2,Conducente,1970,F,Rimandato,False,Non utilizzato,Esploso,NON DECEDUTO
+2698493,1038536,1,Conducente,1950,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2698601,1038563,2,Conducente,1962,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2698661,1038587,2,Conducente,1968,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2698852,1038616,2,Conducente,1983,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2698980,1038645,1,Conducente,1973,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2698995,1038649,2,Conducente,1969,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2698999,1038650,2,Conducente,1961,M,Rimandato,False,,,NON DECEDUTO
+2699095,1038673,1,Passeggero,2002,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2699401,1038771,1,Conducente,1968,F,Ricoverato,False,Non accertato,Esploso,NON DECEDUTO
+2699401,1038771,1,Passeggero,2003,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2699401,1038771,1,Passeggero,1999,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2699473,1038776,1,Conducente,1984,M,Rimandato,False,,,NON DECEDUTO
+2699507,1038778,1,Passeggero,1978,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2699507,1038778,1,Passeggero,1979,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2699507,1038778,1,Conducente,1982,M,Rimandato,False,,,NON DECEDUTO
+2699507,1038778,1,Passeggero,1968,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2699596,1038797,2,Conducente,1969,M,Rimandato,False,,,NON DECEDUTO
+2699605,1038902,1,Conducente,1989,M,Rifiuta cure immediate,False,Non accertato,Esploso,NON DECEDUTO
+2699610,1038789,1,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2699610,1038793,2,Conducente,1961,F,Rimandato,False,,,NON DECEDUTO
+2699627,1038894,1,Conducente,1992,M,Rimandato,False,,,NON DECEDUTO
+2699642,1038807,1,Conducente,1968,M,Rimandato,False,,,NON DECEDUTO
+2699642,1038814,2,Passeggero,2000,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2699642,1038814,2,Conducente,1967,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2699642,1038814,2,Passeggero,2000,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2699660,1038810,1,Conducente,0,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2699660,1038812,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2699662,1038811,1,Conducente,1991,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2699686,1038835,1,Conducente,1985,M,Rimandato,False,,,NON DECEDUTO
+2699721,1038838,2,Conducente,1969,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2699726,1038839,1,Conducente,1948,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2699780,1038859,2,Conducente,1981,M,Rimandato,False,,,NON DECEDUTO
+2700058,1038945,1,Conducente,1967,M,Rimandato,False,,Inesploso,NON DECEDUTO
+2700187,1039277,1,Conducente,1961,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2700187,1039279,2,Conducente,1991,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2700232,1039007,2,Conducente,1969,F,Rifiuta cure immediate,False,Utilizzato,,NON DECEDUTO
+2700267,1039014,2,Conducente,1961,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2700289,1039031,2,Conducente,1952,M,Rimandato,False,,,NON DECEDUTO
+2700346,1039017,1,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2700454,1039044,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2700463,1039078,2,Conducente,1985,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2700464,1039048,2,Conducente,1982,M,Rimandato,False,,,NON DECEDUTO
+2700498,1039063,2,Conducente,1979,F,Ricoverato,False,Non accertato,,NON DECEDUTO
+2700512,1039068,1,Conducente,0,F,Rimandato,False,,,NON DECEDUTO
+2700548,1039088,1,Conducente,1968,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2700615,1039124,2,Conducente,1964,M,Rimandato,False,,,NON DECEDUTO
+2700629,1039099,2,Conducente,1954,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2700665,1039114,1,Passeggero,1972,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2700708,1039138,2,Conducente,1962,F,Rimandato,False,,,NON DECEDUTO
+2700743,1039153,1,Conducente,1961,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2700763,1039161,1,Conducente,1985,F,Ricoverato,False,,,NON DECEDUTO
+2700980,1039205,2,Conducente,1962,F,Ricoverato,False,,,NON DECEDUTO
+2701027,1039210,1,Conducente,1982,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2701043,1039216,2,Conducente,1956,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2701049,1039215,2,Conducente,1967,M,Rimandato,False,,,NON DECEDUTO
+2701077,1039223,2,Conducente,1993,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2701086,1039228,2,Conducente,1961,F,Rimandato,False,,,NON DECEDUTO
+2701098,1039231,2,Conducente,0,F,Rimandato,False,,,NON DECEDUTO
+2701098,1039231,2,Passeggero,0,F,Rimandato,False,,,NON DECEDUTO
+2701167,1039334,2,Conducente,1999,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2701172,1039273,3,Conducente,1968,F,Rimandato,False,,,NON DECEDUTO
+2701193,1039253,1,Conducente,1995,M,Ricoverato,False,Non accertato,Inesploso,NON DECEDUTO
+2701210,1039303,2,Conducente,1955,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2701220,1039265,2,Conducente,1961,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2701251,1039275,2,Conducente,1994,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2701290,1039370,2,Conducente,1975,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2701307,1039282,1,Conducente,1969,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2701345,1039302,1,Conducente,1983,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2701391,1039315,1,Passeggero,1993,F,Rimandato,False,,,NON DECEDUTO
+2701409,1039320,1,Conducente,1970,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2701517,1040654,2,Conducente,1983,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2701566,1039367,1,Conducente,1974,F,Rimandato,False,,,NON DECEDUTO
+2701603,1039386,2,Conducente,1968,F,Rimandato,False,,,NON DECEDUTO
+2701629,1039384,1,Conducente,1946,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2701693,1039388,1,Conducente,1968,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2701752,1039402,2,Conducente,1954,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2701793,1039405,1,Conducente,1983,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2701793,1039407,2,Conducente,1968,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2701793,1039407,2,Passeggero,2002,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2701797,1039409,1,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2701840,1039423,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2701901,1039433,1,Conducente,1967,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2702012,1039453,2,Conducente,1980,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2702159,1039489,2,Conducente,1959,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2702489,1039701,1,Conducente,1980,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2702510,1039575,2,Conducente,1964,M,Rimandato,False,,,NON DECEDUTO
+2702511,1039573,2,Conducente,1954,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2702515,1039579,2,Conducente,1965,M,Rimandato,False,,,NON DECEDUTO
+2702581,1039603,2,Conducente,1959,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2702587,1039608,2,Conducente,1976,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2702589,1039598,1,Passeggero,1999,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2702589,1039601,2,Conducente,1965,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2702589,1039601,2,Passeggero,1998,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2702615,1039615,1,Conducente,1975,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2702615,1039621,2,Conducente,1963,F,Ricoverato,False,Non accertato,Inesploso,NON DECEDUTO
+2702652,1039642,2,Conducente,1990,M,Rimandato,False,,,NON DECEDUTO
+2702670,1039641,1,Passeggero,1970,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2702765,1039671,2,Conducente,1965,M,Rimandato,False,,,NON DECEDUTO
+2703198,1039752,2,Conducente,1977,F,Ricoverato,False,Non accertato,Inesploso,NON DECEDUTO
+2703280,1040656,2,Conducente,1994,M,Rimandato,False,,,NON DECEDUTO
+2703501,1039820,1,Conducente,1982,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2703515,1039823,1,Conducente,1964,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2703531,1039827,1,Conducente,1958,M,Rimandato,False,,,NON DECEDUTO
+2703531,1039828,2,Passeggero,1993,M,Rimandato,False,,,NON DECEDUTO
+2703531,1039828,2,Passeggero,1997,F,Rimandato,False,,,NON DECEDUTO
+2703538,1039830,1,Conducente,1960,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2703539,1039833,1,Passeggero,1948,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2703539,1039834,2,Conducente,1977,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2703548,1039837,2,Passeggero,1992,F,Rimandato,False,,,NON DECEDUTO
+2703548,1039837,2,Conducente,1991,M,Rimandato,False,,,NON DECEDUTO
+2703553,1039841,1,Conducente,1978,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2703560,1039843,2,Conducente,1992,M,Rimandato,False,,,NON DECEDUTO
+2703562,1039846,2,Conducente,1970,F,Rimandato,False,,,NON DECEDUTO
+2703562,1039846,2,Passeggero,2007,F,Rimandato,False,,,NON DECEDUTO
+2703938,1039912,1,Conducente,1954,F,Ricoverato,False,Utilizzato,,NON DECEDUTO
+2704356,1040000,2,Conducente,1997,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2704400,1040009,1,Conducente,1992,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2704400,1040009,1,Passeggero,1995,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2704401,1040010,1,Conducente,1943,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2704401,1040033,2,Conducente,1942,M,Ricoverato,False,Non accertato,Esploso,NON DECEDUTO
+2704422,1040019,2,Conducente,1966,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2704422,1040019,2,Passeggero,1993,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2704458,1040043,2,Conducente,1995,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2704466,1040038,1,Conducente,1981,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2704474,1040114,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2704531,1040119,1,Conducente,1980,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2704533,1040202,1,Conducente,1995,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2704539,1040315,1,Conducente,1984,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2704541,1040129,1,Passeggero,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2704541,1040133,2,Conducente,1982,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2704546,1041452,1,Conducente,1971,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2704556,1040076,2,Conducente,1999,F,Prognosi riservata,False,Non accertato,,NON DECEDUTO
+2704562,1040066,2,Conducente,1958,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2704578,1040065,1,Conducente,1969,M,Rifiuta cure immediate,False,Utilizzato,,NON DECEDUTO
+2704614,1040836,1,Conducente,1989,M,Ricoverato,False,,,NON DECEDUTO
+2704620,1040093,1,Conducente,1993,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2704633,1040872,1,Conducente,1996,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2704681,1040094,1,Conducente,1988,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2704681,1040105,2,Conducente,1962,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2704762,1040123,1,Conducente,1988,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2704827,1040144,2,Conducente,1975,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2704850,1040166,2,Passeggero,1974,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2704850,1040166,2,Conducente,1970,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2704853,1040157,1,Conducente,1940,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2704859,1040174,2,Conducente,1985,F,Rimandato,False,,,NON DECEDUTO
+2704882,1040572,2,Conducente,1973,M,Rimandato,False,,,NON DECEDUTO
+2704976,1040224,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2705046,1040246,2,Conducente,1981,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2705107,1040260,1,Conducente,0,F,Rimandato,False,,,NON DECEDUTO
+2705200,1040289,2,Conducente,1979,M,Ricoverato,False,,,NON DECEDUTO
+2705531,1040358,2,Conducente,1984,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2705534,1040354,2,Conducente,1984,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2705547,1040355,2,Conducente,1997,M,Rimandato,False,,,NON DECEDUTO
+2705845,1040417,1,Passeggero,1995,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2705845,1040417,1,Conducente,1993,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2705866,1040422,1,Conducente,1987,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2705892,1040506,1,Conducente,1966,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2705899,1040574,1,Conducente,1966,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2705907,1040704,2,Passeggero,2012,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2705907,1040704,2,Passeggero,1950,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2705907,1040704,2,Passeggero,1969,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2705926,1046210,2,Conducente,1988,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2705942,1040431,2,Conducente,1987,F,Rimandato,False,Utilizzato,Esploso,NON DECEDUTO
+2705951,1040430,2,Conducente,1982,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2705960,1040435,1,Conducente,1973,F,Ricoverato,False,Non accertato,Inesploso,NON DECEDUTO
+2705970,1040474,2,Conducente,1948,M,Prognosi riservata,False,,,NON DECEDUTO
+2705981,1040504,2,Conducente,1955,M,Rimandato,False,,,NON DECEDUTO
+2705998,1040493,2,Passeggero,1981,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2705998,1040493,2,Conducente,1952,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2705999,1040439,1,Conducente,1975,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2705999,1040449,2,Conducente,1947,M,Rimandato,False,,,NON DECEDUTO
+2706005,1040441,2,Conducente,0,F,Rimandato,False,Esente,,NON DECEDUTO
+2706030,1040549,2,Conducente,1975,M,Rimandato,False,,,NON DECEDUTO
+2706032,1040447,1,Conducente,1986,F,Rimandato,False,,,NON DECEDUTO
+2706032,1040448,2,Conducente,1965,F,Rimandato,False,,,NON DECEDUTO
+2706065,1040452,1,Conducente,1985,M,Rimandato,False,,,NON DECEDUTO
+2706187,1040583,1,Conducente,1980,M,Rimandato,False,,,NON DECEDUTO
+2706211,1040523,2,Conducente,1965,M,Rimandato,False,,,NON DECEDUTO
+2706216,1040609,1,Conducente,1984,M,Ricoverato,False,,,NON DECEDUTO
+2706226,1040529,2,Conducente,1980,M,Rifiuta cure immediate,False,Non accertato,Inesistente,NON DECEDUTO
+2706428,1040578,2,Conducente,1980,M,Rimandato,False,Esente,,NON DECEDUTO
+2706535,1040592,1,Conducente,1987,F,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2706543,1040595,1,Conducente,1967,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2706716,1040617,2,Conducente,1968,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2706768,1040634,2,Conducente,1951,F,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2706916,1040798,2,Conducente,1995,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2707105,1040716,1,Conducente,1968,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2707414,1040870,2,Conducente,1971,M,Rifiuta cure immediate,False,Non accertato,Esploso,NON DECEDUTO
+2707436,1040846,1,Conducente,1974,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2707533,1040815,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2707562,1040824,2,Conducente,1955,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2707625,1040834,1,Conducente,1985,M,Ricoverato,False,,,NON DECEDUTO
+2707639,1040839,2,Conducente,1959,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2707667,1040851,2,Conducente,1958,M,Rimandato,False,,,NON DECEDUTO
+2707700,1040866,1,Conducente,1963,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2707710,1040898,2,Conducente,1978,M,Ricoverato,False,Non accertato,,NON DECEDUTO
+2707726,1040938,1,Conducente,1993,M,Rimandato,False,,,NON DECEDUTO
+2707730,1040973,2,Conducente,1994,M,Rimandato,False,,,NON DECEDUTO
+2707735,1040978,2,Conducente,1967,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2707805,1040924,1,Conducente,1972,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2707832,1040929,1,Conducente,0,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2707897,1040960,2,Conducente,1956,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2708150,1041023,2,Conducente,1937,F,Rimandato,False,Non accertato,Inesistente,NON DECEDUTO
+2708221,1041028,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2708234,1041036,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2708252,1041054,2,Passeggero,1966,F,Rimandato,False,,,NON DECEDUTO
+2708252,1041054,2,Conducente,1963,M,Rimandato,False,,,NON DECEDUTO
+2708369,1041097,1,Conducente,1992,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2708513,1041112,1,Conducente,1964,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2708513,1041112,1,Passeggero,1999,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2708544,1041128,1,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2708565,1041134,1,Conducente,1960,M,Rimandato,False,Non utilizzato,Inesistente,NON DECEDUTO
+2708583,1041145,1,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2708720,1041221,2,Conducente,1963,F,Rimandato,False,,,NON DECEDUTO
+2708918,1041218,2,Conducente,1997,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2708928,1041219,1,Conducente,1980,M,Rimandato,False,Utilizzato,Esploso,NON DECEDUTO
+2708928,1041220,2,Conducente,1972,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2708942,1041222,1,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2708968,1041231,2,Conducente,1972,M,Prognosi riservata,False,Non accertato,,NON DECEDUTO
+2708979,1041516,1,Conducente,1996,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2708981,1041232,1,Conducente,1985,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2708992,1041233,2,Conducente,1959,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2709006,1041234,1,Conducente,1971,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2709006,1041237,2,Conducente,1938,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2709016,1041238,1,Conducente,1988,M,Rimandato,False,,,NON DECEDUTO
+2709031,1041239,1,Conducente,1977,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2709047,1041256,2,Conducente,1959,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2709058,1041254,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2709061,1041259,2,Conducente,1982,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2709070,1041265,2,Conducente,1969,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2709190,1041327,3,Conducente,1980,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2709249,1041340,2,Conducente,1981,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2709308,1041351,2,Conducente,1994,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2709323,1041379,2,Conducente,1955,M,Rimandato,False,,,NON DECEDUTO
+2709334,1041370,1,Conducente,1981,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2709446,1041386,1,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2709489,1041393,1,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2709522,1041532,2,Conducente,1971,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2709545,1041422,2,Conducente,1970,F,Rimandato,False,,,NON DECEDUTO
+2709552,1041437,2,Conducente,1975,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2709697,1041776,1,Conducente,1978,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2709796,1041481,4,Conducente,1992,F,Rimandato,False,,,NON DECEDUTO
+2709852,1041489,1,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2710134,1041541,1,Conducente,1989,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2710134,1041545,2,Conducente,1977,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2710216,1041558,1,Conducente,0,F,Rimandato,False,,,NON DECEDUTO
+2710216,1041559,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2710302,1041592,2,Conducente,1971,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2710305,1041593,1,Passeggero,0,F,Rimandato,False,,,NON DECEDUTO
+2710305,1041593,1,Passeggero,0,F,Rimandato,False,,,NON DECEDUTO
+2710439,1042060,1,Conducente,1960,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2710439,1042061,2,Conducente,1970,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2710445,1041728,2,Conducente,1983,M,Ricoverato,False,Non accertato,Inesploso,NON DECEDUTO
+2710447,1041606,1,Conducente,1996,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2710487,1041617,3,Conducente,1952,M,Rimandato,False,,,NON DECEDUTO
+2710487,1041617,3,Passeggero,0,F,Rimandato,False,,,NON DECEDUTO
+2710500,1041621,2,Conducente,1971,M,Rimandato,False,,,NON DECEDUTO
+2710551,1041625,1,Conducente,1975,F,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2710595,1041638,1,Conducente,1969,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2710612,1041658,1,Conducente,1974,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2710612,1041668,2,Conducente,0,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2710774,1041740,1,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2710885,1041791,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2710899,1041801,2,Conducente,1978,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2710925,1041817,2,Conducente,1965,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2710934,1041825,2,Conducente,1988,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2711302,1041908,2,Conducente,1968,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2711327,1041917,2,Conducente,0,F,Rimandato,False,,,NON DECEDUTO
+2711452,1041938,1,Conducente,1969,F,Rimandato,False,,,NON DECEDUTO
+2711458,1041939,1,Conducente,1943,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2711462,1041944,2,Conducente,1966,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2711510,1041949,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2711510,1041950,3,Conducente,0,F,Rimandato,False,,,NON DECEDUTO
+2711709,1041993,2,Conducente,1997,M,Ricoverato,False,Utilizzato,,NON DECEDUTO
+2711871,1042036,1,Conducente,1955,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2711916,1042051,1,Conducente,1989,M,Ricoverato,False,Non accertato,Esploso,NON DECEDUTO
+2711963,1042050,1,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2711968,1042058,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2712037,1042116,1,Conducente,0,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2712384,1042220,1,Conducente,1940,F,Ricoverato,False,Non accertato,Inesploso,NON DECEDUTO
+2712450,1042138,2,Conducente,1969,M,Rimandato,False,Utilizzato,,NON DECEDUTO
+2712460,1042139,1,Conducente,1999,M,Rimandato,False,,,NON DECEDUTO
+2712464,1042145,1,Conducente,1999,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2712478,1042151,2,Conducente,1980,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2712513,1042158,1,Conducente,1985,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2712543,1042163,1,Conducente,1997,M,Rimandato,False,,,NON DECEDUTO
+2712547,1042165,2,Conducente,1976,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2712547,1042170,3,Passeggero,1978,F,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2712585,1042171,1,Conducente,1987,M,Rimandato,False,,,NON DECEDUTO
+2712621,1042180,2,Passeggero,2000,F,Rimandato,False,,,NON DECEDUTO
+2712762,1042207,2,Conducente,1964,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2712957,1042277,1,Conducente,1979,M,Ricoverato,False,,,NON DECEDUTO
+2713145,1042326,1,Conducente,1994,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2713145,1042326,1,Passeggero,1995,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2713145,1042326,1,Passeggero,1994,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2713894,1042471,1,Conducente,1983,M,Rifiuta cure immediate,False,Utilizzato,Inesploso,NON DECEDUTO
+2713894,1042474,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2714024,1042495,2,Conducente,1959,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2714066,1042500,1,Passeggero,1989,F,Rimandato,False,,,NON DECEDUTO
+2714066,1042503,2,Conducente,1974,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2714081,1042512,2,Conducente,1958,F,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2714101,1042572,1,Conducente,1981,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2714101,1042580,2,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2714101,1042580,2,Conducente,1984,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2714101,1042580,2,Passeggero,0,M,Rimandato,False,,,NON DECEDUTO
+2714121,1042515,1,Conducente,1988,M,Rimandato,False,Utilizzato,Inesploso,NON DECEDUTO
+2714123,1042518,1,Conducente,1988,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2714139,1042654,2,Conducente,1978,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2714145,1042804,2,Conducente,1986,M,Ricoverato,False,,,NON DECEDUTO
+2714161,1042524,1,Conducente,1947,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2714161,1042524,1,Passeggero,1948,F,Rimandato,False,Esente,,NON DECEDUTO
+2714161,1042527,2,Conducente,1931,F,Rimandato,False,Non accertato,,NON DECEDUTO
+2714171,1042525,1,Conducente,1975,M,Rimandato,False,,,NON DECEDUTO
+2714172,1042523,1,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2714188,1042764,1,Conducente,1994,F,Rimandato,False,,,NON DECEDUTO
+2714199,1042668,2,Conducente,1962,M,Rimandato,False,Esente,,NON DECEDUTO
+2714214,1042535,1,Conducente,1954,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2714216,1042541,2,Passeggero,1983,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2714216,1042541,2,Conducente,1975,M,Rifiuta cure immediate,False,Non accertato,Esploso,NON DECEDUTO
+2714265,1042554,2,Conducente,1957,M,Rimandato,False,Non accertato,,NON DECEDUTO
+2714273,1042570,2,Conducente,1975,M,Rimandato,False,,,NON DECEDUTO
+2714317,1042573,1,Conducente,1987,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2714320,1042579,1,Conducente,1967,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2714343,1042598,1,Passeggero,2008,F,Rifiuta cure immediate,False,,,NON DECEDUTO
+2714351,1042625,2,Conducente,1992,M,Rimandato,False,,,NON DECEDUTO
+2714511,1042855,2,Conducente,1994,F,Rimandato,False,,,NON DECEDUTO
+2714569,1042724,1,Passeggero,1987,M,Rimandato,False,Esente,,NON DECEDUTO
+2714638,1042745,1,Conducente,1975,F,Rimandato,False,,,NON DECEDUTO
+2714789,1042784,1,Conducente,1983,F,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2714799,1042786,1,Conducente,1960,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2714842,1042792,1,Conducente,1987,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2714913,1042818,1,Conducente,1942,M,Rimandato,False,Non accertato,Esploso,NON DECEDUTO
+2715139,1042877,1,Passeggero,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2715139,1042879,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2715156,1042883,2,Conducente,0,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2715174,1042888,2,Conducente,1978,M,Rifiuta cure immediate,False,,,NON DECEDUTO
+2715182,1042891,1,Conducente,1973,M,Rifiuta cure immediate,False,Non accertato,Inesploso,NON DECEDUTO
+2715186,1042896,2,Conducente,1986,M,Rimandato,False,Non accertato,Inesploso,NON DECEDUTO
+2716167,1043164,2,Conducente,0,F,Ricoverato,False,,,NON DECEDUTO
+2720577,1044373,1,Conducente,1976,M,Rifiuta cure immediate,False,Non accertato,,NON DECEDUTO
+2722053,1044770,2,Conducente,0,M,Rimandato,False,,,NON DECEDUTO
+2723978,1045193,1,Conducente,1978,M,Rimandato,False,,,NON DECEDUTO
+2726303,1045940,1,Conducente,1999,M,Rimandato,False,Non accertato,,NON DECEDUTO

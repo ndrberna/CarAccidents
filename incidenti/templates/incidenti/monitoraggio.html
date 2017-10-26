@@ -1,0 +1,679 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Paladin 2</title>
+
+	<!-- Global stylesheets -->
+
+	
+	<link href="{% static "css/css.css"%}" rel="stylesheet" type="text/css">
+	<link href="{% static "css/styles.css"%}" rel="stylesheet" type="text/css">
+	<link href="{% static "css/bootstrap.css"%}" rel="stylesheet" type="text/css">
+	<link href="{% static "css/core.css"%}" rel="stylesheet" type="text/css">
+	<link href="{% static "css/components.css"%}" rel="stylesheet" type="text/css">
+	<link href="{% static "css/colors.css"%}" rel="stylesheet" type="text/css">
+	<!-- /global stylesheets -->
+
+	<!-- Core JS files -->
+
+	<script type="text/javascript" src="{% static "js/pace.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/jquery.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/bootstrap.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/blockui.js"%}"></script>
+
+	<script type="text/javascript" src="{% static "js/datatables.min.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/datatables_advanced.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/select2.js"%}"></script>
+
+	<script type="text/javascript" src="{% static "js/tokenfield.js"%}"></script>
+	<!-- /core JS files -->
+
+	<!-- Theme JS files -->
+
+	<script type="text/javascript" src="{% static "js/d3.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/d3_tooltip.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/switchery.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/uniform.js"%}"></script>
+	<script type="text/javascript" src="{% static "js/bootstrap_multiselect.js"%}"></script>
+	<!-- <script type="text/javascript" src="js/moment.js"></script>
+	<script type="text/javascript" src="js/daterangepicker.js"></script> -->
+
+	<script type="text/javascript" src="{% static "js/app.js"%}"></script>
+	<!-- <script type="text/javascript" src="js/dashboard.js"></script>-->
+	<script type="text/javascript" src="{% static "js/layout_fixed_native.js"%}"></script>
+	<!-- /theme JS files -->
+
+<script>try {  for(var lastpass_iter=0; lastpass_iter < document.forms.length; lastpass_iter++){    var lastpass_f = document.forms[lastpass_iter];    if(typeof(lastpass_f.lpsubmitorig)=="undefined"){      if (typeof(lastpass_f.submit) == "function") {        lastpass_f.lpsubmitorig = lastpass_f.submit;        lastpass_f.submit = function(){          var form = this;          try {            if (document.documentElement && 'createEvent' in document)            {              var forms = document.getElementsByTagName('form');              for (var i=0 ; i<forms.length ; ++i)                if (forms[i]==form)                {                  var element = document.createElement('lpformsubmitdataelement');                  element.setAttribute('formnum',i);                  element.setAttribute('from','submithook');                  document.documentElement.appendChild(element);                  var evt = document.createEvent('Events');                  evt.initEvent('lpformsubmit',true,false);                  element.dispatchEvent(evt);                  break;                }            }          } catch (e) {}          try {            form.lpsubmitorig();          } catch (e) {}        }      }    }  }} catch (e) {}</script></head>
+
+<body class="navbar-top  pace-done"><div class="pace  pace-inactive"><div data-progress="99" data-progress-text="100%" style="transform: translate3d(100%, 0px, 0px);" class="pace-progress">
+  <div class="pace-progress-inner"></div>
+</div>
+<div class="pace-activity"></div></div>
+
+	<!-- Main navbar -->
+	<div class="navbar navbar-inverse navbar-fixed-top">
+		<div class="navbar-header">
+			<a class="navbar-brand" href="#"><img src="{% static "img/logo_light.png"%}" alt=""></a>
+
+			<ul class="nav navbar-nav visible-xs-block">
+				<li><a data-toggle="collapse" data-target="#navbar-mobile"><i class="icon-tree5"></i></a></li>
+				<li><a class="sidebar-mobile-main-toggle"><i class="icon-paragraph-justify3"></i></a></li>
+			</ul>
+		</div>
+
+		<div class="navbar-collapse collapse" id="navbar-mobile">
+			<ul class="nav navbar-nav">
+				<li><a class="sidebar-control sidebar-main-toggle hidden-xs"><i class="icon-paragraph-justify3"></i></a></li>
+
+				<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+						<i class="icon-git-compare"></i>
+						<span class="visible-xs-inline-block position-right">Git updates</span>
+						<span class="badge bg-warning-400">9</span>
+					</a>
+					
+					<div class="dropdown-menu dropdown-content">
+						<div class="dropdown-content-heading">
+							Ultime azioni
+							<ul class="icons-list">
+								<li><a href="#"><i class="icon-sync"></i></a></li>
+							</ul>
+						</div>
+
+						<ul class="media-list dropdown-content-body width-350">
+							<li class="media">
+								<div class="media-left">
+									<a href="#" class="btn border-primary text-primary btn-flat btn-rounded btn-icon btn-sm"><i class="icon-git-pull-request"></i></a>
+								</div>
+
+								<div class="media-body">
+									<a href="#">Utente Fapav</a> ha effettuato una ricerca <a href="#"></a> sulla chiave "Mondiali di Calcio"
+									<div class="media-annotation">4 minutes ago</div>
+								</div>
+							</li>
+
+							<li class="media">
+								<div class="media-left">
+									<a href="#" class="btn border-warning text-warning btn-flat btn-rounded btn-icon btn-sm"><i class="icon-git-commit"></i></a>
+								</div>
+								
+								<div class="media-body">
+									<a href="#">Utente Fapav</a> ha segnalato la rimozione di 100 video
+									<div class="media-annotation">36 minutes ago</div>
+								</div>
+							</li>
+
+							<li class="media">
+								<div class="media-left">
+									<a href="#" class="btn border-info text-info btn-flat btn-rounded btn-icon btn-sm"><i class="icon-git-branch"></i></a>
+								</div>
+								
+								<div class="media-body">
+									<a href="#">Utente Fapav</a> ha modificato i parametri di monitoraggio del sistema
+									<div class="media-annotation">2 hours ago</div>
+								</div>
+							</li>
+
+							<li class="media">
+								<div class="media-left">
+									<a href="#" class="btn border-success text-success btn-flat btn-rounded btn-icon btn-sm"><i class="icon-git-merge"></i></a>
+								</div>
+								
+								<div class="media-body"><a>Utente Fapav</a> ha effettuato una ricerca con la chiave "Don Matteo puntata"
+
+									<div class="media-annotation">Feb 18, 18:36</div>
+								</div>
+							</li>
+
+							<li class="media">
+								<div class="media-left">
+									<a href="#" class="btn border-warning text-warning btn-flat btn-rounded btn-icon btn-sm"><i class="icon-git-commit"></i></a>
+								</div>
+								
+								<div class="media-body">
+									<a href="#">Utente Fapav</a> ha segnalato la rimozione di 50 video
+									<div class="media-annotation">Feb 12, 05:46</div>
+								</div>
+							</li>
+						</ul>
+
+						<div class="dropdown-content-footer">
+							<a data-original-title="All activity" href="#" data-popup="tooltip" title=""><i class="icon-menu display-block"></i></a>
+						</div>
+					</div>
+				</li>
+			</ul>
+
+			<p class="navbar-text"><span class="label bg-success-400">Online</span></p>
+
+			<ul class="nav navbar-nav navbar-right">
+			
+
+				<li class="dropdown dropdown-user">
+					<a class="dropdown-toggle" data-toggle="dropdown">
+						
+						<span>Utente FAPAV</span>
+						<i class="caret"></i>
+					</a>
+
+					<ul class="dropdown-menu dropdown-menu-right">
+						<li><a href="#"><i class="icon-user-plus"></i> My profile</a></li>
+						
+						<li><a href="#"><span class="badge bg-teal-400 pull-right">58</span> <i class="icon-comment-discussion"></i> Messages</a></li>
+						<li class="divider"></li>
+						<li><a href="#"><i class="icon-cog5"></i> Account settings</a></li>
+						<li><a href="#"><i class="icon-switch2"></i> Logout</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<!-- /main navbar -->
+
+
+	<!-- Page container -->
+	<div style="min-height:1094px" class="page-container">
+
+		<!-- Page content -->
+		<div class="page-content">
+
+			<!-- Main sidebar -->
+			<div class="sidebar sidebar-main sidebar-fixed affix-top">
+				<div class="sidebar-content">
+
+					<!-- User menu -->
+					<div class="sidebar-user">
+						
+					</div>
+					<!-- /user menu -->
+
+
+					<!-- Main navigation -->
+					<div class="sidebar-category sidebar-category-visible">
+						<div class="category-content no-padding">
+							<ul class="navigation navigation-main navigation-accordion">
+
+								<!-- Main -->
+								<li class="navigation-header"><i data-original-title="Main pages" class="icon-menu" title=""></i></li>
+								<li><a href="cerca"><i class="icon-home4"></i> <span>Cerca</span></a></li>
+							
+							
+								<li><a href="monitoraggio"><i class="icon-list-unordered"></i> <span>Monitoraggio <span class="label bg-warning-400">80</span></span></a></li>
+								<li><a href="statistiche"><i class="icon-width"></i> <span>Statistiche</span></a></li>
+								<!-- /main -->
+
+					
+
+						
+
+							</ul>
+						</div>
+					</div>
+					<!-- /main navigation -->
+
+				</div>
+			</div>
+			<!-- /main sidebar -->
+
+
+			<!-- Main content -->
+			<div class="content-wrapper">
+
+
+
+
+				<!-- Page header -->
+				<div class="page-header">
+					<div class="page-header-content">
+						<div class="page-title">
+							<h4><i class="icon-arrow-left52 position-left"></i> <a href="/" class="text-semibold">Home</a></h4>
+						</div>
+
+						<div class="heading-elements">
+							<div class="heading-btn-group">
+								<a href="#" class="btn btn-link btn-float has-text"><i class="icon-bars-alt text-primary"></i><span>Statistics</span></a>
+								
+								<a href="#" class="btn btn-link btn-float has-text"><i class="icon-calendar5 text-primary"></i> <span>Schedule</span></a>
+							</div>
+						</div>
+					<a class="heading-elements-toggle"><i class="icon-menu"></i></a></div>
+
+
+					{% block breadcrumbs %}
+
+  				    {% endblock %}
+				
+				</div>
+				<!-- /page header -->
+
+
+				<!-- Main content -->
+			<div >
+
+				<!-- Page header -->
+				<div class="page-header">
+					<div class="page-header-content">
+					
+				
+					<a class="heading-elements-toggle"><i class="icon-menu"></i></a></div>
+
+					
+				</div>
+				<!-- /page header -->
+
+
+				<!-- Content area -->
+				<div class="content">
+
+
+
+
+
+				
+
+
+
+					<!-- Highlighting rows and columns -->
+					<div class="panel panel-flat">
+						<div class="panel-heading">
+							<h5 class="panel-title">Monitoraggio dei video analizzati</h5>
+							<div class="heading-elements">
+								<ul class="icons-list">
+			                		<li><a data-action="collapse"></a></li>
+			                		<li><a data-action="reload"></a></li>
+			                		<li><a data-action="close"></a></li>
+			                	</ul>
+		                	</div>
+						<a class="heading-elements-toggle"><i class="icon-menu"></i></a></div>
+
+						<div class="panel-body">
+							
+						</div>
+
+						<div class="dataTables_wrapper no-footer" id="DataTables_Table_2_wrapper">
+						   
+						    <div class="datatable-scroll">
+						        <table aria-describedby="DataTables_Table_2_info" role="grid" id="DataTables_Table_2" class="table table-bordered table-hover datatable-highlight dataTable no-footer">
+						            <thead>
+						                <tr role="row">
+						                    <th aria-label="First Name: activate to sort column descending" aria-sort="ascending" colspan="1" rowspan="1" aria-controls="DataTables_Table_2" tabindex="0" class="sorting_asc">Title</th>
+						                    <th aria-label="Last Name: activate to sort column ascending" colspan="1" rowspan="1" aria-controls="DataTables_Table_2" tabindex="0" class="sorting">Channel</th>
+						                    <th aria-label="Job Title: activate to sort column ascending" colspan="1" rowspan="1" aria-controls="DataTables_Table_2" tabindex="0" class="sorting">Description</th>
+						                    <th aria-label="DOB: activate to sort column ascending" colspan="1" rowspan="1" aria-controls="DataTables_Table_2" tabindex="0" class="sorting">Video id</th>
+						                    <th aria-label="Status: activate to sort column ascending" colspan="1" rowspan="1" aria-controls="DataTables_Table_2" tabindex="0" class="sorting">Status</th>
+						                    <th aria-label="Actions" style="width: 100px;" colspan="1" rowspan="1" class="text-center sorting_disabled">Actions</th>
+						                </tr>
+						            </thead>
+						            <tbody>
+
+
+								
+								
+							<tr class="odd" role="row">
+									<td class="sorting_1">Don Matteo</td>
+									<td>FUNWEEKit</td>
+									<td>Lutto in Don Matteo I fan della serie sono in rivolta http://www.funweek.it Funweek, news spensierate per vite complicate! Ogni giorno notizie ed interviste sul ...</td>
+									<td><a target=_blank href="https://www.youtube.com/watch?v=YbZ8kK79CV">YbZ8kK79CV</a></td>
+									<td><span class="label label-danger">Removed</span></td>
+									<td class="text-center">
+										<ul class="icons-list">
+											<li class="dropdown">
+												<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+													<i class="icon-menu9"></i>
+												</a>
+
+												<ul class="dropdown-menu dropdown-menu-right">
+													<li><a href="#"><i class="icon-youtube3"></i> Investiga</a></li>
+													<li><a href="#"><i class="icon-power2"></i> Segnala</a></li>
+													<li><a href="#"><i class="icon-unlink"></i> Verifica rimozione</a></li>
+												</ul>
+											</li>
+										</ul>
+									</td>
+								</tr>
+
+
+
+
+
+								<tr class="even" role="row">
+									<td class="sorting_1">Speciale Superquark-Il Caso Rasputin</td>
+									<td><a href="#"></a></td>
+									<td>Speciale Superquark-Il Caso Rasputin Elena.DF.
+</td>
+									<td><a target=_blank href="https://www.youtube.com/watch?v=ZC7oioX8_Tc">ZC7oioX8_Tc</a></td>
+									<td><span class="label label-danger">Removed</span></td>
+									<td class="text-center">
+										<ul class="icons-list">
+											<li class="dropdown">
+												<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+													<i class="icon-menu9"></i>
+												</a>
+
+												<ul class="dropdown-menu dropdown-menu-right">
+													<li><a href="#"><i class="icon-youtube3"></i> Investiga</a></li>
+													<li><a href="#"><i class="icon-power2"></i> Segnala</a></li>
+													<li><a href="#"><i class="icon-unlink"></i> Verifica rimozione</a></li>
+												</ul>
+											</li>
+										</ul>
+									</td>
+								</tr><tr class="odd" role="row">
+									<td class="sorting_1">Cromwell E La Nascita Della Democrazia Uccidete Il Re! Speciale SuperQuark By Gtc</td>
+									<td></td>
+									<td>francescadilo59</td>
+
+
+									<td><a target=_blank href="https://www.youtube.com/watch?v=VTZiwAX4jvc">VTZiwAX4jvc</a></td>
+									<td><span class="label label-success">Active</span></td>
+									<td class="text-center">
+										<ul class="icons-list">
+											<li class="dropdown">
+												<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+													<i class="icon-menu9"></i>
+												</a>
+
+												<ul class="dropdown-menu dropdown-menu-right">
+													<li><a href="#"><i class="icon-youtube3"></i> Investiga</a></li>
+													<li><a href="#"><i class="icon-power2"></i> Segnala</a></li>
+													<li><a href="#"><i class="icon-unlink"></i> Verifica rimozione</a></li>
+												</ul>
+											</li>
+										</ul>
+									</td>
+								</tr>
+
+
+
+								
+							<tr class="odd" role="row">
+									<td class="sorting_1">Don Matteo</td>
+									<td>FUNWEEKit</td>
+									<td>Lutto in Don Matteo I fan della serie sono in rivolta http://www.funweek.it Funweek, news spensierate per vite complicate! Ogni giorno notizie ed interviste sul ...</td>
+									<td><a target=_blank href="https://www.youtube.com/watch?v=YbZ8kK79CV">YbZ8kK79CV</a></td>
+									<td><span class="label label-danger">Removed</span></td>
+									<td class="text-center">
+										<ul class="icons-list">
+											<li class="dropdown">
+												<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+													<i class="icon-menu9"></i>
+												</a>
+
+												<ul class="dropdown-menu dropdown-menu-right">
+													<li><a href="#"><i class="icon-youtube3"></i> Investiga</a></li>
+													<li><a href="#"><i class="icon-power2"></i> Segnala</a></li>
+													<li><a href="#"><i class="icon-unlink"></i> Verifica rimozione</a></li>
+												</ul>
+											</li>
+										</ul>
+									</td>
+								</tr>
+
+
+
+
+
+								<tr class="even" role="row">
+									<td class="sorting_1">Viaggio alla scoperta del cervello, Speciale Superquark,Documentario completo,Documentario 2015,</td>
+									<td><a href="#"></a></td>
+									<td>Miglior Documentario vedere il nostro canale.Le storie più interessanti ed emozionanti. Il più fresco e meglio che regolarmente pubblichiamo. Iscriviti!
+</td>
+									<td><a target=_blank href="https://www.youtube.com/watch?v=73oXJu32LJ0">73oXJu32LJ0</a></td>
+									<td><span class="label label-danger">Removed</span></td>
+									<td class="text-center">
+										<ul class="icons-list">
+											<li class="dropdown">
+												<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+													<i class="icon-menu9"></i>
+												</a>
+
+												<ul class="dropdown-menu dropdown-menu-right">
+													<li><a href="#"><i class="icon-youtube3"></i> Investiga</a></li>
+													<li><a href="#"><i class="icon-power2"></i> Segnala</a></li>
+													<li><a href="#"><i class="icon-unlink"></i> Verifica rimozione</a></li>
+												</ul>
+											</li>
+										</ul>
+									</td>
+								</tr><tr class="odd" role="row">
+									<td class="sorting_1">SuperQuark Chernobyl nel buio degli anni luce Chernobyl In The Dark Of Lightyears 2006</td>
+									<td></td>
+									<td> DocumentaryVids2</td>
+
+
+									<td><a target=_blank href="https://www.youtube.com/watch?v=VTZiwAX4jvc">VTZiwAX4jvc</a></td>
+									<td><span class="label label-success">Active</span></td>
+									<td class="text-center">
+										<ul class="icons-list">
+											<li class="dropdown">
+												<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+													<i class="icon-menu9"></i>
+												</a>
+
+												<ul class="dropdown-menu dropdown-menu-right">
+													<li><a href="#"><i class="icon-youtube3"></i> Investiga</a></li>
+													<li><a href="#"><i class="icon-power2"></i> Segnala</a></li>
+													<li><a href="#"><i class="icon-unlink"></i> Verifica rimozione</a></li>
+												</ul>
+											</li>
+										</ul>
+									</td>
+								</tr>
+
+
+
+
+
+
+
+
+								<tr class="even" role="row">
+									<td class="sorting_1">Don Matteo 10 | BACKSTAGE (versione estesa)</td>
+									<td><a href="#"></a></td>
+									<td>Un altro dietro le quinte dal set della 10° serie di Don Matteo! Un gruppo davvero meraviglioso!
+</td>
+									<td><a target=_blank href="https://www.youtube.com/watch?v=OwcYDVL6NV4">OwcYDVL6NV4</a></td>
+									<td><span class="label label-danger">Removed</span></td>
+									<td class="text-center">
+										<ul class="icons-list">
+											<li class="dropdown">
+												<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+													<i class="icon-menu9"></i>
+												</a>
+
+												<ul class="dropdown-menu dropdown-menu-right">
+													<li><a href="#"><i class="icon-youtube3"></i> Investiga</a></li>
+													<li><a href="#"><i class="icon-power2"></i> Segnala</a></li>
+													<li><a href="#"><i class="icon-unlink"></i> Verifica rimozione</a></li>
+												</ul>
+											</li>
+										</ul>
+									</td>
+								</tr><tr class="odd" role="row">
+									<td class="sorting_1">Don Matteo 01x06</td>
+									<td></td>
+									<td><a href="#"></a></td>
+
+
+									<td><a target=_blank href="https://www.youtube.com/watch?v=pi4T1Mkktjs">pi4T1Mkktjs</a></td>
+									<td><span class="label label-success">Active</span></td>
+									<td class="text-center">
+										<ul class="icons-list">
+											<li class="dropdown">
+												<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+													<i class="icon-menu9"></i>
+												</a>
+
+												<ul class="dropdown-menu dropdown-menu-right">
+													<li><a href="#"><i class="icon-youtube3"></i> Investiga</a></li>
+													<li><a href="#"><i class="icon-power2"></i> Segnala</a></li>
+													<li><a href="#"><i class="icon-unlink"></i> Verifica rimozione</a></li>
+												</ul>
+											</li>
+										</ul>
+									</td>
+								</tr><tr class="even" role="row">
+									<td class="sorting_1">ALESSIO CHIODINI in- Luca Bardi- Don Matteo 8 puntata (5/4)</td>
+									<td>ALESSIOCHIODINI</td>
+									<td>Don Matteo 8 : Episodio 3 - IL RITORNO cast: Terence Hill, Nino Frassica, Simone Montedoro, Alessio Chiodini..</td>
+									<td><a target=_blank href="https://www.youtube.com/watch?v=42EXAcTS7N4">42EXAcTS7N4</a></td>
+									<td><span class="label label-success">Active</span></td>
+									<td class="text-center">
+										<ul class="icons-list">
+											<li class="dropdown">
+												<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+													<i class="icon-menu9"></i>
+												</a>
+
+												<ul class="dropdown-menu dropdown-menu-right">
+													<li><a href="#"><i class="icon-youtube3"></i> Investiga</a></li>
+													<li><a href="#"><i class="icon-power2"></i> Segnala</a></li>
+													<li><a href="#"><i class="icon-unlink"></i> Verifica rimozione</a></li>
+												</ul>
+											</li>
+										</ul>
+									</td>
+								</tr><tr class="odd" role="row">
+									<td class="sorting_1">Trailer Don Matteo 9</td>
+									<td></td>
+									<td>In esclusiva per i lettori di @donmatteodir e per tutti i fan il trailer di Don Matteo 9, che andrà in onda su Rai Uno dal 9 gennaio 2014 alle ore 21.10!!</td>
+									<td><a target=_blank href="https://www.youtube.com/watch?v=qXW8FaZb1S8">qXW8FaZb1S8</a></td>
+									<td><span class="label label-success">Active</span></td>
+									<td class="text-center">
+										<ul class="icons-list">
+											<li class="dropdown">
+												<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+													<i class="icon-menu9"></i>
+												</a>
+
+												<ul class="dropdown-menu dropdown-menu-right">
+													<li><a href="#"><i class="icon-youtube3"></i> Investiga</a></li>
+													<li><a href="#"><i class="icon-power2"></i> Segnala</a></li>
+													<li><a href="#"><i class="icon-unlink"></i> Verifica rimozione</a></li>
+												</ul>
+											</li>
+										</ul>
+									</td>
+								</tr><tr class="even" role="row">
+									<td class="sorting_1"> Don Matteo domenica in bicicletta</td>
+									<td>pataviumceo</td>
+									<td>La discesa in bicicletta di Terence Hill giù dalle scale dello studio di Domenica In, il giorno della presentazione di Don Matteo 6 con tutto il cast da Pippo Baudo.</td>
+									<td><a target=_blank href="https://www.youtube.com/watch?v=rDtmsU1-0H8">rDtmsU1-0H8</a></td>
+									<td><span class="label label-success">Active</span></td>
+									<td class="text-center">
+										<ul class="icons-list">
+											<li class="dropdown">
+												<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+													<i class="icon-menu9"></i>
+												</a>
+
+												<ul class="dropdown-menu dropdown-menu-right">
+													<li><a href="#"><i class="icon-youtube3"></i> Investiga</a></li>
+													<li><a href="#"><i class="icon-power2"></i> Segnala</a></li>
+													<li><a href="#"><i class="icon-unlink"></i> Verifica rimozione</a></li>
+												</ul>
+											</li>
+										</ul>
+									</td>
+								</tr><tr class="odd" role="row">
+									<td class="sorting_1">Don Matteo 02x13</td>
+									<td></td>
+									<td></td>
+									<td><a target=_blank href="https://www.youtube.com/watch?v=52HFeKrb8Zs">52HFeKrb8Zs</a></td>
+									<td><span class="label label-success">Active</span></td>
+									<td class="text-center">
+										<ul class="icons-list">
+											<li class="dropdown">
+												<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+													<i class="icon-menu9"></i>
+												</a>
+
+												<ul class="dropdown-menu dropdown-menu-right">
+													<li><a href="#"><i class="icon-youtube3"></i> Investiga</a></li>
+													<li><a href="#"><i class="icon-power2"></i> Segnala</a></li>
+													<li><a href="#"><i class="icon-unlink"></i> Verifica rimozione</a></li>
+												</ul>
+											</li>
+										</ul>
+									</td>
+								</tr>
+							</tbody>
+						</table></div></div>
+					</div>
+					<!-- /highlighting rows and columns -->
+
+
+					
+
+
+
+					<div class="panel panel-flat">
+						<div class="panel-heading">
+							<h5 class="panel-title">Aggiungi chiave di ricerca</h5>
+							<div class="heading-elements">
+								<ul class="icons-list">
+			                		<li><a data-action="collapse"></a></li>
+			                		<li><a data-action="reload"></a></li>
+			                		<li><a data-action="close"></a></li>
+			                	</ul>
+		                	</div>
+						<a class="heading-elements-toggle"><i class="icon-menu"></i></a></div>
+<!-- {% for query in query_list %} 			
+					{{query}}, 
+
+					{% endfor %} -->
+						<div class="panel-body">
+							<input type="text" class="form-control" id="tokenfield" value="{% for query in query_list %} 			
+					{{query}}, 
+
+					{% endfor %}
+							Anita  , Anna e Yusef   , Anna Karenina  , Atelier Fontana    , Baciato dal sole   , Barabba    ,    , Brancaccio , Butta la luna 2    , C'era una volta la città dei matti , Capri - La terza stagione  , Caruso , Casa e bottega , Cenerentola    , Cesare Mori: il Prefetto di ferro  , Che Dio ci aiuti 3 , Colpi di sole  , Con il sole negli occhi    , Coppie in attesa   , Cotti e mangiati   , Crimini 2  , Crossing lines , Cugino & Cugino    , Don Matteo 10  , Donna detective    , Donna detective 2  , Dove la trovi una come me? , E' arrivata la felicità    , Edda Ciano e il comunista  , Eroi per caso  , Francesco  , Fratelli   , Fuori  , Fuoriclasse - Capitolo terzo   , Gino Bartali l'intramontabile  , Giovanni Falcone - L'uomo che sfidò Cosa Nostra    , Gli anni spezzati  , Gli ultimi del Paradiso    , Grand Hotel    , Guerra e pace  , Ho sposato uno sbirro  , Ho sposato uno sbirro 2    , I Master di scrittura seriale di fiction   , Il bambino cattivo , Il Bene e il Male  , Il candidato   , Il Capitano    , Il Capitano 2  , Il caso Enzo Tortora   ,   , Il commissario Montalbano  , Il Commissario Nardone , Il coraggio di una donna - Rossella, capitolo secondo  , Il cuore nel pozzo , Il generale dei briganti   , Il Generale Della Rovere   , Il giovane Montalbano  , Il giudice meschino    , Il Grande Torino   , Il padre delle spose   , Il paese delle piccole piogge  , Il paradiso delle signore  , Il restauratore 2  , Il ritorno di Ulisse   , Il segreto dell'acqua  , Il signore della truffa    , Il sindaco pescatore   , Il sogno del maratoneta    , Il sorteggio   , Il veterinario , Impazienti , Io e mio figlio. Nuove storie per il commissario Vivaldi   , Io non mi arrendo  , K2 - La montagna degli italiani    , L'amore proibito   , L'angelo di Sarajevo   , L'assalto  , L'isola    , L'Olimpiade nascosta   , L'Oriana   , L'oro di Scampia   , L'ultimo Papa Re   , L'uomo che cavalcava nel buio  , L'uomo che sognava con le aquile   , La Bella e la Bestia   , La Certosa di Parma    , La dama velata , La donna che ritorna   , La donna della domenica    , La farfalla granata    , La figlia del capitano , La ladra   , La leggenda del Bandito e del Campione , La mia bella famiglia italiana , La mia casa è piena di specchi , La Nuova Squadra 2008  , La Nuova Squadra 2009  , La Nuova Squadra Spaccanapoli  , La ragazza americana   , La strada dritta   , La vita che corre  , Le cose che restano    , Le due leggi   , Le mille e una notte - Aladino e Sherazade , Le nozze di Laura  , Le ragazze dello Swing , Lea    , Limbo  , Lo scandalo della Banca Romana , Lo smemorato di Collegno   , Luisa Spagnoli , Madre, aiutami , Mai per amore  , Mannaggia alla miseria , Maria di Nazaret   , Max e Helene   , Medicina generale  , Medicina generale 2    , Mi ricordo Anna Frank  , Mia madre  , Miacarabefana.it   , Mister Ignis   , Né con te né senza di te   , Nebbie e delitti   , Nebbie e delitti 2 , Nebbie e delitti 3 , Nero Wolfe , Non avere paura - Un'amicizia con Papa Wojtyla , Non è mai troppo tardi , Non uccidere   , Notte prima degli esami '82    , Pane e Libertà , Paolo Borsellino - I 57 giorni , Paura di amare 2   , Per amore del mio popolo - Don Diana   , Pietro Mennea - La freccia del Sud , Preferisco il Paradiso , Provaci ancora Prof! 6 , Purché finisca bene    , Qualunque cosa succeda , Questo è il mio paese  , Questo nostro amore 70 , Ragion di Stato    , Rebecca la prima moglie    , Rino Gaetano - Ma il cielo è sempre più blu    , Rosso San Valentino    , Sanguepazzo    , Sant'Agostino  , Santa Barbara  , Sarò sempre tuo padre  , Sfida al cielo - La Narcotici 2    , Sissi  , Soraya , SOS Befana , Sotto copertura    , Sotto il cielo di Roma , Sposami    , Storia di Laura    , Sui tuoi passi , Suor Pascalina , Tango per la libertà   , Terra Ribelle  , Terra ribelle - Il nuovo mondo , Tiberio Mitri  , Titanic - Nascita di una leggenda  , Trilussa. Storia d'amore e di poesia   , Tutta la musica del cuore  , Tutta la verità    , Tutti i padri di Maria , Tutti pazzi per amore  , Tutti pazzi per amore 2    , Tutti pazzi per amore 3    , Tutto può succedere    , Un caso di coscienza 5 , Un matrimonio  , Un medico in famiglia 9    , Un mondo nuovo , Un passo dal cielo 3   , Un posto al sole   , Un'altra vita  , Una buona stagione , Una casa nel cuore , Una grande famiglia 3  , Una madre  , Una mamma imperfetta   , Una pallottola nel cuore   , Una sera d'ottobre , Violetta   , Virginia, la monaca di Monza   , Volare - La grande storia di Domenico Modugno  , Walter Chiari  , Zio Gianni , Zodiaco - Il libro perduto , Adriano Olivetti - La forza di un sogno" />
+					</div>
+					</div>
+
+
+
+
+
+					<!-- Footer -->
+					<div class="footer text-muted">
+						© 2015. <a href="#">Paladin 2</a> by <a href="http://www.fub.it" target="_blank">Fondazione Ugo Bordoni</a>
+					</div>
+					<!-- /footer -->
+
+				</div>
+				<!-- /content area -->
+
+			</div>
+			<!-- /main content -->
+
+			</div>
+			<!-- /main content -->
+
+		</div>
+		<!-- /page content -->
+
+	</div>
+	<!-- /page container -->
+
+
+</body>
+			{% block script %}
+			<script>
+			$('#tokenfield').tokenfield({
+  autocomplete: {
+    source: ['red','blue','green','yellow','violet','Don Matteo','purple','black','white'],
+    delay: 100
+  },
+  showAutocompleteOnFocus: true
+})
+
+
+			</script>
+  			{% endblock %}
+</html>
